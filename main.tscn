@@ -1,0 +1,57 @@
+[gd_scene load_steps=8 format=3 uid="uid://def3jpsot3qix"]
+
+[ext_resource type="Script" uid="uid://xiwr58tv21s8" path="res://scripts/main.gd" id="1_ig7tw"]
+[ext_resource type="Script" uid="uid://o21fwkyvroem" path="res://scripts/battle_state_machine.gd" id="2_0xm2m"]
+[ext_resource type="Script" uid="uid://b87krkq20jnbw" path="res://scripts/battle_controller.gd" id="2_lquwl"]
+[ext_resource type="Script" uid="uid://jpwanqx1dyuc" path="res://scripts/turn_start.gd" id="3_h2yge"]
+[ext_resource type="Script" uid="uid://dctad3fjbyh70" path="res://scripts/pick_move.gd" id="4_1bvp3"]
+[ext_resource type="PackedScene" uid="uid://c2jqx7jg7k8g1" path="res://slot.tscn" id="6_7mycd"]
+[ext_resource type="PackedScene" uid="uid://bwfijbcdbnmf5" path="res://move_choose.tscn" id="7_272bh"]
+
+[node name="BattleScene" type="Node2D"]
+script = ExtResource("1_ig7tw")
+
+[node name="BattleController" type="Node" parent="."]
+script = ExtResource("2_lquwl")
+
+[node name="BattleStateMachine" type="Node" parent="BattleController"]
+script = ExtResource("2_0xm2m")
+
+[node name="TurnStart" type="Node" parent="BattleController/BattleStateMachine"]
+script = ExtResource("3_h2yge")
+
+[node name="PickMove" type="Node" parent="BattleController/BattleStateMachine"]
+script = ExtResource("4_1bvp3")
+
+[node name="UI" type="CanvasLayer" parent="."]
+
+[node name="PlayerSlot" parent="UI" instance=ExtResource("6_7mycd")]
+anchor_left = 0.233507
+anchor_top = 0.489198
+anchor_right = 0.442708
+anchor_bottom = 0.891975
+
+[node name="TrainerSlot" parent="UI" instance=ExtResource("6_7mycd")]
+anchor_left = 0.510417
+anchor_top = 0.111111
+anchor_right = 0.721354
+anchor_bottom = 0.513889
+
+[node name="MoveChoose" parent="UI" instance=ExtResource("7_272bh")]
+anchors_preset = -1
+anchor_left = 0.654514
+anchor_top = 0.725309
+anchor_right = 0.99132
+anchor_bottom = 0.987654
+grow_horizontal = 1
+grow_vertical = 1
+metadata/_edit_use_anchors_ = true
+
+[node name="display" type="RichTextLabel" parent="UI"]
+anchors_preset = -1
+anchor_left = 0.293403
+anchor_top = 0.0416667
+anchor_right = 0.584201
+anchor_bottom = 0.103395
+text = "click q to start battle"
+metadata/_edit_use_anchors_ = true

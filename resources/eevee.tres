@@ -1,0 +1,17 @@
+[gd_resource type="Resource" script_class="Pokemon" load_steps=5 format=3 uid="uid://ddba60tee8xo6"]
+
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_c2c7c"]
+[ext_resource type="Resource" uid="uid://5nnoxxsjnftm" path="res://resources/tackle.tres" id="1_cv2iv"]
+[ext_resource type="Script" uid="uid://uyn1i3ws3tdd" path="res://scripts/pokemon.gd" id="2_cv2iv"]
+[ext_resource type="Texture2D" uid="uid://c6xhq714poma7" path="res://images/eevee.png" id="4_8dpgc"]
+
+[resource]
+script = ExtResource("2_cv2iv")
+name = "Eevee"
+_hp_stat = 7
+_atk_stat = 6
+_def_stat = 20
+movepool = Array[ExtResource("1_c2c7c")]([ExtResource("1_cv2iv")])
+move1 = ExtResource("1_cv2iv")
+texture = ExtResource("4_8dpgc")
+metadata/_custom_type_script = "uid://uyn1i3ws3tdd"

@@ -1,0 +1,17 @@
+[gd_resource type="Resource" script_class="Pokemon" load_steps=5 format=3 uid="uid://drws0pynre3dw"]
+
+[ext_resource type="Resource" uid="uid://5nnoxxsjnftm" path="res://resources/tackle.tres" id="1_twfn6"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="2_mllsd"]
+[ext_resource type="Script" uid="uid://uyn1i3ws3tdd" path="res://scripts/pokemon.gd" id="3_0x8xc"]
+[ext_resource type="Texture2D" uid="uid://d205gm0m4kmj1" path="res://images/pikachu.jpg" id="4_mllsd"]
+
+[resource]
+script = ExtResource("3_0x8xc")
+name = "Pikachu"
+_hp_stat = 10
+_atk_stat = 20
+_def_stat = 5
+movepool = Array[ExtResource("2_mllsd")]([ExtResource("1_twfn6")])
+move1 = ExtResource("1_twfn6")
+texture = ExtResource("4_mllsd")
+metadata/_custom_type_script = "uid://uyn1i3ws3tdd"
