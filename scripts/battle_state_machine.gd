@@ -1,9 +1,8 @@
 class_name BattleStateMachine extends Node
 
-var active_pokemon: Array[Pokemon] = []
-
 var current_state: BattleState
 @onready var TurnStartState: BattleState = $"TurnStart"
+@onready var PickMoveState: BattleState = $"PickMove"
 
 func _ready() -> void:
 	set_process(false)
@@ -23,4 +22,5 @@ func change_state(state: BattleState) -> void:
 
 
 func _process(delta: float) -> void:
-	current_state.update(delta, {"on_field": active_pokemon})
+	pass
+	#current_state.update(delta, {"on_field": active_pokemon})

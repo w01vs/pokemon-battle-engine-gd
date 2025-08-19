@@ -1,8 +1,6 @@
-[gd_scene load_steps=3 format=3 uid="uid://c2jqx7jg7k8g1"]
+[gd_scene load_steps=2 format=3 uid="uid://c2jqx7jg7k8g1"]
 
 [ext_resource type="Script" uid="uid://cjkbgavu40bon" path="res://scripts/slot.gd" id="1_c24ra"]
-
-[sub_resource type="CanvasTexture" id="CanvasTexture_c24ra"]
 
 [node name="Slot" type="Control"]
 layout_mode = 3
@@ -23,20 +21,11 @@ autowrap_mode = 0
 vertical_alignment = 1
 metadata/_edit_use_anchors_ = true
 
-[node name="TextureRect" type="TextureRect" parent="."]
-layout_mode = 1
-anchors_preset = -1
-anchor_top = 0.153257
-anchor_right = 1.0
-anchor_bottom = 1.00383
-texture = SubResource("CanvasTexture_c24ra")
-expand_mode = 2
-metadata/_edit_use_anchors_ = true
-
 [node name="hp" type="RichTextLabel" parent="."]
 layout_mode = 0
 anchor_left = 0.995868
 anchor_top = 0.153257
 anchor_right = 1.40496
 anchor_bottom = 0.306513
+text = "2 / 4"
 metadata/_edit_use_anchors_ = true

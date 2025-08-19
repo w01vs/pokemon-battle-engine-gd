@@ -1,19 +1,41 @@
 class_name BattleController extends Node
 
-@onready var player_slot: Control = $"../UI/PlayerSlot"
-@onready var trainer_slot: Control = $"../UI/TrainerSlot"
+var _player_1: Trainer
+var _player_2: Trainer
 
+var active_pokemon_p1: Pokemon
+var active_pokemon_p2: Pokemon
 
+enum WEATHER { RAIN, SNOW, SUN, SAND, NONE }
+
+enum TERRAIN { ELECTRIC, GRASSY, MISTY, PSYCHIC, NONE}
+
+var terrain: TERRAIN = TERRAIN.NONE
+var weather: WEATHER = WEATHER.NONE
+
+enum UI {SLOT1, SLOT2}
+# SLOT1 = PLAYER
+# SLOT2 = OPPONENT
+
+signal pokemon_hp_changed(hp: int, slot: UI)
+signal pokemon_swap(pokemon: String, slot: UI)
+
+func initialise(player_1: Trainer, player_2: Trainer) -> void:
+	_player_1 = player_1
+	_player_2 = player_2
+	active_pokemon_p1 = _player_1.get_active_pokemon()
+	active_pokemon_p2 = _player_2.get_active_pokemon()
 
 func start(player: Trainer, opponent: Trainer) -> void:
-	# throw out pokemon player
-	player_slot.rect.texture = player.get_active_pokemon().texture
-	player_slot.label.text = player.get_active_pokemon().name
-	player_slot.set_max_hp(player.get_active_pokemon().hp)
-	player_slot.set_hp(player.get_active_pokemon().hp)
-	# throw out pokemon opponent
-	trainer_slot.rect.texture = opponent.get_active_pokemon().texture
-	trainer_slot.label.text = opponent.get_active_pokemon().name
-	trainer_slot.set_max_hp(opponent.get_active_pokemon().hp)
-	trainer_slot.set_hp(opponent.get_active_pokemon().hp)
+	# throw out pokemon
+	set_active_pokemon(UI.SLOT1, _player_1.get_active_pokemon())
+	set_active_pokemon(UI.SLOT2, _player_2.get_active_pokemon())
 	# move to turnstart
+
+
+func set_active_pokemon(slot: UI, pokemon: Pokemon) -> void:
+	match slot:
+		UI.SLOT1:
+			active_pokemon_p1 = pokemon
+		UI.SLOT2:
+			active_pokemon_p2 = pokemon
