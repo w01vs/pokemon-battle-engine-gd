@@ -1,7 +1,6 @@
 extends Node2D
 
 @onready var display: RichTextLabel = $"UI/display"
-@onready var BSM: BattleStateMachine = $"BattleController/BattleStateMachine"
 
 var trainer = preload("res://resources/test_trainer.tres")
 var player = preload("res://resources/player.tres")
@@ -13,6 +12,6 @@ func _ready() -> void:
 			pokemon.hp = pokemon._hp_stat
 
 func _physics_process(delta: float) -> void:
-	if Input.is_action_just_pressed("start") and !BSM.is_processing():
+	if Input.is_action_just_pressed("start") and battle_controller._state == BattleController.BattleState.BATTLE_START:
 		battle_controller.start(player, trainer)
 		display.text = "battling...."

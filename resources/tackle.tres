@@ -6,4 +6,6 @@
 script = ExtResource("1_kpkmb")
 power = 5
 priority = 0
+max_power_points = 35
+type = 12
 metadata/_custom_type_script = "uid://b8k4xlbvnaucc"

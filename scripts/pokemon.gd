@@ -5,6 +5,8 @@ class_name Pokemon extends Resource
 @export var _hp_stat: int
 @export var _atk_stat: int
 @export var _def_stat: int
+@export var _primary_type: Global.Type
+@export var _secondary_type: Global.Type
 
 var hp: int
 
