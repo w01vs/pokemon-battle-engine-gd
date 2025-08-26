@@ -4,8 +4,26 @@
 
 [resource]
 script = ExtResource("1_kpkmb")
+id = 0
+name = ""
 power = 5
-priority = 0
-max_power_points = 35
+accuracy = 100
+priority = 2
+pp = 0
 type = 12
+target = 1
+ailment = {}
+damage_type = 1
+crit_rate = 3
+drain = 4
+flinch_chance = 4
+healing = 5
+max_hits = -1
+max_turns = 5
+min_hits = 5
+min_turns = 0
+stat_chance = 4
+stat_changes = Array[Dictionary]([{}])
+completed = false
+unique_effect = false
 metadata/_custom_type_script = "uid://b8k4xlbvnaucc"

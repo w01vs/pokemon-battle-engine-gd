@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://scripts/move.gd" id="1_eyssd"]
+
+[resource]
+script = ExtResource("1_eyssd")
+id = 852
+name = "axe-kick"
+power = 120
+accuracy = 90
+priority = 0
+pp = 10
+type = 5
+target = 3
+ailment = {}
+damage_type = 1
+crit_rate = 0
+drain = 0
+flinch_chance = 0
+healing = 0
+max_hits = 0
+max_turns = 0
+min_hits = 0
+min_turns = 0
+stat_chance = 0
+stat_changes = Array[Dictionary]([])
+completed = false
+unique_effect = false

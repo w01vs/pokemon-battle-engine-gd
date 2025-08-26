@@ -1,0 +1,40 @@
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://scripts/move.gd" id="1_x4vux"]
+
+[resource]
+script = ExtResource("1_x4vux")
+id = 556
+name = "v-create"
+power = 180
+accuracy = 95
+priority = 0
+pp = 5
+type = 6
+target = 3
+ailment = {
+"ailment": 0,
+"ailment_chance": 0
+}
+damage_type = 1
+crit_rate = 0
+drain = 0
+flinch_chance = 0
+healing = 0
+max_hits = -1
+max_turns = -1
+min_hits = -1
+min_turns = -1
+stat_chance = 100
+stat_changes = Array[Dictionary]([{
+"change": -1,
+"stat": 1
+}, {
+"change": -1,
+"stat": 2
+}, {
+"change": -1,
+"stat": 3
+}])
+completed = false
+unique_effect = false

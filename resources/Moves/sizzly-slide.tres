@@ -1,0 +1,31 @@
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://scripts/move.gd" id="1_p4iy4"]
+
+[resource]
+script = ExtResource("1_p4iy4")
+id = 734
+name = "sizzly-slide"
+power = 60
+accuracy = 100
+priority = 0
+pp = 20
+type = 6
+target = 3
+ailment = {
+"ailment": 4,
+"ailment_chance": 100
+}
+damage_type = 1
+crit_rate = 0
+drain = 0
+flinch_chance = 0
+healing = 0
+max_hits = -1
+max_turns = -1
+min_hits = -1
+min_turns = -1
+stat_chance = 0
+stat_changes = Array[Dictionary]([])
+completed = false
+unique_effect = false

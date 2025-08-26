@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://scripts/move.gd" id="1_v1ybp"]
+
+[resource]
+script = ExtResource("1_v1ybp")
+id = 848
+name = "lunar-blessing"
+power = 0
+accuracy = -1
+priority = 0
+pp = 5
+type = 14
+target = 2
+ailment = {}
+damage_type = 2
+crit_rate = 0
+drain = 0
+flinch_chance = 0
+healing = 0
+max_hits = 0
+max_turns = 0
+min_hits = 0
+min_turns = 0
+stat_chance = 0
+stat_changes = Array[Dictionary]([])
+completed = false
+unique_effect = false
