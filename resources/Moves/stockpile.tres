@@ -1,6 +1,6 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://6l8l2x2gfbe8"]
 
-[ext_resource type="Script" path="res://scripts/move.gd" id="1_c10bd"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_c10bd"]
 
 [resource]
 script = ExtResource("1_c10bd")
@@ -13,8 +13,8 @@ pp = 20
 type = 12
 target = 7
 ailment = {
-"ailment": 0,
-"ailment_chance": 0
+"ailment": 0.0,
+"ailment_chance": 0.0
 }
 damage_type = 2
 crit_rate = 0
@@ -26,12 +26,13 @@ max_turns = -1
 min_hits = -1
 min_turns = -1
 stat_chance = 0
-stat_changes = Array[Dictionary]([{
-"change": 1,
-"stat": 1
+stat_changes = [{
+"change": 1.0,
+"stat": 1.0
 }, {
-"change": 1,
-"stat": 2
-}])
+"change": 1.0,
+"stat": 2.0
+}]
 completed = false
-unique_effect = false
+unique_effect = true
+move_type = 13

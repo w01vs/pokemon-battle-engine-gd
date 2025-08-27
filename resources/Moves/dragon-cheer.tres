@@ -1,6 +1,6 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bpwu53i4vq6rh"]
 
-[ext_resource type="Script" path="res://scripts/move.gd" id="1_jhkod"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_jhkod"]
 
 [resource]
 script = ExtResource("1_jhkod")
@@ -22,7 +22,10 @@ max_hits = 0
 max_turns = 0
 min_hits = 0
 min_turns = 0
-stat_chance = 0
-stat_changes = Array[Dictionary]([])
+stat_chance = 100
+stat_changes = [{
+"change": 1
+}]
 completed = false
 unique_effect = false
+move_type = 0

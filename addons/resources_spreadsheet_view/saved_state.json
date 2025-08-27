@@ -1,0 +1,92 @@
+{
+  "column_properties": {
+    "res://resources/Moves/": {
+      "accuracy": {
+        "visibility": 0.0
+      },
+      "ailment": {
+        "visibility": 0.0
+      },
+      "completed": {
+        "visibility": 1.0
+      },
+      "crit_rate": {
+        "visibility": 0.0
+      },
+      "damage_type": {
+        "visibility": 1
+      },
+      "drain": {
+        "visibility": 0.0
+      },
+      "flinch_chance": {
+        "visibility": 0.0
+      },
+      "healing": {
+        "visibility": 0.0
+      },
+      "id": {
+        "visibility": 0.0
+      },
+      "max_hits": {
+        "visibility": 0.0
+      },
+      "max_turns": {
+        "visibility": 0.0
+      },
+      "metadata/_custom_type_script": {
+        "visibility": 0.0
+      },
+      "min_hits": {
+        "visibility": 0.0
+      },
+      "min_turns": {
+        "visibility": 0.0
+      },
+      "name": {
+        "visibility": 1.0
+      },
+      "power": {
+        "visibility": 0.0
+      },
+      "pp": {
+        "visibility": 0.0
+      },
+      "priority": {
+        "visibility": 0.0
+      },
+      "resource_local_to_scene": {
+        "visibility": 0.0
+      },
+      "resource_name": {
+        "visibility": 0.0
+      },
+      "resource_path": {
+        "visibility": 0
+      },
+      "stat_chance": {
+        "visibility": 0.0
+      },
+      "stat_changes": {
+        "visibility": 0.0
+      },
+      "target": {
+        "visibility": 0.0
+      },
+      "type": {
+        "visibility": 1.0
+      }
+    }
+  },
+  "recent_paths": [
+    "res://resources/Moves/"
+  ],
+  "table_functions": {
+    "filter": [
+      "return true"
+    ],
+    "process": [
+      "return value"
+    ]
+  }
+}

@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c62i43gc4h6ih"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://ij2y4efxmtef"]
 
 [ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_i8bgj"]
 
@@ -23,6 +23,7 @@ max_turns = 0
 min_hits = 0
 min_turns = 0
 stat_chance = 0
-stat_changes = Array[Dictionary]([])
+stat_changes = []
 completed = false
 unique_effect = true
+move_type = 0

@@ -1,6 +1,6 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://blaqdhddnyv20"]
 
-[ext_resource type="Script" path="res://scripts/move.gd" id="1_cx5tj"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_cx5tj"]
 
 [resource]
 script = ExtResource("1_cx5tj")
@@ -14,7 +14,7 @@ type = 9
 target = 3
 ailment = {}
 damage_type = 1
-crit_rate = 0
+crit_rate = 6
 drain = 0
 flinch_chance = 0
 healing = 0
@@ -23,6 +23,7 @@ max_turns = 0
 min_hits = 0
 min_turns = 0
 stat_chance = 0
-stat_changes = Array[Dictionary]([])
+stat_changes = []
 completed = false
 unique_effect = false
+move_type = 0

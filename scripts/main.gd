@@ -10,6 +10,7 @@ func _ready() -> void:
 	for team in [trainer, player]:
 		for pokemon in team.team:
 			pokemon.hp = pokemon._hp_stat
+	ResourceGenerator.update_moves_jsontoresource()
 
 func _physics_process(delta: float) -> void:
 	if Input.is_action_just_pressed("start") and battle_controller._state == BattleController.BattleState.BATTLE_START:

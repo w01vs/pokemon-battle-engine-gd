@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cmmnl6dukn2pm"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cs4ksafyiwlko"]
 
 [ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ndeju"]
 
@@ -13,8 +13,8 @@ pp = 15
 type = 3
 target = 0
 ailment = {
-"ailment": 1,
-"ailment_chance": 30
+"ailment": 1.0,
+"ailment_chance": 30.0
 }
 damage_type = 0
 crit_rate = 0
@@ -26,6 +26,7 @@ max_turns = -1
 min_hits = -1
 min_turns = -1
 stat_chance = 0
-stat_changes = Array[Dictionary]([])
-completed = true
+stat_changes = []
+completed = false
 unique_effect = false
+move_type = 4

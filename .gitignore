@@ -10,9 +10,6 @@ bin/
 obj/
 
 
-## godot addons
-addons/
-
 ### Emacs ###
 # -*- mode: gitignore; -*-
 *~

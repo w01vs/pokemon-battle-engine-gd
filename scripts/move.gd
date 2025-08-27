@@ -19,6 +19,7 @@ class_name Move extends Resource
 @export var min_hits: int
 @export var min_turns: int
 @export var stat_chance: int
-@export var stat_changes: Array[Dictionary] # { Global.Stat: int }
+@export var stat_changes: Array # Array[Dictionary] { Global.Stat: int }
 @export var completed: bool
 @export var unique_effect: bool
+@export var move_type: Global.MoveType
