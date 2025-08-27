@@ -14,7 +14,7 @@
         "visibility": 0.0
       },
       "damage_type": {
-        "visibility": 1
+        "visibility": 1.0
       },
       "drain": {
         "visibility": 0.0
@@ -62,7 +62,7 @@
         "visibility": 0.0
       },
       "resource_path": {
-        "visibility": 0
+        "visibility": 0.0
       },
       "stat_chance": {
         "visibility": 0.0

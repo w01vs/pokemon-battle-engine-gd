@@ -30,7 +30,7 @@ config/icon="res://icon.svg"
 
 [editor_plugins]
 
-enabled=PackedStringArray("res://addons/resources_spreadsheet_view/plugin.cfg", "res://addons/type_enforcer/plugin.cfg")
+enabled=PackedStringArray("res://addons/pokeclone-json-data/plugin.cfg", "res://addons/resources_spreadsheet_view/plugin.cfg", "res://addons/type_enforcer/plugin.cfg")
 
 [input]
 

@@ -6,7 +6,7 @@ var last_errors: Array[String] = []
 var editor_interface: EditorInterface
 
 var original_run_function: Callable
-var my_custom_dock: Control
+
 
 func _enter_tree() -> void:
 	# Access the file system and check the scripts when the plugin is loaded
@@ -14,64 +14,17 @@ func _enter_tree() -> void:
 	check_all_scripts()
 	# Optional: add a toolbar button
 	add_tool_menu_item("Check Typed Scripts", _on_check_scripts)
+
 	resource_saved.connect(_on_resource_saved)
-	# This function is called when the plugin is enabled.
-	# Create the main control for our dock.
-	my_custom_dock = Control.new()
-	my_custom_dock.name = "JSON Data"
-	var button_container = VBoxContainer.new()
-	button_container.size_flags_horizontal = Control.SIZE_EXPAND_FILL
-	button_container.size_flags_vertical = Control.SIZE_EXPAND_FILL
-	# Create a button and set its properties.
-	
-	var json_read_moves = Button.new()
-	json_read_moves.text = "Load moves from JSON"
-	json_read_moves.size_flags_horizontal = Control.SIZE_EXPAND_FILL
-	
-	var json_write_moves = Button.new()
-	json_write_moves.text = "Write moves to JSON"
-	json_write_moves.size_flags_horizontal = Control.SIZE_EXPAND_FILL
-	
-	var json_read_moves_pokeapi = Button.new()
-	json_read_moves_pokeapi.text = "Load moves from PokeAPI JSON"
-	json_read_moves_pokeapi.size_flags_horizontal = Control.SIZE_EXPAND_FILL
-	json_read_moves_pokeapi.disabled = true
 
-	json_write_moves.connect("pressed", Callable(self, "_on_json_write_moves"))
-	json_read_moves.connect("pressed", Callable(self, "_on_json_read_moves"))
-	json_read_moves_pokeapi.connect("pressed", Callable(self, "_on_json_read_pokeapi"))
-	
-	button_container.add_child(json_write_moves)
-	button_container.add_child(json_read_moves)
-	button_container.add_child(json_read_moves_pokeapi)
-	
-	my_custom_dock.add_child(button_container)
 
-	add_control_to_dock(DOCK_SLOT_LEFT_BR, my_custom_dock)
-
-func _on_json_read_moves() -> void:
-	ResourceGenerator.update_moves_jsontoresource()
-	print("Finished loading move data from Godot JSON")
-
-func _on_json_read_pokeapi() -> void:
-	ResourceGenerator.load_moves_pokeapi()
-	print("Finished loading move data from PokeAPI JSON")
-
-func _on_json_write_moves():
-	ResourceGenerator.update_move_resourcetojson()
-	print("Finished storing move data in Godot JSON")
-	
 func _exit_tree() -> void:
 	# Remove toolbar item when the plugin is unloaded
 	remove_tool_menu_item("Check Typed Scripts")
-	# This function is called when the plugin is disabled.
-	# It's important to clean up and remove the control from the editor.
-	remove_control_from_docks(my_custom_dock)
-	my_custom_dock.free()
 
 
 func _on_resource_saved(res: Resource) -> void:
-	if res is GDScript and not res.resource_path.begins_with("res://addons") and not res.resource_path.begins_with("res://example"):
+	if res is GDScript and not res.resource_path.begins_with("res://addons"):
 		_check_script(res)
 
 
@@ -101,7 +54,7 @@ func _get_all_gd_scripts(folder: String) -> Array:
 	while file != "":
 		var full_path: String = folder.path_join(file)
 		if dir.current_is_dir():
-			if full_path.begins_with("res://addons") or full_path.begins_with("res://example"):  # Skip addon directories
+			if full_path.begins_with("res://addons"):  # Skip addon directories
 				file = dir.get_next()
 				continue
 			# Recursively process subdirectories
