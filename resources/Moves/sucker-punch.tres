@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dqv5gl8mbfdqu"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://2j6ctro8xek4"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_rnsjk"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_hk5ec"]
 
 [resource]
-script = ExtResource("1_rnsjk")
+script = ExtResource("1_hk5ec")
 id = 388
 name = "sucker-punch"
 power = 70

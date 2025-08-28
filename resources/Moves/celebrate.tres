@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c42500sxhb25s"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dlb4anj8k5v7w"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_cmkrm"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_h0l70"]
 
 [resource]
-script = ExtResource("1_cmkrm")
+script = ExtResource("1_h0l70")
 id = 605
 name = "celebrate"
 power = -1

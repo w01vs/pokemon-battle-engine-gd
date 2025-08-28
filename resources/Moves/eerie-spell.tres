@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bx7t554w5oiib"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c31o4wmvbil8k"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_oi0v4"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_kqvit"]
 
 [resource]
-script = ExtResource("1_oi0v4")
+script = ExtResource("1_kqvit")
 id = 825
 name = "eerie-spell"
 power = 80

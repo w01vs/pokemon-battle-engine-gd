@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cg0351evgl33o"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c1tha5wkwjj70"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_qujf4"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_wxx75"]
 
 [resource]
-script = ExtResource("1_qujf4")
+script = ExtResource("1_wxx75")
 id = 777
 name = "drum-beating"
 power = 80

@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bqjycpucu8ji8"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b5b83occdt05o"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_3auwj"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_2yuy7"]
 
 [resource]
-script = ExtResource("1_3auwj")
+script = ExtResource("1_2yuy7")
 id = 786
 name = "apple-acid"
 power = 80

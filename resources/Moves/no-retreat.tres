@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://pft0f5tnlb7g"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c0tywwnodqd4a"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_oc3js"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_1alh1"]
 
 [resource]
-script = ExtResource("1_oc3js")
+script = ExtResource("1_1alh1")
 id = 747
 name = "no-retreat"
 power = -1

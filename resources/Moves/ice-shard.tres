@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://banepggunm0ek"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dya35a2uvb28"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ipijg"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_eqfqm"]
 
 [resource]
-script = ExtResource("1_ipijg")
+script = ExtResource("1_eqfqm")
 id = 419
 name = "ice-shard"
 power = 40

@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c10tyi0sqgep0"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dhap3jesfccit"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_h1sv7"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_baccm"]
 
 [resource]
-script = ExtResource("1_h1sv7")
+script = ExtResource("1_baccm")
 id = 257
 name = "hail"
 power = -1

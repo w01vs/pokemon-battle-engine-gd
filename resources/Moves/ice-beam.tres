@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://db1jcqmsdw8qf"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dcn4n7n8rflgo"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_plly0"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_rthu7"]
 
 [resource]
-script = ExtResource("1_plly0")
+script = ExtResource("1_rthu7")
 id = 57
 name = "ice-beam"
 power = 90

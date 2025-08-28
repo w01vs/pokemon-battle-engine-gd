@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://d4hlobjdn8vea"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dtda8ddhlxs8q"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_0q3xc"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_jl6tv"]
 
 [resource]
-script = ExtResource("1_0q3xc")
+script = ExtResource("1_jl6tv")
 id = 249
 name = "whirlpool"
 power = 35

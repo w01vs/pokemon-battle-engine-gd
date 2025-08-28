@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cmreyhn6tegs4"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://pflwf4qacj38"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_oi335"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_aw0fm"]
 
 [resource]
-script = ExtResource("1_oi335")
+script = ExtResource("1_aw0fm")
 id = 817
 name = "surging-strikes"
 power = 25

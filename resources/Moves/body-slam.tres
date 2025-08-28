@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://2s3rjhvmj5ex"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c1ue48arhbyim"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_021i3"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_m7hfl"]
 
 [resource]
-script = ExtResource("1_021i3")
+script = ExtResource("1_m7hfl")
 id = 33
 name = "body-slam"
 power = 85

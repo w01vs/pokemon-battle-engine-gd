@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dcj5dyak5rj82"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dmdjh1x7unhjo"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_mhpff"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_6y0f4"]
 
 [resource]
-script = ExtResource("1_mhpff")
+script = ExtResource("1_6y0f4")
 id = 795
 name = "steel-beam"
 power = 140

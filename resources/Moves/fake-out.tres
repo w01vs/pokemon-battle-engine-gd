@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bv7jsml8lr1x1"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://r012065u4xc0"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_65dkc"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_3m4jt"]
 
 [resource]
-script = ExtResource("1_65dkc")
+script = ExtResource("1_3m4jt")
 id = 251
 name = "fake-out"
 power = 40

@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dvekm4b517h12"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://twucry8gppnu"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_6ut0u"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_pot24"]
 
 [resource]
-script = ExtResource("1_6ut0u")
+script = ExtResource("1_pot24")
 id = 686
 name = "core-enforcer"
 power = 100

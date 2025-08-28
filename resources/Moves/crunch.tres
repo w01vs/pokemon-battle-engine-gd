@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bm5ky3yiejbqf"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://jymaxfsp0kal"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_bun4a"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_04o6h"]
 
 [resource]
-script = ExtResource("1_bun4a")
+script = ExtResource("1_04o6h")
 id = 241
 name = "crunch"
 power = 80

@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://gvvbl0cws8c8"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dypdcb7c8lawm"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_g34d2"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_wxy1k"]
 
 [resource]
-script = ExtResource("1_g34d2")
+script = ExtResource("1_wxy1k")
 id = 333
 name = "iron-defense"
 power = -1

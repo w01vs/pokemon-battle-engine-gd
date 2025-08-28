@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dcxd5x6mvoy6h"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bwbvr0dydtq0a"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_pejhl"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_cnyjk"]
 
 [resource]
-script = ExtResource("1_pejhl")
+script = ExtResource("1_cnyjk")
 id = 146
 name = "spore"
 power = -1

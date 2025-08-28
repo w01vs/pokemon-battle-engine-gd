@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dfgismmqgi5xh"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c52q5h6m6nb02"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_7wgnc"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_2o2lj"]
 
 [resource]
-script = ExtResource("1_7wgnc")
+script = ExtResource("1_2o2lj")
 id = 741
 name = "double-iron-bash"
 power = 60

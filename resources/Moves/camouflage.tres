@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c2h6mfso2gpm2"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://da0qonyu7iyu2"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_3ua5v"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_u4aed"]
 
 [resource]
-script = ExtResource("1_3ua5v")
+script = ExtResource("1_u4aed")
 id = 292
 name = "camouflage"
 power = -1

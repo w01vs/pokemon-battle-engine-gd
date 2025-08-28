@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cdi7n7x8avi0m"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c4tsiyy1pbtob"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_r4v5y"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_1oofv"]
 
 [resource]
-script = ExtResource("1_r4v5y")
+script = ExtResource("1_1oofv")
 id = 551
 name = "fiery-dance"
 power = 80

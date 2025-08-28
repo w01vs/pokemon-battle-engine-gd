@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://0w8h8t5dqcp3"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://xemxg3bu54og"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_gte8d"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_v528w"]
 
 [resource]
-script = ExtResource("1_gte8d")
+script = ExtResource("1_v528w")
 id = 62
 name = "hyper-beam"
 power = 150

@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://blamnhfwiuaap"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://rg1q7o5pksck"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_3d0ng"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_jitoy"]
 
 [resource]
-script = ExtResource("1_3d0ng")
+script = ExtResource("1_jitoy")
 id = 164
 name = "struggle"
 power = 50
@@ -28,5 +28,5 @@ min_turns = -1
 stat_chance = 0
 stat_changes = []
 completed = false
-unique_effect = false
+unique_effect = true
 move_type = 0

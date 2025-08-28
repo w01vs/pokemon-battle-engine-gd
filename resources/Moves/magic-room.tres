@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cprpjrsqk4td8"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bnbx2jpweoytm"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_uo031"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_vo7uq"]
 
 [resource]
-script = ExtResource("1_uo031")
+script = ExtResource("1_vo7uq")
 id = 477
 name = "magic-room"
 power = -1

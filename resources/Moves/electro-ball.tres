@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://be3lsr10wdo5d"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dn51m0kmn1eyf"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_a8c18"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_2viaf"]
 
 [resource]
-script = ExtResource("1_a8c18")
+script = ExtResource("1_2viaf")
 id = 485
 name = "electro-ball"
 power = -1

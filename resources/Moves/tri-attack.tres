@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b5g7jjjnavgfv"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dvjj3go2gmqk"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_pnaum"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_m2ryh"]
 
 [resource]
-script = ExtResource("1_pnaum")
+script = ExtResource("1_m2ryh")
 id = 160
 name = "tri-attack"
 power = 80

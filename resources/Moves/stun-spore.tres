@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bwq7i7ydlb4dq"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b81fc73giugts"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_wowa5"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_doy8l"]
 
 [resource]
-script = ExtResource("1_wowa5")
+script = ExtResource("1_doy8l")
 id = 77
 name = "stun-spore"
 power = -1

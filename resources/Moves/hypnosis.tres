@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://wycwq0ohh437"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://y7uwcv0couqe"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_d3xt5"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_h3gss"]
 
 [resource]
-script = ExtResource("1_d3xt5")
+script = ExtResource("1_h3gss")
 id = 94
 name = "hypnosis"
 power = -1

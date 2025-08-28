@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c7nlvu10q8lim"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://o15erhyrvt8s"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_lp6x7"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_71p5v"]
 
 [resource]
-script = ExtResource("1_lp6x7")
+script = ExtResource("1_71p5v")
 id = 11
 name = "guillotine"
 power = -1

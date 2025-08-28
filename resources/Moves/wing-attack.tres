@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cr6yjte18qi23"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c3686ftawicl8"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_28psm"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_54qhm"]
 
 [resource]
-script = ExtResource("1_28psm")
+script = ExtResource("1_54qhm")
 id = 16
 name = "wing-attack"
 power = 60

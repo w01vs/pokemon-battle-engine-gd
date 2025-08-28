@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bj4a0wk6wsdb7"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dhqf4d5dv0ye"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_q0hm5"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_dysia"]
 
 [resource]
-script = ExtResource("1_q0hm5")
+script = ExtResource("1_dysia")
 id = 378
 name = "power-trick"
 power = -1

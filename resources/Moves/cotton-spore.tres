@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://byavuv6226f0i"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://du41cskxmchya"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_k2852"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_fp7gc"]
 
 [resource]
-script = ExtResource("1_k2852")
+script = ExtResource("1_fp7gc")
 id = 177
 name = "cotton-spore"
 power = -1

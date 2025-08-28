@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://fn7x2v4wqlsm"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dl3u5q7vaqmvg"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_8jk71"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_av5ph"]
 
 [resource]
-script = ExtResource("1_8jk71")
+script = ExtResource("1_av5ph")
 id = 478
 name = "smack-down"
 power = 50

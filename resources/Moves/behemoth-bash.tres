@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://clc3cykdupexw"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://br6k618rvnyj0"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ooqcc"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_m636k"]
 
 [resource]
-script = ExtResource("1_ooqcc")
+script = ExtResource("1_m636k")
 id = 781
 name = "behemoth-bash"
 power = 100

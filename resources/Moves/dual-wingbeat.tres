@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b3e2iggwp2dlh"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://csg521alhvf30"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_s2dfr"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_0pr8t"]
 
 [resource]
-script = ExtResource("1_s2dfr")
+script = ExtResource("1_0pr8t")
 id = 813
 name = "dual-wingbeat"
 power = 40

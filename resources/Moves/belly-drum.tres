@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://db6n11kc8r8w2"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://ckkuqeofv33t1"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_3tkvg"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_gwnlb"]
 
 [resource]
-script = ExtResource("1_3tkvg")
+script = ExtResource("1_gwnlb")
 id = 186
 name = "belly-drum"
 power = -1

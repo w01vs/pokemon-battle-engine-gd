@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bdwk505amcxx1"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b0r4hxobckj5d"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_oqpxu"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_xoevk"]
 
 [resource]
-script = ExtResource("1_oqpxu")
+script = ExtResource("1_xoevk")
 id = 370
 name = "payback"
 power = 50

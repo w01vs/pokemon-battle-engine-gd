@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://3ttdphs865qk"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bg2fgkflmhmqb"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_vn4nq"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_x6ofh"]
 
 [resource]
-script = ExtResource("1_vn4nq")
+script = ExtResource("1_x6ofh")
 id = 301
 name = "needle-arm"
 power = 60

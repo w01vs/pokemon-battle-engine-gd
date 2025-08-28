@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://ckxt2annx4aju"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://7expqc62pdn4"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_u2vrh"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_s51qd"]
 
 [resource]
-script = ExtResource("1_u2vrh")
+script = ExtResource("1_s51qd")
 id = 239
 name = "rain-dance"
 power = -1

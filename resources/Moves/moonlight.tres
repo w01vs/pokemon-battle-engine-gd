@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cn3w7q557rvet"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c0ygf4xqfefho"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_tp0r0"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_70s62"]
 
 [resource]
-script = ExtResource("1_tp0r0")
+script = ExtResource("1_70s62")
 id = 235
 name = "moonlight"
 power = -1

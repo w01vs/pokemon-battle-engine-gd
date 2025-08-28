@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cheehp4u12t0o"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b0sp7wbbqa4"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_pevnp"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_oo85p"]
 
 [resource]
-script = ExtResource("1_pevnp")
+script = ExtResource("1_oo85p")
 id = 803
 name = "rising-voltage"
 power = 70

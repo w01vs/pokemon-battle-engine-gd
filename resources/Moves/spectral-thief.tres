@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c2twj2ds5ix3x"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://tg68sgtpjpq2"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_utgtf"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_25boi"]
 
 [resource]
-script = ExtResource("1_utgtf")
+script = ExtResource("1_25boi")
 id = 711
 name = "spectral-thief"
 power = 90

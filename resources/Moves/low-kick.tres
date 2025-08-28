@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://btg62hwqn0wtf"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cpthy6q8011lb"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_swojo"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_dogol"]
 
 [resource]
-script = ExtResource("1_swojo")
+script = ExtResource("1_dogol")
 id = 66
 name = "low-kick"
 power = -1

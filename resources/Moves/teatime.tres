@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dweopqcmeo4an"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://ehsc6knkowdk"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_shu2s"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ypo4i"]
 
 [resource]
-script = ExtResource("1_shu2s")
+script = ExtResource("1_ypo4i")
 id = 751
 name = "teatime"
 power = -1

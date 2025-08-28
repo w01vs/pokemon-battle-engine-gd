@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://gjkcevusdivm"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dg5f1ieejjfn7"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_sptvs"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_qjlt6"]
 
 [resource]
-script = ExtResource("1_sptvs")
+script = ExtResource("1_qjlt6")
 id = 619
 name = "dragon-ascent"
 power = 120

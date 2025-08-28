@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://d1i5abaeuerm2"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bxxo4pvm0auvs"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_1lws8"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_luwjo"]
 
 [resource]
-script = ExtResource("1_1lws8")
+script = ExtResource("1_luwjo")
 id = 470
 name = "power-split"
 power = -1

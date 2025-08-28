@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://di8t81orbqmtr"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://thrkbny22bli"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_1fkax"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_7wbl6"]
 
 [resource]
-script = ExtResource("1_1fkax")
+script = ExtResource("1_7wbl6")
 id = 92
 name = "confusion"
 power = 50

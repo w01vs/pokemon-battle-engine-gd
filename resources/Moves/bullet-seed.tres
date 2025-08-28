@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bw6hn3b1di2bs"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://ijrmq1ms7ab6"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_yb778"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_5c103"]
 
 [resource]
-script = ExtResource("1_yb778")
+script = ExtResource("1_5c103")
 id = 330
 name = "bullet-seed"
 power = 25

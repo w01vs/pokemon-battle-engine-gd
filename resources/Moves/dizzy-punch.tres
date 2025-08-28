@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://12hrryqpor2s"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://6viqb5ssompg"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_mi2cd"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_wd5x6"]
 
 [resource]
-script = ExtResource("1_mi2cd")
+script = ExtResource("1_wd5x6")
 id = 145
 name = "dizzy-punch"
 power = 70

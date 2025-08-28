@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://els1uir75fe6"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bvihe3yajp2kf"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ga5c6"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_a3fpp"]
 
 [resource]
-script = ExtResource("1_ga5c6")
+script = ExtResource("1_a3fpp")
 id = 209
 name = "fury-cutter"
 power = 40

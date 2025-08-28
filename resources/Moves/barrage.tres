@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bsgkgo6c6k31m"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://00t3wab2e8x5"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_63v6e"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_n68vj"]
 
 [resource]
-script = ExtResource("1_63v6e")
+script = ExtResource("1_n68vj")
 id = 139
 name = "barrage"
 power = 15

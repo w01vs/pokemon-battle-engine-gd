@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://csi3y5q7tawm"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dm8v2y03bemma"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_1kkq6"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_xdhuw"]
 
 [resource]
-script = ExtResource("1_1kkq6")
+script = ExtResource("1_xdhuw")
 id = 162
 name = "slash"
 power = 70

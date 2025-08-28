@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cjgkxf1matvxm"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bg1y6jlaw1woh"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_tuf0y"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_i0o0u"]
 
 [resource]
-script = ExtResource("1_tuf0y")
+script = ExtResource("1_i0o0u")
 id = 793
 name = "meteor-assault"
 power = 150

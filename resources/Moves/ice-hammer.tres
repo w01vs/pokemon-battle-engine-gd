@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dnp7e8rh0tkx8"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dw8s13308d2ex"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_aoqpo"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_hshmk"]
 
 [resource]
-script = ExtResource("1_aoqpo")
+script = ExtResource("1_hshmk")
 id = 664
 name = "ice-hammer"
 power = 100

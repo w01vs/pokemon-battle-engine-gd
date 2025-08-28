@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://h5wyltmh5kxp"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cvqj12ciegafv"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_1tc07"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_f0c54"]
 
 [resource]
-script = ExtResource("1_1tc07")
+script = ExtResource("1_f0c54")
 id = 99
 name = "teleport"
 power = -1

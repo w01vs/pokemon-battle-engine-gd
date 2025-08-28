@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b8dywy6uyu670"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://ri567ej1vyn0"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_me1eo"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_hdr2i"]
 
 [resource]
-script = ExtResource("1_me1eo")
+script = ExtResource("1_hdr2i")
 id = 114
 name = "reflect"
 power = -1

@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://d2ofqm62px00e"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://ddk226rnx7bcc"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_isegt"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_vre77"]
 
 [resource]
-script = ExtResource("1_isegt")
+script = ExtResource("1_vre77")
 id = 72
 name = "leech-seed"
 power = -1

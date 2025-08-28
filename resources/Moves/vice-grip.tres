@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bl62arjk06m7"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://yccls06oxopy"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_3xayo"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_1eoec"]
 
 [resource]
-script = ExtResource("1_3xayo")
+script = ExtResource("1_1eoec")
 id = 10
 name = "vice-grip"
 power = 55

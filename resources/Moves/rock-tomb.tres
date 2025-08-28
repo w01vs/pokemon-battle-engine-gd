@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://tpi8f38sekl6"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b20q8ogug2ioo"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_2wb2q"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_fxj2p"]
 
 [resource]
-script = ExtResource("1_2wb2q")
+script = ExtResource("1_fxj2p")
 id = 316
 name = "rock-tomb"
 power = 60

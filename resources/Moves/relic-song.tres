@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://d2o721gbr5nvh"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dafrfwee37yu5"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_fuyb5"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_4b2b2"]
 
 [resource]
-script = ExtResource("1_fuyb5")
+script = ExtResource("1_4b2b2")
 id = 546
 name = "relic-song"
 power = 75

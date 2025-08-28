@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cr0kqskwwx1ik"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cok6lpilrtva2"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_5skk7"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_70ols"]
 
 [resource]
-script = ExtResource("1_5skk7")
+script = ExtResource("1_70ols")
 id = 79
 name = "petal-dance"
 power = 120

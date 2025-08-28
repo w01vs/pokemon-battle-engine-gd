@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bwxnw6xlvcnfn"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c5rx0idsrlkjq"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_3irpf"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_7r46f"]
 
 [resource]
-script = ExtResource("1_3irpf")
+script = ExtResource("1_7r46f")
 id = 376
 name = "heal-block"
 power = -1

@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cho3hli7m65lu"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cvrhyi840jvtg"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_e2y6s"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_bk3r2"]
 
 [resource]
-script = ExtResource("1_e2y6s")
+script = ExtResource("1_bk3r2")
 id = 74
 name = "razor-leaf"
 power = 55

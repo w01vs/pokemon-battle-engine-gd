@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cmwb176wmmirl"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://u40xfumre7rp"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_yjclt"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ynfpn"]
 
 [resource]
-script = ExtResource("1_yjclt")
+script = ExtResource("1_ynfpn")
 id = 449
 name = "bug-bite"
 power = 60

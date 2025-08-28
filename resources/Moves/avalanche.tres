@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dw35nmrfw5o7v"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://ceyuj8o41qmo2"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_5eur7"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_il1d4"]
 
 [resource]
-script = ExtResource("1_5eur7")
+script = ExtResource("1_il1d4")
 id = 418
 name = "avalanche"
 power = 60

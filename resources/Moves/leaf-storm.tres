@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://rc06stc11iww"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cweiw3odysyqh"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_efbx1"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ccc6q"]
 
 [resource]
-script = ExtResource("1_efbx1")
+script = ExtResource("1_ccc6q")
 id = 436
 name = "leaf-storm"
 power = 130

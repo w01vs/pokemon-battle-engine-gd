@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cjlqnjd0fr58"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bxlc8dxhwsf8m"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_27xn1"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_gqyo4"]
 
 [resource]
-script = ExtResource("1_27xn1")
+script = ExtResource("1_gqyo4")
 id = 778
 name = "snap-trap"
 power = 35

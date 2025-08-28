@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bfaq71plc5bxo"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://ci3us2v7eh7lh"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ta0sx"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ietkn"]
 
 [resource]
-script = ExtResource("1_ta0sx")
+script = ExtResource("1_ietkn")
 id = 339
 name = "bounce"
 power = 85

@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://tovm5n87qjdy"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://8ibchpytn7e2"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ao7tm"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_dxcgw"]
 
 [resource]
-script = ExtResource("1_ao7tm")
+script = ExtResource("1_dxcgw")
 id = 167
 name = "thief"
 power = 60

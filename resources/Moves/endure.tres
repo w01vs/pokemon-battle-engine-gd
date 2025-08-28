@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bvmgficol1v4m"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dbo18dqx07tbt"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_pui6s"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_qrhae"]
 
 [resource]
-script = ExtResource("1_pui6s")
+script = ExtResource("1_qrhae")
 id = 202
 name = "endure"
 power = -1

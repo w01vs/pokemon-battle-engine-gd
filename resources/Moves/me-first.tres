@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c3naxqpf2e86q"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://brqle84yc1l8p"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_lw5p6"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_m3u8k"]
 
 [resource]
-script = ExtResource("1_lw5p6")
+script = ExtResource("1_m3u8k")
 id = 381
 name = "me-first"
 power = -1

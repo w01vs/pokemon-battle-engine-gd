@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bsqo1h5nsrse4"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b48qmnvkjeynt"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_f76ih"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_dcngv"]
 
 [resource]
-script = ExtResource("1_f76ih")
+script = ExtResource("1_dcngv")
 id = 53
 name = "mist"
 power = -1

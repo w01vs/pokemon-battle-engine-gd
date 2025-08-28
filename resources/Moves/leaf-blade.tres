@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://csprdcvtd8106"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c2hk70bio664b"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ik5ed"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_lbllb"]
 
 [resource]
-script = ExtResource("1_ik5ed")
+script = ExtResource("1_lbllb")
 id = 347
 name = "leaf-blade"
 power = 90

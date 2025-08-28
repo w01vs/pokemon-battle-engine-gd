@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://drgf3g7oo2jy7"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b50vg60sbf3p7"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_u1j5s"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_m03w7"]
 
 [resource]
-script = ExtResource("1_u1j5s")
+script = ExtResource("1_m03w7")
 id = 348
 name = "dragon-dance"
 power = -1

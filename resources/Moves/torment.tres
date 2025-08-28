@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cot15a71avvea"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://3j0ane5qn8ju"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_nvbot"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_2iig7"]
 
 [resource]
-script = ExtResource("1_nvbot")
+script = ExtResource("1_2iig7")
 id = 258
 name = "torment"
 power = -1

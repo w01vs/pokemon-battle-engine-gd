@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cevchwqjgvt7a"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://nguei23gy02q"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ruasf"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_81hid"]
 
 [resource]
-script = ExtResource("1_ruasf")
+script = ExtResource("1_81hid")
 id = 140
 name = "leech-life"
 power = 80

@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cmk3n5vnw6iiw"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cmtdopq7wy2jf"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_2hwew"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_kiowm"]
 
 [resource]
-script = ExtResource("1_2hwew")
+script = ExtResource("1_kiowm")
 id = 794
 name = "eternabeam"
 power = 160

@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dp4m48uoaqwd7"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c3g7x83u8hyy1"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_xmvmm"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_w0e1d"]
 
 [resource]
-script = ExtResource("1_xmvmm")
+script = ExtResource("1_w0e1d")
 id = 585
 name = "boomburst"
 power = 140

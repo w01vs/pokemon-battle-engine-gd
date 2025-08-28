@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://drn2g8wohbrwf"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c3o8m8gog0h32"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_mqypg"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_nthvn"]
 
 [resource]
-script = ExtResource("1_mqypg")
+script = ExtResource("1_nthvn")
 id = 530
 name = "heart-stamp"
 power = 60

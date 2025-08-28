@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cx4vf4bo278g5"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bsmev51n52qq"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_fb71t"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_w3er1"]
 
 [resource]
-script = ExtResource("1_fb71t")
+script = ExtResource("1_w3er1")
 id = 424
 name = "shadow-sneak"
 power = 40

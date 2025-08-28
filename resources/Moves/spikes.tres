@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bg2sccqaninea"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b2cwvot3cbrx4"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_0di0j"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_0khrr"]
 
 [resource]
-script = ExtResource("1_0di0j")
+script = ExtResource("1_0khrr")
 id = 190
 name = "spikes"
 power = -1

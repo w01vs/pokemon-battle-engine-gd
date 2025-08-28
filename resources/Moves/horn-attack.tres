@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://k02ra7i80hwp"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cfyx11p1ko7jj"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_xkbgc"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_yd4qf"]
 
 [resource]
-script = ExtResource("1_xkbgc")
+script = ExtResource("1_yd4qf")
 id = 29
 name = "horn-attack"
 power = 65

@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dktqxu1axm2ve"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://sqyhc0t0hetb"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_uiaq8"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_268p0"]
 
 [resource]
-script = ExtResource("1_uiaq8")
+script = ExtResource("1_268p0")
 id = 536
 name = "steamroller"
 power = 65

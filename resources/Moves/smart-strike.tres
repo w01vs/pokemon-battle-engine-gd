@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://biv56qxfcxf4u"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://d0w8su8nvvvca"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_m3eyi"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_2o1qi"]
 
 [resource]
-script = ExtResource("1_m3eyi")
+script = ExtResource("1_2o1qi")
 id = 683
 name = "smart-strike"
 power = 70

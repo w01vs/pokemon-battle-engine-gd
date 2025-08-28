@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bple3eieywj26"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://crckbqw7rr88c"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ohqd5"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_7y1q1"]
 
 [resource]
-script = ExtResource("1_ohqd5")
+script = ExtResource("1_7y1q1")
 id = 37
 name = "double-edge"
 power = 120

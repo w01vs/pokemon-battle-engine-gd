@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://drng1a70vv8nr"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://2pk2blg6o0ss"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_gxdhf"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_xppyd"]
 
 [resource]
-script = ExtResource("1_gxdhf")
+script = ExtResource("1_xppyd")
 id = 318
 name = "metal-sound"
 power = -1

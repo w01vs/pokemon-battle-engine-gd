@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cfpxxh6eccsxp"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b7l43j8udswq5"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_5pwnx"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_53bt6"]
 
 [resource]
-script = ExtResource("1_5pwnx")
+script = ExtResource("1_53bt6")
 id = 672
 name = "laser-focus"
 power = -1

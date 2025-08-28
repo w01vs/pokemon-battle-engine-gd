@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bm7dsvc88rvk1"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dolguq65wsybx"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_f2eak"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_64qdh"]
 
 [resource]
-script = ExtResource("1_f2eak")
+script = ExtResource("1_64qdh")
 id = 422
 name = "ice-fang"
 power = 65

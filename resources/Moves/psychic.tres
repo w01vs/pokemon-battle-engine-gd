@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://daer77jhjhog4"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dfk2bxtx5bhsg"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_nhjt6"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_yro3k"]
 
 [resource]
-script = ExtResource("1_nhjt6")
+script = ExtResource("1_yro3k")
 id = 93
 name = "psychic"
 power = 90

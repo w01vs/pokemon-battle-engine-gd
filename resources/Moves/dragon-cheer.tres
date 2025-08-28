@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bpwu53i4vq6rh"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b25qo718kfupi"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_jhkod"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_xs7jc"]
 
 [resource]
-script = ExtResource("1_jhkod")
+script = ExtResource("1_xs7jc")
 id = 912
 name = "dragon-cheer"
 power = 0
@@ -12,20 +12,24 @@ priority = 0
 pp = 15
 type = 2
 target = 2
-ailment = {}
+ailment = {
+"ailment": 0.0,
+"ailment_chance": 0.0
+}
 damage_type = 2
 crit_rate = 0
 drain = 0
 flinch_chance = 0
 healing = 0
-max_hits = 0
-max_turns = 0
-min_hits = 0
-min_turns = 0
+max_hits = -1
+max_turns = -1
+min_hits = -1
+min_turns = -1
 stat_chance = 100
 stat_changes = [{
-"change": 1
+"change": 1.0,
+"stat": 8.0
 }]
 completed = false
-unique_effect = false
+unique_effect = true
 move_type = 0

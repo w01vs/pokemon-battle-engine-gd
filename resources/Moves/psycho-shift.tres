@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://12w0ybv2lb5m"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dsgf5ab2oyggi"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_kusbo"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_pl0fs"]
 
 [resource]
-script = ExtResource("1_kusbo")
+script = ExtResource("1_pl0fs")
 id = 374
 name = "psycho-shift"
 power = -1

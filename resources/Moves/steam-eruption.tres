@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bu20fsc70qcw"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dgnuvwg4yv6ye"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_36aky"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_qgk54"]
 
 [resource]
-script = ExtResource("1_36aky")
+script = ExtResource("1_qgk54")
 id = 591
 name = "steam-eruption"
 power = 110

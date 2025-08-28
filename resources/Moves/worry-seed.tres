@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bu23eej2k1hv6"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bhxjprtmt1lhm"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_rj6d7"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_8ub6j"]
 
 [resource]
-script = ExtResource("1_rj6d7")
+script = ExtResource("1_8ub6j")
 id = 387
 name = "worry-seed"
 power = -1

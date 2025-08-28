@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://x4bvbqi3yby6"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://by00khd43vc7r"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_thf8j"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_d8yew"]
 
 [resource]
-script = ExtResource("1_thf8j")
+script = ExtResource("1_d8yew")
 id = 552
 name = "freeze-shock"
 power = 140

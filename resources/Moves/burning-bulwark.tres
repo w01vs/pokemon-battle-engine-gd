@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://ul6kqqrmr11u"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b1xr78fux566h"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_etwfm"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ov17a"]
 
 [resource]
-script = ExtResource("1_etwfm")
+script = ExtResource("1_ov17a")
 id = 907
 name = "burning-bulwark"
 power = 0
@@ -12,16 +12,19 @@ priority = 4
 pp = 10
 type = 6
 target = 7
-ailment = {}
+ailment = {
+"ailment": 0.0,
+"ailment_chance": 0.0
+}
 damage_type = 2
 crit_rate = 0
 drain = 0
 flinch_chance = 0
 healing = 0
-max_hits = 0
-max_turns = 0
-min_hits = 0
-min_turns = 0
+max_hits = -1
+max_turns = -1
+min_hits = -1
+min_turns = -1
 stat_chance = 0
 stat_changes = []
 completed = false

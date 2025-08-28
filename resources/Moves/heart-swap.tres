@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://gdr5u70kmoph"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://d1me8spch71a1"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ydi5c"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_n84u4"]
 
 [resource]
-script = ExtResource("1_ydi5c")
+script = ExtResource("1_n84u4")
 id = 390
 name = "heart-swap"
 power = -1

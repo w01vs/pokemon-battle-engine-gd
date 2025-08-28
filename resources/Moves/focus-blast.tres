@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://baenyk2vwjstf"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dwgl8ciqw8sbx"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_68786"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_7cxjs"]
 
 [resource]
-script = ExtResource("1_68786")
+script = ExtResource("1_7cxjs")
 id = 410
 name = "focus-blast"
 power = 120

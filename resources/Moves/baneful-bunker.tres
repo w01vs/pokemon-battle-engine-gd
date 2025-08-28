@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://vh5ykt8u6vno"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cpla6hv4qabqe"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_810ov"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_0llvy"]
 
 [resource]
-script = ExtResource("1_810ov")
+script = ExtResource("1_0llvy")
 id = 660
 name = "baneful-bunker"
 power = -1

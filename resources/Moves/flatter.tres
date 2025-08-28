@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://24snn5plbf6r"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cnymgrqm2c34q"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_2yip4"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_3mpq2"]
 
 [resource]
-script = ExtResource("1_2yip4")
+script = ExtResource("1_3mpq2")
 id = 259
 name = "flatter"
 power = -1

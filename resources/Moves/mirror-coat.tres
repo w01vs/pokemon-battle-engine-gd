@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://7eyi5ubli3l7"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cxq3gmtd6xkb5"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_3x024"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ovdtf"]
 
 [resource]
-script = ExtResource("1_3x024")
+script = ExtResource("1_ovdtf")
 id = 242
 name = "mirror-coat"
 power = -1

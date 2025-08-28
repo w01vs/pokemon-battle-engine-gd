@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://67n1fkhr6ryb"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://1tm3vqurgch3"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_t4n6v"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_4me5s"]
 
 [resource]
-script = ExtResource("1_t4n6v")
+script = ExtResource("1_4me5s")
 id = 24
 name = "mega-kick"
 power = 120

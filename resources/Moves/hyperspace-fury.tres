@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b1rcr8kb3uulr"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cgwksa4cue7l3"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_5uumt"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_hjeka"]
 
 [resource]
-script = ExtResource("1_5uumt")
+script = ExtResource("1_hjeka")
 id = 620
 name = "hyperspace-fury"
 power = 100

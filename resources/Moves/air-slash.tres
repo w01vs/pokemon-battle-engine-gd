@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b0uidk73csskg"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cvbuvgqqpjhe"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_arxof"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_1ymcx"]
 
 [resource]
-script = ExtResource("1_arxof")
+script = ExtResource("1_1ymcx")
 id = 402
 name = "air-slash"
 power = 75

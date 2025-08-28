@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b630w2abngwtr"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://d1ffp06pgfrix"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_b5xuc"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_yr0bi"]
 
 [resource]
-script = ExtResource("1_b5xuc")
+script = ExtResource("1_yr0bi")
 id = 262
 name = "facade"
 power = 70

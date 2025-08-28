@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://tlok66uyjcpu"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://u16uc34nos46"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_pxo5a"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_dq7ty"]
 
 [resource]
-script = ExtResource("1_pxo5a")
+script = ExtResource("1_dq7ty")
 id = 524
 name = "dragon-tail"
 power = 60

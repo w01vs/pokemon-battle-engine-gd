@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://s66unbfoucfg"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://1tessci11om5"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_w1bay"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_sxufs"]
 
 [resource]
-script = ExtResource("1_w1bay")
+script = ExtResource("1_sxufs")
 id = 439
 name = "cross-poison"
 power = 70

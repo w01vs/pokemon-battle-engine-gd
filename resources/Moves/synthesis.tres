@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dstkruhkllsvq"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b38ycu1d5x44b"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_rq5ce"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_mvgtp"]
 
 [resource]
-script = ExtResource("1_rq5ce")
+script = ExtResource("1_mvgtp")
 id = 234
 name = "synthesis"
 power = -1

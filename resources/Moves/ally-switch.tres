@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b3jy46amvhnnr"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://ccbmileigskwl"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_bprmu"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_s6ld6"]
 
 [resource]
-script = ExtResource("1_bprmu")
+script = ExtResource("1_s6ld6")
 id = 501
 name = "ally-switch"
 power = -1

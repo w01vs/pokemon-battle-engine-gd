@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cjaoy1gbrqj5g"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dp28vpqjumct4"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_0bkeo"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_gftgl"]
 
 [resource]
-script = ExtResource("1_0bkeo")
+script = ExtResource("1_gftgl")
 id = 61
 name = "aurora-beam"
 power = 65

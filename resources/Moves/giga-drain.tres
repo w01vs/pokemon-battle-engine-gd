@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://brjtblfm2cn17"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://ctiqifyulbvhd"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_hk7l2"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_tgtx5"]
 
 [resource]
-script = ExtResource("1_hk7l2")
+script = ExtResource("1_tgtx5")
 id = 201
 name = "giga-drain"
 power = 75

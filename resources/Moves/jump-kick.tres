@@ -1,13 +1,13 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dqb3d8htwypay"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cmsquf75qatwj"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_yeput"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_gac7t"]
 
 [resource]
-script = ExtResource("1_yeput")
+script = ExtResource("1_gac7t")
 id = 25
 name = "jump-kick"
 power = 100
-accuracy = 95
+accuracy = 100
 priority = 0
 pp = 10
 type = 5

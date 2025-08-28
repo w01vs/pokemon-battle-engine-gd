@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dee8ddvcck1pm"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cpk1p6k3rddsg"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_rpa8k"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_g04wd"]
 
 [resource]
-script = ExtResource("1_rpa8k")
+script = ExtResource("1_g04wd")
 id = 126
 name = "waterfall"
 power = 80

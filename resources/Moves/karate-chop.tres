@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bpko3d2fwi0pr"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://baiqrbbmuaecy"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_odqby"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_0pxgg"]
 
 [resource]
-script = ExtResource("1_odqby")
+script = ExtResource("1_0pxgg")
 id = 1
 name = "karate-chop"
 power = 50

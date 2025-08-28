@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dotn17fhtqq57"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://m4cvq73f8oop"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_8kaem"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_y2348"]
 
 [resource]
-script = ExtResource("1_8kaem")
+script = ExtResource("1_y2348")
 id = 111
 name = "barrier"
 power = -1

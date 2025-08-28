@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://ddye3bcpoj2mk"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b2nw55fpr52lh"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_c0ahc"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_aehog"]
 
 [resource]
-script = ExtResource("1_c0ahc")
+script = ExtResource("1_aehog")
 id = 416
 name = "nasty-plot"
 power = -1

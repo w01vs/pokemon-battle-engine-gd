@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://vj62vk7seru6"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dm6uiollibu4m"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_pvtcn"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_b65er"]
 
 [resource]
-script = ExtResource("1_pvtcn")
+script = ExtResource("1_b65er")
 id = 560
 name = "mat-block"
 power = -1

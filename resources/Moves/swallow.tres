@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://oam1teavl4b5"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://exdspuhhm0t"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_gow0v"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_lkwlo"]
 
 [resource]
-script = ExtResource("1_gow0v")
+script = ExtResource("1_lkwlo")
 id = 255
 name = "swallow"
 power = -1

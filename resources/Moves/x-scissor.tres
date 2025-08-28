@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://ct0uj1tdw7nxi"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bgqqcbjn68pl1"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_cr5u4"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_h8pff"]
 
 [resource]
-script = ExtResource("1_cr5u4")
+script = ExtResource("1_h8pff")
 id = 403
 name = "x-scissor"
 power = 80

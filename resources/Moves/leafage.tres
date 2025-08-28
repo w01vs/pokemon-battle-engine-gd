@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bsdyl6p8a2tj8"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c2b2gkx72t2yf"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_xa1a5"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_s0g54"]
 
 [resource]
-script = ExtResource("1_xa1a5")
+script = ExtResource("1_s0g54")
 id = 669
 name = "leafage"
 power = 40

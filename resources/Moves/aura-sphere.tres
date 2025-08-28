@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cx0x7pii36ue4"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://y8gqyww0prib"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_r4gcm"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_dxhg1"]
 
 [resource]
-script = ExtResource("1_r4gcm")
+script = ExtResource("1_dxhg1")
 id = 395
 name = "aura-sphere"
 power = 80

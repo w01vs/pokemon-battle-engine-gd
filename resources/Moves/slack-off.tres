@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://l6635cl7cqdy"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cll88ub4aclc"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_knpae"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_8t13l"]
 
 [resource]
-script = ExtResource("1_knpae")
+script = ExtResource("1_8t13l")
 id = 302
 name = "slack-off"
 power = -1

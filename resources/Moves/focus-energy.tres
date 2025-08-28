@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bx0wem5cjpgbh"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://705iou3g2sod"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_vehg8"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_nirn3"]
 
 [resource]
-script = ExtResource("1_vehg8")
+script = ExtResource("1_nirn3")
 id = 115
 name = "focus-energy"
 power = -1
@@ -27,7 +27,7 @@ min_hits = -1
 min_turns = -1
 stat_chance = 0
 stat_changes = [{
-"stat": 8
+"stat": 8.0
 }]
 completed = false
 unique_effect = false

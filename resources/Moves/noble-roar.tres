@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cavodsrrl8uyr"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dqr1m1uil6jj3"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_48j4f"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_618n5"]
 
 [resource]
-script = ExtResource("1_48j4f")
+script = ExtResource("1_618n5")
 id = 567
 name = "noble-roar"
 power = -1

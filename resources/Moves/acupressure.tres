@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c2nhjfvbtxfn2"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://i4w7m8unlewf"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_7f50n"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_din1m"]
 
 [resource]
-script = ExtResource("1_7f50n")
+script = ExtResource("1_din1m")
 id = 366
 name = "acupressure"
 power = -1

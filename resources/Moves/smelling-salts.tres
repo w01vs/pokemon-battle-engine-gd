@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://8wq4murnclh1"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://d2hd63kahugcw"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_u6adw"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_6gq3g"]
 
 [resource]
-script = ExtResource("1_u6adw")
+script = ExtResource("1_6gq3g")
 id = 264
 name = "smelling-salts"
 power = 70

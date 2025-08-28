@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c323mbi7nifdq"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cn0dqxsgofwkn"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_e7qvg"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_yaydx"]
 
 [resource]
-script = ExtResource("1_e7qvg")
+script = ExtResource("1_yaydx")
 id = 431
 name = "defog"
 power = -1

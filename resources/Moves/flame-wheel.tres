@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dma6a4yo8lmsh"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c5xkl4ynfqysm"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_y0vuf"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_1tlt7"]
 
 [resource]
-script = ExtResource("1_y0vuf")
+script = ExtResource("1_1tlt7")
 id = 171
 name = "flame-wheel"
 power = 60

@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dnt5gweieacyb"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://tiuckcdcnmvf"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_7edjv"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_y6i0r"]
 
 [resource]
-script = ExtResource("1_7edjv")
+script = ExtResource("1_y6i0r")
 id = 369
 name = "close-combat"
 power = 120

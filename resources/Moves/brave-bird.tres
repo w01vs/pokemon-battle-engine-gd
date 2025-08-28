@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cg3e5c0j1kloo"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c5xii7nqo2yse"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_6puu6"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_fswew"]
 
 [resource]
-script = ExtResource("1_6puu6")
+script = ExtResource("1_fswew")
 id = 412
 name = "brave-bird"
 power = 120

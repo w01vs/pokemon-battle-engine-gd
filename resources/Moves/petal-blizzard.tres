@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://n0aymqj11sfl"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bdd4duwfi3sev"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_tygtl"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_q8g0p"]
 
 [resource]
-script = ExtResource("1_tygtl")
+script = ExtResource("1_q8g0p")
 id = 571
 name = "petal-blizzard"
 power = 90

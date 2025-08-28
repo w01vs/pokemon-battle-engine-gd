@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://17jgg1s6pa3b"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://d01w7l1sel1sj"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_wa1m2"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_cttbr"]
 
 [resource]
-script = ExtResource("1_wa1m2")
+script = ExtResource("1_cttbr")
 id = 350
 name = "shock-wave"
 power = 60

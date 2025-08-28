@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bglyangy233ny"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cfwsdd76tmv10"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ebmto"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_bxmmr"]
 
 [resource]
-script = ExtResource("1_ebmto")
+script = ExtResource("1_bxmmr")
 id = 260
 name = "will-o-wisp"
 power = -1

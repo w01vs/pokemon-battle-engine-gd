@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://sl0fm06p4jao"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cb854hgnuw5ya"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_v4btn"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_cqwku"]
 
 [resource]
-script = ExtResource("1_v4btn")
+script = ExtResource("1_cqwku")
 id = 357
 name = "wake-up-slap"
 power = 70

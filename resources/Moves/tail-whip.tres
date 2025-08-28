@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bcv2kipbevkg4"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://rowe4rv8bgsg"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_d4yi5"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_g10aw"]
 
 [resource]
-script = ExtResource("1_d4yi5")
+script = ExtResource("1_g10aw")
 id = 38
 name = "tail-whip"
 power = -1

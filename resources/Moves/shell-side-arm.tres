@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c40d6fwyithdy"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bkuu1p5rlc2xm"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_phd3g"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_jlefk"]
 
 [resource]
-script = ExtResource("1_phd3g")
+script = ExtResource("1_jlefk")
 id = 800
 name = "shell-side-arm"
 power = 90

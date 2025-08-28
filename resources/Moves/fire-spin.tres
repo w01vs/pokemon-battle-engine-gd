@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cttgussnpfdpp"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://csln6sjiwp0k4"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_a1tsd"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_0pruf"]
 
 [resource]
-script = ExtResource("1_a1tsd")
+script = ExtResource("1_0pruf")
 id = 82
 name = "fire-spin"
 power = 35

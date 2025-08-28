@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://fa6ot8jowhkk"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cs0uk185oj0vp"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_mf0pt"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_it0ke"]
 
 [resource]
-script = ExtResource("1_mf0pt")
+script = ExtResource("1_it0ke")
 id = 192
 name = "foresight"
 power = -1

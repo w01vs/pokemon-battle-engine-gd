@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cmmm7rktt0se"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://yn7w4ly0frfr"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_6setq"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_3ias7"]
 
 [resource]
-script = ExtResource("1_6setq")
+script = ExtResource("1_3ias7")
 id = 85
 name = "thunder-wave"
 power = -1

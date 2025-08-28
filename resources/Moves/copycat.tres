@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c160aatuan5po"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bwnwrt4nb70xb"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_mxwl4"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_knpdn"]
 
 [resource]
-script = ExtResource("1_mxwl4")
+script = ExtResource("1_knpdn")
 id = 382
 name = "copycat"
 power = -1

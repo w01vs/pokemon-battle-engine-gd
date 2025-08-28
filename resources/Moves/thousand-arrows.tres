@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://gymnqglysh5c"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://wv1ebtw36kc5"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_64suv"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_bsvt4"]
 
 [resource]
-script = ExtResource("1_64suv")
+script = ExtResource("1_bsvt4")
 id = 613
 name = "thousand-arrows"
 power = 90

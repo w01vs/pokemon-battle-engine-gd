@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://8by4u36kckvq"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b42r022dhq5d8"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ooxyj"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_kh7qe"]
 
 [resource]
-script = ExtResource("1_ooxyj")
+script = ExtResource("1_kh7qe")
 id = 592
 name = "hyperspace-hole"
 power = 80

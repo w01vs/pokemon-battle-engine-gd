@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dc2ycxf8vqqu0"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b6gbjoc6vll4e"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_tk1ms"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_am1m3"]
 
 [resource]
-script = ExtResource("1_tk1ms")
+script = ExtResource("1_am1m3")
 id = 153
 name = "fury-swipes"
 power = 18

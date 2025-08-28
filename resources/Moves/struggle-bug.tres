@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://k817x0brkba1"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dmnlpsmrrj0u8"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_6kr5t"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_rl754"]
 
 [resource]
-script = ExtResource("1_6kr5t")
+script = ExtResource("1_rl754")
 id = 521
 name = "struggle-bug"
 power = 50

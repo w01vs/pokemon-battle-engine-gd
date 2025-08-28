@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://7x7dyl4tkxt"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bn2dsc0tki8tc"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_6wnri"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_punw0"]
 
 [resource]
-script = ExtResource("1_6wnri")
+script = ExtResource("1_punw0")
 id = 137
 name = "dream-eater"
 power = 100

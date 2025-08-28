@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dn5v42ypk2a61"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b6taj3ht8o82l"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_pwpkn"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ry04g"]
 
 [resource]
-script = ExtResource("1_pwpkn")
+script = ExtResource("1_ry04g")
 id = 802
 name = "grassy-glide"
 power = 55

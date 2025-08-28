@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://kpymg6b7dp17"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://iau82a1uxidn"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_mjrq8"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_vsawo"]
 
 [resource]
-script = ExtResource("1_mjrq8")
+script = ExtResource("1_vsawo")
 id = 472
 name = "psyshock"
 power = 80

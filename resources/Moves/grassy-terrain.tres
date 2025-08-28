@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://codn1j632ssv1"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c635cej1wuiip"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_a7usx"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_t7kfd"]
 
 [resource]
-script = ExtResource("1_a7usx")
+script = ExtResource("1_t7kfd")
 id = 579
 name = "grassy-terrain"
 power = -1

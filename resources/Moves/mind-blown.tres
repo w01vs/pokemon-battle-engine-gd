@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b5lpvencqrgfc"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dfq03bku2es1u"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_tvsbc"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_vrdgv"]
 
 [resource]
-script = ExtResource("1_tvsbc")
+script = ExtResource("1_vrdgv")
 id = 719
 name = "mind-blown"
 power = 150

@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dce7sgb83xabt"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://hd0stasu2wai"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_3yplk"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_3s05u"]
 
 [resource]
-script = ExtResource("1_3yplk")
+script = ExtResource("1_3s05u")
 id = 570
 name = "forests-curse"
 power = -1

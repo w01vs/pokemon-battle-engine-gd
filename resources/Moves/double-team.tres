@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cqnqm4rwk2pr7"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://d0jrxqkapb417"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_s7su5"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_y113c"]
 
 [resource]
-script = ExtResource("1_s7su5")
+script = ExtResource("1_y113c")
 id = 103
 name = "double-team"
 power = -1

@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dfes4hryqn1fc"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c0dcia3otyvlp"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_d2xo7"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_htket"]
 
 [resource]
-script = ExtResource("1_d2xo7")
+script = ExtResource("1_htket")
 id = 80
 name = "string-shot"
 power = -1

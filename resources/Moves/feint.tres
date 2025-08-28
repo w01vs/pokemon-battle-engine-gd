@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cq132c6slbsd0"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c6i80yxcgf27k"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_4hkuu"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_7u3i8"]
 
 [resource]
-script = ExtResource("1_4hkuu")
+script = ExtResource("1_7u3i8")
 id = 363
 name = "feint"
 power = 30

@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://ciqi1s4bv63ch"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://omfa2qslywdk"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_x23y3"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_kxh31"]
 
 [resource]
-script = ExtResource("1_x23y3")
+script = ExtResource("1_kxh31")
 id = 595
 name = "spiky-shield"
 power = -1

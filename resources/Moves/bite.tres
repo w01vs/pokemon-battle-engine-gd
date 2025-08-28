@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dvdkrtufepvvu"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://64gh4a517f8v"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_jdkcq"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_8vofr"]
 
 [resource]
-script = ExtResource("1_jdkcq")
+script = ExtResource("1_8vofr")
 id = 43
 name = "bite"
 power = 60

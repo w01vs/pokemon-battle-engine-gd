@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://ybpckfds1rvy"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dsd3m03pvrfm4"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_emtdj"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_cq41w"]
 
 [resource]
-script = ExtResource("1_emtdj")
+script = ExtResource("1_cq41w")
 id = 303
 name = "hyper-voice"
 power = 90

@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://d1gwmkyty7mat"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cvddgyeubemnd"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_s7miu"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_76ofw"]
 
 [resource]
-script = ExtResource("1_s7miu")
+script = ExtResource("1_76ofw")
 id = 129
 name = "skull-bash"
 power = 130

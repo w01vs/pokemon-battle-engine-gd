@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cm0u8qs7vhvi7"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://lxicrbumbgyy"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_fe676"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_5t1mp"]
 
 [resource]
-script = ExtResource("1_fe676")
+script = ExtResource("1_5t1mp")
 id = 30
 name = "fury-attack"
 power = 15

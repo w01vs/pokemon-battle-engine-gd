@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bvbu7t8eabll3"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://ctknhhj84gkfh"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_c8tr4"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_hs5lp"]
 
 [resource]
-script = ExtResource("1_c8tr4")
+script = ExtResource("1_hs5lp")
 id = 276
 name = "magic-coat"
 power = -1

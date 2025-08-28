@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bhw5xuwcexgtj"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dqb2lh4lb8u4e"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_apda8"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_7j0dr"]
 
 [resource]
-script = ExtResource("1_apda8")
+script = ExtResource("1_7j0dr")
 id = 504
 name = "heal-pulse"
 power = -1

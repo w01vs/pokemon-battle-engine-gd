@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bkc36ubaqc3kr"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b2fy53534t1p6"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_djwbr"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_8ast7"]
 
 [resource]
-script = ExtResource("1_djwbr")
+script = ExtResource("1_8ast7")
 id = 731
 name = "pika-papow"
 power = -1

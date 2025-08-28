@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bfuvn4g5g5ie"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://w4yqc2q7srml"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_u134p"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_el6o7"]
 
 [resource]
-script = ExtResource("1_u134p")
+script = ExtResource("1_el6o7")
 id = 352
 name = "doom-desire"
 power = 140

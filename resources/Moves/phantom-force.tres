@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cg1n1hcpgta6n"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://byfwv8oxbcqvv"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_uq7rt"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ij0hc"]
 
 [resource]
-script = ExtResource("1_uq7rt")
+script = ExtResource("1_ij0hc")
 id = 565
 name = "phantom-force"
 power = 90

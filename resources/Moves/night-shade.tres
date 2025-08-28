@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://ccftff300drw"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://x12f6nfyo5ux"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_6mv58"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_xt5jq"]
 
 [resource]
-script = ExtResource("1_6mv58")
+script = ExtResource("1_xt5jq")
 id = 100
 name = "night-shade"
 power = -1

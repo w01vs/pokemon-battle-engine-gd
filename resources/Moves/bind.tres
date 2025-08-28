@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bufbosx0wuhss"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c52whf7mq7p4w"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_4lci5"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_2nmel"]
 
 [resource]
-script = ExtResource("1_4lci5")
+script = ExtResource("1_2nmel")
 id = 19
 name = "bind"
 power = 15

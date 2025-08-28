@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b43mblot2e13o"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://d0jmvrpsesjp4"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_pbm5f"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_mb6jo"]
 
 [resource]
-script = ExtResource("1_pbm5f")
+script = ExtResource("1_mb6jo")
 id = 823
 name = "glacial-lance"
 power = 120

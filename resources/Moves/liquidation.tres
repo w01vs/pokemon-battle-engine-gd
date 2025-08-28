@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://oiur11po1ca"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://chdqhct13v2d6"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_20l8s"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_km1sb"]
 
 [resource]
-script = ExtResource("1_20l8s")
+script = ExtResource("1_km1sb")
 id = 709
 name = "liquidation"
 power = 85

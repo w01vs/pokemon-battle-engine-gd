@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://pjj0xhgxalr4"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dno7yftwqyqdw"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_rqbni"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_c28xu"]
 
 [resource]
-script = ExtResource("1_rqbni")
+script = ExtResource("1_c28xu")
 id = 143
 name = "transform"
 power = -1

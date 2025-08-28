@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cme1m6bxfsfn"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://ditevw6u62xmk"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_gjbjj"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_f75ql"]
 
 [resource]
-script = ExtResource("1_gjbjj")
+script = ExtResource("1_f75ql")
 id = 780
 name = "behemoth-blade"
 power = 100

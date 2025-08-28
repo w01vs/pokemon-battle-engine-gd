@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dw538ve50xljj"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b1so2d0we2svy"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_sdgvm"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ntgng"]
 
 [resource]
-script = ExtResource("1_sdgvm")
+script = ExtResource("1_ntgng")
 id = 821
 name = "fiery-wrath"
 power = 90

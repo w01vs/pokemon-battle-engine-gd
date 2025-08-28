@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://n34k8odjvmlf"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bvacjr6lucf7c"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_rv34u"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ycr2f"]
 
 [resource]
-script = ExtResource("1_rv34u")
+script = ExtResource("1_ycr2f")
 id = 314
 name = "overheat"
 power = 130

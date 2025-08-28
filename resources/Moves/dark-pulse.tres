@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://6o4wxvrcw0d3"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bkw4alungcn0b"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_rpbdp"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_br4q4"]
 
 [resource]
-script = ExtResource("1_rpbdp")
+script = ExtResource("1_br4q4")
 id = 398
 name = "dark-pulse"
 power = 80

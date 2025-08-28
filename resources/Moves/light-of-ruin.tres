@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://metbahhxrpkm"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dsg8nm62or2bt"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_oygeb"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_j5cqq"]
 
 [resource]
-script = ExtResource("1_oygeb")
+script = ExtResource("1_j5cqq")
 id = 616
 name = "light-of-ruin"
 power = 140

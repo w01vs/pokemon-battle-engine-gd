@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b5jov0asujeel"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dn21xp5lxi6wb"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_esv6u"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_8ni1l"]
 
 [resource]
-script = ExtResource("1_esv6u")
+script = ExtResource("1_8ni1l")
 id = 345
 name = "water-sport"
 power = -1

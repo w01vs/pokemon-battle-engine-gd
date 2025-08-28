@@ -1,17 +1,17 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://becp4iy7uenfn"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://ciowft6n56vew"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_a1s3v"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_x6vjg"]
 
 [resource]
-script = ExtResource("1_a1s3v")
-id = 113
+script = ExtResource("1_x6vjg")
+id = 142
 name = "haze"
 power = -1
 accuracy = -1
 priority = 0
 pp = 30
-type = 11
-target = 9
+type = 1
+target = 11
 ailment = {
 "ailment": 0.0,
 "ailment_chance": 0.0
@@ -29,4 +29,4 @@ stat_chance = 0
 stat_changes = []
 completed = false
 unique_effect = true
-move_type = 10
+move_type = 1

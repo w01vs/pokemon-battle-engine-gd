@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dkrfhbkcv5mln"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dl7f8m7ba32vc"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_1ovqy"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_kks8u"]
 
 [resource]
-script = ExtResource("1_1ovqy")
+script = ExtResource("1_kks8u")
 id = 364
 name = "pluck"
 power = 60

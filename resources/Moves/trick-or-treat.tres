@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://boq57jpommnv4"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://d0ejefl3gem31"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ryrv4"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_kl25y"]
 
 [resource]
-script = ExtResource("1_ryrv4")
+script = ExtResource("1_kl25y")
 id = 566
 name = "trick-or-treat"
 power = -1

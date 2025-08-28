@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://8ol5vs0abhbo"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://r2u0mwq7orct"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_mtyk7"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_dsukf"]
 
 [resource]
-script = ExtResource("1_mtyk7")
+script = ExtResource("1_dsukf")
 id = 39
 name = "poison-sting"
 power = 15

@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://crnnq7jts8cxn"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dwtjlfn1v8h6e"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_4b23y"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_nia32"]
 
 [resource]
-script = ExtResource("1_4b23y")
+script = ExtResource("1_nia32")
 id = 298
 name = "blaze-kick"
 power = 85

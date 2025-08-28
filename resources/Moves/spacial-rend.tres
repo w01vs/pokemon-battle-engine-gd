@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bxsuwgvs3aq8y"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dudjsjdbkojq0"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_hamiy"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_3oeew"]
 
 [resource]
-script = ExtResource("1_hamiy")
+script = ExtResource("1_3oeew")
 id = 459
 name = "spacial-rend"
 power = 100

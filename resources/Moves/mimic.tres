@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dc4rarperlcm4"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cctb8sk0lyd8d"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_jlu0c"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_uk5uq"]
 
 [resource]
-script = ExtResource("1_jlu0c")
+script = ExtResource("1_uk5uq")
 id = 101
 name = "mimic"
 power = -1

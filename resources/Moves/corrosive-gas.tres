@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://ddn23usuplmgb"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://4kokjqg02ivx"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_7kqgo"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_7m76o"]
 
 [resource]
-script = ExtResource("1_7kqgo")
+script = ExtResource("1_7m76o")
 id = 809
 name = "corrosive-gas"
 power = -1

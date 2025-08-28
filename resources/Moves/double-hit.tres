@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://d3o7l0pvxroqv"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c0atv1ykv3hr4"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_2m87q"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_0ydc0"]
 
 [resource]
-script = ExtResource("1_2m87q")
+script = ExtResource("1_0ydc0")
 id = 457
 name = "double-hit"
 power = 35

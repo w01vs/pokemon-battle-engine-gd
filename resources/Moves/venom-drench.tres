@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bk0yt7uy3lk7m"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dvn8e42ith744"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_3lk8v"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ir5uu"]
 
 [resource]
-script = ExtResource("1_3lk8v")
+script = ExtResource("1_ir5uu")
 id = 598
 name = "venom-drench"
 power = -1

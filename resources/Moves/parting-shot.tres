@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://en4bg0fmb218"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dhqajngw0bxy6"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_tfnis"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_f0cgu"]
 
 [resource]
-script = ExtResource("1_tfnis")
+script = ExtResource("1_f0cgu")
 id = 574
 name = "parting-shot"
 power = -1

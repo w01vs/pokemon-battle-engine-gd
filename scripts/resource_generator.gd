@@ -222,7 +222,7 @@ static func update_move_resourcetojson() -> void:
 		save_to_json("res://JSON/updated_moves.json", arr)
 
 static func update_moves_jsontoresource() -> void:
-	var arr: Array= load_json("res://JSON/chatgpt_moves.json")
+	var arr: Array= load_json("res://JSON/updated_moves.json")
 	empty_directory("res://resources/Moves")
 	if arr:
 		for dict in arr:
@@ -250,7 +250,9 @@ static func update_moves_jsontoresource() -> void:
 			move.completed = dict["completed"]
 			move.unique_effect = dict["unique_effect"]
 			move.move_type = dict["move_type"]
-			ResourceSaver.save(move, "res://resources/Moves/" + move.name + ".tres")
+			var err: Error = ResourceSaver.save(move, "res://resources/Moves/" + move.name + ".tres", ResourceSaver.FLAG_CHANGE_PATH)
+			if err != 0:
+				print(err)
 
 static func empty_directory(path: String) -> void:
 	var dir_access: DirAccess = DirAccess.open(path)

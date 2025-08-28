@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://drs2uknaie8kd"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bkef3t33nsv51"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_dtq75"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_kjfth"]
 
 [resource]
-script = ExtResource("1_dtq75")
+script = ExtResource("1_kjfth")
 id = 331
 name = "aerial-ace"
 power = 60

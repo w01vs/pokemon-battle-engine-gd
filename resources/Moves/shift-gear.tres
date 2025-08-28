@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://5ejjle1tiqlt"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b7b4848luovcl"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_otr5e"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_bdud0"]
 
 [resource]
-script = ExtResource("1_otr5e")
+script = ExtResource("1_bdud0")
 id = 507
 name = "shift-gear"
 power = -1

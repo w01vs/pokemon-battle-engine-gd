@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bcbxthsv2jv8i"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c046l1h88fixl"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_twajr"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_s6dt1"]
 
 [resource]
-script = ExtResource("1_twajr")
+script = ExtResource("1_s6dt1")
 id = 307
 name = "hydro-cannon"
 power = 150

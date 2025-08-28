@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dbhkyiq83ybnr"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://26vjgmecem4f"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_g3rbj"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_hc3qt"]
 
 [resource]
-script = ExtResource("1_g3rbj")
+script = ExtResource("1_hc3qt")
 id = 87
 name = "rock-throw"
 power = 50

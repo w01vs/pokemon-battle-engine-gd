@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://g3kvv8vggfgw"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://ceywnu3eddl8i"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_6kusb"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_n8sjq"]
 
 [resource]
-script = ExtResource("1_6kusb")
+script = ExtResource("1_n8sjq")
 id = 170
 name = "nightmare"
 power = -1

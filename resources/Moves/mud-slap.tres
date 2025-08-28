@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bahemksl4r7nx"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dilfig4v4oy7h"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_h212n"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_xsm1l"]
 
 [resource]
-script = ExtResource("1_h212n")
+script = ExtResource("1_xsm1l")
 id = 188
 name = "mud-slap"
 power = 20

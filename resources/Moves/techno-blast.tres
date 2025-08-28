@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cd8e03mt4cbu6"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cvesoec7vuus0"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_1kgrg"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_54aqo"]
 
 [resource]
-script = ExtResource("1_1kgrg")
+script = ExtResource("1_54aqo")
 id = 545
 name = "techno-blast"
 power = 120

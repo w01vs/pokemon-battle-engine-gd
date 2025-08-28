@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c6v7416gk3oiw"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://blkcro32ohti5"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_6fc1h"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_5oq0o"]
 
 [resource]
-script = ExtResource("1_6fc1h")
+script = ExtResource("1_5oq0o")
 id = 81
 name = "dragon-rage"
 power = -1

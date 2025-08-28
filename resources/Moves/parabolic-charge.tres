@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://mddv38pkygn5"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cljiaofyal381"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_lr2o4"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_v2jqj"]
 
 [resource]
-script = ExtResource("1_lr2o4")
+script = ExtResource("1_v2jqj")
 id = 569
 name = "parabolic-charge"
 power = 65

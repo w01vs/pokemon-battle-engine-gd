@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bc4wt56xll67h"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c0t4syun5jc38"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_u31mf"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_g61qn"]
 
 [resource]
-script = ExtResource("1_u31mf")
+script = ExtResource("1_g61qn")
 id = 191
 name = "zap-cannon"
 power = 120

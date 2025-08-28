@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cchffd87fxsap"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bmdk000a3b8ng"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_lctxn"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_l2ytt"]
 
 [resource]
-script = ExtResource("1_lctxn")
+script = ExtResource("1_l2ytt")
 id = 31
 name = "horn-drill"
 power = -1

@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b1t0xf0mnwcwa"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bgqfr1edwe5f0"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_fxeun"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ixrh3"]
 
 [resource]
-script = ExtResource("1_fxeun")
+script = ExtResource("1_ixrh3")
 id = 489
 name = "low-sweep"
 power = 65

@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://gk8x17b00a2p"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://d2yfrcivr7jhn"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_6lldb"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_evclf"]
 
 [resource]
-script = ExtResource("1_6lldb")
+script = ExtResource("1_evclf")
 id = 308
 name = "meteor-mash"
 power = 90

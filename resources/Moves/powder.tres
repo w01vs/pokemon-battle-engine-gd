@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://e6ylkoa6lpsl"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dot7hwa74trp6"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_kj18s"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_hfacn"]
 
 [resource]
-script = ExtResource("1_kj18s")
+script = ExtResource("1_hfacn")
 id = 599
 name = "powder"
 power = -1

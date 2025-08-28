@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cmun4d845v40p"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b781ht7s2q1us"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_rsb18"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_upk0v"]
 
 [resource]
-script = ExtResource("1_rsb18")
+script = ExtResource("1_upk0v")
 id = 819
 name = "dragon-energy"
 power = 150

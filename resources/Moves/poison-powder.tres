@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://uhio6cuodb5r"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dv72ecrabmqd8"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_kjpgk"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_56mr0"]
 
 [resource]
-script = ExtResource("1_kjpgk")
+script = ExtResource("1_56mr0")
 id = 76
 name = "poison-powder"
 power = -1

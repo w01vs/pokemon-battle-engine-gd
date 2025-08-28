@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b7mx7oyks18ab"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://brbj8mt5fpmxf"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_bxmve"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_mjqks"]
 
 [resource]
-script = ExtResource("1_bxmve")
+script = ExtResource("1_mjqks")
 id = 386
 name = "last-resort"
 power = 140

@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bqxrw72hj1qga"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cvprn3ur7fnek"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_wn2f0"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_juumq"]
 
 [resource]
-script = ExtResource("1_wn2f0")
+script = ExtResource("1_juumq")
 id = 14
 name = "cut"
 power = 50

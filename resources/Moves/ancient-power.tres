@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dky6b3i3cunjt"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://crs04fpjrr521"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_v0htr"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_he0fo"]
 
 [resource]
-script = ExtResource("1_v0htr")
+script = ExtResource("1_he0fo")
 id = 245
 name = "ancient-power"
 power = 60

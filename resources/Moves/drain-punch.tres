@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b3gcgvmqhwvgp"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cpvy8wb1afarq"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_j5lf3"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_pnudb"]
 
 [resource]
-script = ExtResource("1_j5lf3")
+script = ExtResource("1_pnudb")
 id = 408
 name = "drain-punch"
 power = 75

@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cn5dsrlvwae8j"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dquyayctjeo6d"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_8nekt"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_06olu"]
 
 [resource]
-script = ExtResource("1_8nekt")
+script = ExtResource("1_06olu")
 id = 437
 name = "power-whip"
 power = 120

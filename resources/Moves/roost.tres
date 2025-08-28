@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://co1etk8lrafoo"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://fjqepqy0kntg"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_rkukj"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_tvh5p"]
 
 [resource]
-script = ExtResource("1_rkukj")
+script = ExtResource("1_tvh5p")
 id = 354
 name = "roost"
 power = -1

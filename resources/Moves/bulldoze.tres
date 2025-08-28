@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://t16g4cb2nsv"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dqqne3v18s4l4"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_dqm4a"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_0atc3"]
 
 [resource]
-script = ExtResource("1_dqm4a")
+script = ExtResource("1_0atc3")
 id = 522
 name = "bulldoze"
 power = 60

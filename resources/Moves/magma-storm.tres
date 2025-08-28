@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cxkmbs4m8ql0i"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://debang1faj1ji"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_7dfbd"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_76huc"]
 
 [resource]
-script = ExtResource("1_7dfbd")
+script = ExtResource("1_76huc")
 id = 462
 name = "magma-storm"
 power = 100

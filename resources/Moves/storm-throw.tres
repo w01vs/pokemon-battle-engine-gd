@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dinobmulxbdcw"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cgjr5lsafho7l"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_1pso5"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_we16e"]
 
 [resource]
-script = ExtResource("1_1pso5")
+script = ExtResource("1_we16e")
 id = 479
 name = "storm-throw"
 power = 60

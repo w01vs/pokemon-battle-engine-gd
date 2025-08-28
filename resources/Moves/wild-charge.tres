@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dfvk0q5lr3rq2"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bekgv35vycwem"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ax2kr"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ld5ne"]
 
 [resource]
-script = ExtResource("1_ax2kr")
+script = ExtResource("1_ld5ne")
 id = 527
 name = "wild-charge"
 power = 90

@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b40jgdxe48tkk"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://d2lereoenk88k"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_iju7d"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_6gg1c"]
 
 [resource]
-script = ExtResource("1_iju7d")
+script = ExtResource("1_6gg1c")
 id = 277
 name = "recycle"
 power = -1

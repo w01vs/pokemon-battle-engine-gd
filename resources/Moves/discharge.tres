@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cs4ksafyiwlko"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://i7501ht3s8gv"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ndeju"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_isep7"]
 
 [resource]
-script = ExtResource("1_ndeju")
+script = ExtResource("1_isep7")
 id = 434
 name = "discharge"
 power = 80

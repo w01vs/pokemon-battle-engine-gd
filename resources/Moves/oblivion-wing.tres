@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://4dpssb77m3fv"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b6kkmxlikad8m"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_fqbne"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_4nxd4"]
 
 [resource]
-script = ExtResource("1_fqbne")
+script = ExtResource("1_4nxd4")
 id = 612
 name = "oblivion-wing"
 power = 80

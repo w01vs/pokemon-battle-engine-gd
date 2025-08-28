@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b7ykryiw21i2c"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dep2wlumbrokp"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_qqid5"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_0xr28"]
 
 [resource]
-script = ExtResource("1_qqid5")
+script = ExtResource("1_0xr28")
 id = 847
 name = "sandsear-storm"
 power = 100
@@ -12,16 +12,18 @@ priority = 0
 pp = 10
 type = 10
 target = 1
-ailment = {}
+ailment = {
+"ailment": 4.0
+}
 damage_type = 0
 crit_rate = 0
 drain = 0
 flinch_chance = 0
 healing = 0
-max_hits = 0
-max_turns = 0
-min_hits = 0
-min_turns = 0
+max_hits = -1
+max_turns = -1
+min_hits = -1
+min_turns = -1
 stat_chance = 0
 stat_changes = []
 completed = false

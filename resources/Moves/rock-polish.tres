@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bheao166dxfte"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cq0qwg24i14pv"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_c1lq2"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_vnr0c"]
 
 [resource]
-script = ExtResource("1_c1lq2")
+script = ExtResource("1_vnr0c")
 id = 396
 name = "rock-polish"
 power = -1

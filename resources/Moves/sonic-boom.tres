@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://d0joy8dvhco47"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://chryojgk1g6k6"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_67b5q"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_g2bm8"]
 
 [resource]
-script = ExtResource("1_67b5q")
+script = ExtResource("1_g2bm8")
 id = 48
 name = "sonic-boom"
 power = -1

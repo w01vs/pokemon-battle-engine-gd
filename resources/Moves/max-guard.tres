@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c5bmin7yeef6r"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dvemgukpb46gc"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_0vo6i"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_psw1d"]
 
 [resource]
-script = ExtResource("1_0vo6i")
+script = ExtResource("1_psw1d")
 id = 742
 name = "max-guard"
 power = -1

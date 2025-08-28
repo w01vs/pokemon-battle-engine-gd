@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://ye37puajvbab"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bplohqh1npwuv"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_2hw20"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_wol6e"]
 
 [resource]
-script = ExtResource("1_2hw20")
+script = ExtResource("1_wol6e")
 id = 89
 name = "fissure"
 power = -1

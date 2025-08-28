@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cgmv0hdutmq3n"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bqkgls174ea5t"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_tp8f4"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_cn84t"]
 
 [resource]
-script = ExtResource("1_tp8f4")
+script = ExtResource("1_cn84t")
 id = 58
 name = "blizzard"
 power = 110

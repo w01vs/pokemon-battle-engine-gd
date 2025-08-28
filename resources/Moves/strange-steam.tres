@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cq2ros0lvq8ur"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://w6s1d2q44pyk"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_dte2c"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_c373j"]
 
 [resource]
-script = ExtResource("1_dte2c")
+script = ExtResource("1_c373j")
 id = 789
 name = "strange-steam"
 power = 90

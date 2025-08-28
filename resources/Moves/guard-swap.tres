@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b2raoulkumfmk"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b65mte2ooq8qc"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_8ex6x"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_45o4n"]
 
 [resource]
-script = ExtResource("1_8ex6x")
+script = ExtResource("1_45o4n")
 id = 384
 name = "guard-swap"
 power = -1

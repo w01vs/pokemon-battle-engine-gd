@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dbheu2u543cmo"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bvh5scv0ordpe"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_kiv7a"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_t7kb5"]
 
 [resource]
-script = ExtResource("1_kiv7a")
+script = ExtResource("1_t7kb5")
 id = 693
 name = "aurora-veil"
 power = -1

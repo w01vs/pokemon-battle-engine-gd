@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dysxdn0exkh6p"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dmif1p4dsj4ic"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ut6y0"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_i3r85"]
 
 [resource]
-script = ExtResource("1_ut6y0")
+script = ExtResource("1_i3r85")
 id = 356
 name = "miracle-eye"
 power = -1

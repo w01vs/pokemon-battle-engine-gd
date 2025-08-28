@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://55d7nrupe6nu"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c8iat7faapjv0"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_o6ss4"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_k6byx"]
 
 [resource]
-script = ExtResource("1_o6ss4")
+script = ExtResource("1_k6byx")
 id = 2
 name = "double-slap"
 power = 15

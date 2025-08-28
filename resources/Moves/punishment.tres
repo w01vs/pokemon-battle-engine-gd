@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bx3fgps11vljb"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://csu03dni2o8eh"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_1x5ns"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_13s4u"]
 
 [resource]
-script = ExtResource("1_1x5ns")
+script = ExtResource("1_13s4u")
 id = 385
 name = "punishment"
 power = -1

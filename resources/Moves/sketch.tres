@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dpl2tpmsfu3t4"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dlg12maiumhti"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_mr5of"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_kfdqg"]
 
 [resource]
-script = ExtResource("1_mr5of")
+script = ExtResource("1_kfdqg")
 id = 165
 name = "sketch"
 power = -1

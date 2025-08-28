@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c2gcilperaf5q"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://hu8yq21b15wr"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_fsgm2"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_sejgg"]
 
 [resource]
-script = ExtResource("1_fsgm2")
+script = ExtResource("1_sejgg")
 id = 256
 name = "heat-wave"
 power = 95

@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dhk8lrgmcimxk"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cd7sjn7lsiwh4"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_5qbfi"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_44f6j"]
 
 [resource]
-script = ExtResource("1_5qbfi")
+script = ExtResource("1_44f6j")
 id = 430
 name = "rock-climb"
 power = 90

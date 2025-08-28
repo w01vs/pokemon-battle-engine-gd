@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bqa6skj3pnv4f"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bjiur3e5ista7"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_16g7w"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_yvtiu"]
 
 [resource]
-script = ExtResource("1_16g7w")
+script = ExtResource("1_yvtiu")
 id = 35
 name = "take-down"
 power = 90

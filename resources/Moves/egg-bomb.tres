@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cdttowqh5irh5"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c0mie8clemngt"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_mcjnm"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_nc0lb"]
 
 [resource]
-script = ExtResource("1_mcjnm")
+script = ExtResource("1_nc0lb")
 id = 120
 name = "egg-bomb"
 power = 100

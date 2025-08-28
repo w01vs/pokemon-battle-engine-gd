@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cconfcdjycqeg"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dut7uwdehjjhj"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_4bhyp"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_1rtdu"]
 
 [resource]
-script = ExtResource("1_4bhyp")
+script = ExtResource("1_1rtdu")
 id = 663
 name = "sparkling-aria"
 power = 90

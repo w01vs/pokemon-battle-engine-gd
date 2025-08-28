@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://2dpgqy1wbotd"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bm82gvottmgw7"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_savm8"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_a604k"]
 
 [resource]
-script = ExtResource("1_savm8")
+script = ExtResource("1_a604k")
 id = 238
 name = "twister"
 power = 40

@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bp0v3wvill1jh"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dybyq156sqiy7"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ia28x"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_txu47"]
 
 [resource]
-script = ExtResource("1_ia28x")
+script = ExtResource("1_txu47")
 id = 311
 name = "aromatherapy"
 power = -1

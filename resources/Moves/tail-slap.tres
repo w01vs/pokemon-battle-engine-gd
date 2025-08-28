@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cwdivic4ugdls"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c7kfndfjokony"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_qtc15"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_8aiuh"]
 
 [resource]
-script = ExtResource("1_qtc15")
+script = ExtResource("1_8aiuh")
 id = 540
 name = "tail-slap"
 power = 25

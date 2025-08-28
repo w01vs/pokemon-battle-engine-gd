@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://d4grwjpumi24x"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bbvub30wdsk2y"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_bg1hh"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_0nh6n"]
 
 [resource]
-script = ExtResource("1_bg1hh")
+script = ExtResource("1_0nh6n")
 id = 568
 name = "ion-deluge"
 power = -1

@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://sdx6u7jsculq"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://oyq1le6g2jvs"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_38iif"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_7qxkg"]
 
 [resource]
-script = ExtResource("1_38iif")
+script = ExtResource("1_7qxkg")
 id = 323
 name = "signal-beam"
 power = 75

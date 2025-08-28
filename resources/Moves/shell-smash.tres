@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c88sjttxu2iwr"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c4yeog0vtx3jk"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_0vct6"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_51j8n"]
 
 [resource]
-script = ExtResource("1_0vct6")
+script = ExtResource("1_51j8n")
 id = 503
 name = "shell-smash"
 power = -1

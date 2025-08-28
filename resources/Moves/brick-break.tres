@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://d2anbtd827d6l"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cao5m2dv4d4jl"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_0aky8"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_3hsyi"]
 
 [resource]
-script = ExtResource("1_0aky8")
+script = ExtResource("1_3hsyi")
 id = 279
 name = "brick-break"
 power = 75

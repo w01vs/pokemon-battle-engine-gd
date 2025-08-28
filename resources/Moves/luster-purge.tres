@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://wkwrm2fcqb1a"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://drobpam3curip"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_3aqsj"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_gbwnc"]
 
 [resource]
-script = ExtResource("1_3aqsj")
+script = ExtResource("1_gbwnc")
 id = 294
 name = "luster-purge"
 power = 95

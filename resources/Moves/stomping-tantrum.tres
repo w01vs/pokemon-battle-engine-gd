@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c5hknw7hj66rv"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dii6krnvwrjwr"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_tninj"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_hlfva"]
 
 [resource]
-script = ExtResource("1_tninj")
+script = ExtResource("1_hlfva")
 id = 706
 name = "stomping-tantrum"
 power = 75

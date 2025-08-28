@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dqu4cynnp8rqh"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c34q6bm4a8djq"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_uxvel"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_mv5g7"]
 
 [resource]
-script = ExtResource("1_uxvel")
+script = ExtResource("1_mv5g7")
 id = 237
 name = "cross-chop"
 power = 100

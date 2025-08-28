@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://oatfruljcgmp"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b6wqy1sf0g8ta"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_yh1s8"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_oejwb"]
 
 [resource]
-script = ExtResource("1_yh1s8")
+script = ExtResource("1_oejwb")
 id = 713
 name = "moongeist-beam"
 power = 100

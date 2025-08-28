@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://btvg8escdmaf7"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cou5hdqipoo4c"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_5hn15"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_35lnh"]
 
 [resource]
-script = ExtResource("1_5hn15")
+script = ExtResource("1_35lnh")
 id = 748
 name = "tar-shot"
 power = -1

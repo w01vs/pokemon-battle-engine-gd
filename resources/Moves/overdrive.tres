@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cc4tcwqp3bn4f"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b4mf66dh2ltgq"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_agexc"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_nsu7t"]
 
 [resource]
-script = ExtResource("1_agexc")
+script = ExtResource("1_nsu7t")
 id = 785
 name = "overdrive"
 power = 80

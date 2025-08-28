@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bddk3rloq768e"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b5ky2552je8c2"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_fj3qu"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_li8nt"]
 
 [resource]
-script = ExtResource("1_fj3qu")
+script = ExtResource("1_li8nt")
 id = 596
 name = "aromatic-mist"
 power = -1

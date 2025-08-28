@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dgvhml2gs6173"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://owilwxr6oib6"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_41fcd"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_8iahr"]
 
 [resource]
-script = ExtResource("1_41fcd")
+script = ExtResource("1_8iahr")
 id = 95
 name = "meditate"
 power = -1

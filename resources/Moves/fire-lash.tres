@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://ccbqje5db18xo"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://du74l5fmq405b"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_a2rme"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_5elb0"]
 
 [resource]
-script = ExtResource("1_a2rme")
+script = ExtResource("1_5elb0")
 id = 679
 name = "fire-lash"
 power = 80

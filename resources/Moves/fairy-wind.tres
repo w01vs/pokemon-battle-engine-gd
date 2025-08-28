@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c5bku8rag4vju"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cy6i7n3rgu6ci"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_eyiwf"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_4wdum"]
 
 [resource]
-script = ExtResource("1_eyiwf")
+script = ExtResource("1_4wdum")
 id = 583
 name = "fairy-wind"
 power = 40

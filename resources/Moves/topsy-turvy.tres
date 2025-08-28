@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://ch80ar77dbi7i"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bynkdptwuh5ha"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ayd8l"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_sbt0j"]
 
 [resource]
-script = ExtResource("1_ayd8l")
+script = ExtResource("1_sbt0j")
 id = 575
 name = "topsy-turvy"
 power = -1

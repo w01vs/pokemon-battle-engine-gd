@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://d4i135sluv5pj"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c6s2gvdy05pro"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_nt42r"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_do13m"]
 
 [resource]
-script = ExtResource("1_nt42r")
+script = ExtResource("1_do13m")
 id = 505
 name = "hex"
 power = 65

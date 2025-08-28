@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://crcy855misbor"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://22tb5muo81aq"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_o0abv"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_o4sw4"]
 
 [resource]
-script = ExtResource("1_o0abv")
+script = ExtResource("1_o4sw4")
 id = 377
 name = "wring-out"
 power = -1

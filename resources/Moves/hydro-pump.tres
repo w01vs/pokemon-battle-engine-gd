@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://1txkf2m3srby"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://5hbbd38xoyge"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_jd23m"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_2p5k4"]
 
 [resource]
-script = ExtResource("1_jd23m")
+script = ExtResource("1_2p5k4")
 id = 55
 name = "hydro-pump"
 power = 110

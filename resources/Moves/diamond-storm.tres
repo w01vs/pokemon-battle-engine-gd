@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://d118j8nmj7o7s"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c3qh76x5igw2d"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_0qid4"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ugvvt"]
 
 [resource]
-script = ExtResource("1_0qid4")
+script = ExtResource("1_ugvvt")
 id = 590
 name = "diamond-storm"
 power = 100

@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b50aix73180gw"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cw3l8hvgujvs1"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_qv3el"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_h8vvw"]
 
 [resource]
-script = ExtResource("1_qv3el")
+script = ExtResource("1_h8vvw")
 id = 305
 name = "crush-claw"
 power = 75

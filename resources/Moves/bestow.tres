@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dg4xfj5vt2tmk"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dlpw82he01njb"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_shc81"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_8pt18"]
 
 [resource]
-script = ExtResource("1_shc81")
+script = ExtResource("1_8pt18")
 id = 515
 name = "bestow"
 power = -1

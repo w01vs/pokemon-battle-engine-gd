@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b5q1ivuno5t0x"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://d2p1m5123n5b1"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_jbatw"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_elc3i"]
 
 [resource]
-script = ExtResource("1_jbatw")
+script = ExtResource("1_elc3i")
 id = 17
 name = "whirlwind"
 power = -1

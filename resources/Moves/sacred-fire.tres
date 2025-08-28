@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cghxgfuwiv443"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://s4ap57bmp38e"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_8mx5e"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_13qiw"]
 
 [resource]
-script = ExtResource("1_8mx5e")
+script = ExtResource("1_13qiw")
 id = 220
 name = "sacred-fire"
 power = 100

@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dt50cfipaoptn"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bwxpc8ibwja1g"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_llyja"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_lm13u"]
 
 [resource]
-script = ExtResource("1_llyja")
+script = ExtResource("1_lm13u")
 id = 229
 name = "sweet-scent"
 power = -1
@@ -27,7 +27,7 @@ min_hits = -1
 min_turns = -1
 stat_chance = 100
 stat_changes = [{
-"change": -2.0,
+"change": -1.0,
 "stat": 6.0
 }]
 completed = false

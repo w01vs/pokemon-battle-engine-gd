@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b2k6w4mx31gne"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b6v224whpgtih"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_33cfq"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ke7cf"]
 
 [resource]
-script = ExtResource("1_33cfq")
+script = ExtResource("1_ke7cf")
 id = 211
 name = "mean-look"
 power = -1

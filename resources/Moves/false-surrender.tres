@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bw05vmwmb62ok"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dy6l8s2vcpdjf"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_x4gso"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_vlh4n"]
 
 [resource]
-script = ExtResource("1_x4gso")
+script = ExtResource("1_vlh4n")
 id = 792
 name = "false-surrender"
 power = 80

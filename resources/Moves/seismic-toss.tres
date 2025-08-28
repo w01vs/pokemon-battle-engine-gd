@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cae2rjfbgisrt"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bnh2h0ra4xwwk"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_tios0"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_8a1cf"]
 
 [resource]
-script = ExtResource("1_tios0")
+script = ExtResource("1_8a1cf")
 id = 68
 name = "seismic-toss"
 power = -1

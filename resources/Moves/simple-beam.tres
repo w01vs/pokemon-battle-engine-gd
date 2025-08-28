@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cs7xye1wropni"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bdbkprwppyds2"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_4yask"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_x5bjw"]
 
 [resource]
-script = ExtResource("1_4yask")
+script = ExtResource("1_x5bjw")
 id = 492
 name = "simple-beam"
 power = -1

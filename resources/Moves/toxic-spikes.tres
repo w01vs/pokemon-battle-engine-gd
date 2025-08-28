@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bo3grm20aoy5"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://2cguqnexddwx"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_t4h0i"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_licxs"]
 
 [resource]
-script = ExtResource("1_t4h0i")
+script = ExtResource("1_licxs")
 id = 389
 name = "toxic-spikes"
 power = -1

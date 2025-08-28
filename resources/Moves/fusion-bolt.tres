@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cs124jwcr3fxb"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://u3mtkr6wo6h3"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_xlwjt"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_5emn4"]
 
 [resource]
-script = ExtResource("1_xlwjt")
+script = ExtResource("1_5emn4")
 id = 558
 name = "fusion-bolt"
 power = 100

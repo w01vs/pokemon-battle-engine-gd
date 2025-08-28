@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dv18xcvkql26i"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bnq32wri5di8g"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_4dixk"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_hu0ii"]
 
 [resource]
-script = ExtResource("1_4dixk")
+script = ExtResource("1_hu0ii")
 id = 429
 name = "flash-cannon"
 power = 80

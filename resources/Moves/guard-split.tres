@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bqyc1uc02wic6"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dy7gib4bvwv6g"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_c4sju"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_py5pp"]
 
 [resource]
-script = ExtResource("1_c4sju")
+script = ExtResource("1_py5pp")
 id = 469
 name = "guard-split"
 power = -1

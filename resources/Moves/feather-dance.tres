@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://co0712j0am4hx"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://0f0ddjr2a2no"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_gntih"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_bvwbd"]
 
 [resource]
-script = ExtResource("1_gntih")
+script = ExtResource("1_bvwbd")
 id = 296
 name = "feather-dance"
 power = -1

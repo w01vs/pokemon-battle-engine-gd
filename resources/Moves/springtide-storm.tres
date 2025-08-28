@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bcjb1mb6gqt5p"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dlp14236hpbi6"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_s3k05"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_qlwjc"]
 
 [resource]
-script = ExtResource("1_s3k05")
+script = ExtResource("1_qlwjc")
 id = 830
 name = "springtide-storm"
 power = 100
@@ -12,16 +12,19 @@ priority = 0
 pp = 5
 type = 4
 target = 1
-ailment = {}
+ailment = {
+"ailment": 0.0,
+"ailment_chance": 0.0
+}
 damage_type = 0
 crit_rate = 0
 drain = 0
 flinch_chance = 0
 healing = 0
-max_hits = 0
-max_turns = 0
-min_hits = 0
-min_turns = 0
+max_hits = -1
+max_turns = -1
+min_hits = -1
+min_turns = -1
 stat_chance = 0
 stat_changes = []
 completed = false

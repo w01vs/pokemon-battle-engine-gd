@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://v2xma5e48omn"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b0s6g0ntf1d0h"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_rgcfb"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_51qps"]
 
 [resource]
-script = ExtResource("1_rgcfb")
+script = ExtResource("1_51qps")
 id = 173
 name = "curse"
 power = -1

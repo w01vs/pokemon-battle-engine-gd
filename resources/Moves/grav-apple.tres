@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://inlln6lyk50"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cpx7wyx55vhya"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_dhjyg"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_rmj8n"]
 
 [resource]
-script = ExtResource("1_dhjyg")
+script = ExtResource("1_rmj8n")
 id = 787
 name = "grav-apple"
 power = 80

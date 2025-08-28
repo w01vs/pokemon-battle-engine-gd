@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bpiqetxp0e2om"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://hkjy2ggwcfpp"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_lot3e"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_3hqkc"]
 
 [resource]
-script = ExtResource("1_lot3e")
+script = ExtResource("1_3hqkc")
 id = 265
 name = "follow-me"
 power = -1

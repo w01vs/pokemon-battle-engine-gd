@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c2bbjccd1el78"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cepv3duox53w6"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_v32ys"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_re1gv"]
 
 [resource]
-script = ExtResource("1_v32ys")
+script = ExtResource("1_re1gv")
 id = 108
 name = "confuse-ray"
 power = -1

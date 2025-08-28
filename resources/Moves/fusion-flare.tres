@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cpxvyxbcx62d6"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://564ag4gg1yll"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_cicqx"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_kjqcs"]
 
 [resource]
-script = ExtResource("1_cicqx")
+script = ExtResource("1_kjqcs")
 id = 557
 name = "fusion-flare"
 power = 100

@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c53k36gkctlwb"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://h8ov6dyyw5pq"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_5v2ny"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_3rerp"]
 
 [resource]
-script = ExtResource("1_5v2ny")
+script = ExtResource("1_3rerp")
 id = 197
 name = "bone-rush"
 power = 25

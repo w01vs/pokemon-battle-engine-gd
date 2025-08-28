@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://ra3ehnq17yua"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://ob613ufbrj3u"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_62mvb"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_04cyv"]
 
 [resource]
-script = ExtResource("1_62mvb")
+script = ExtResource("1_04cyv")
 id = 400
 name = "aqua-tail"
 power = 90

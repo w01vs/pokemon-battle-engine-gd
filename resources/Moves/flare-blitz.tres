@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cda3epyus05gk"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://txyp4vgqpp6m"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_mqki5"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_tosdv"]
 
 [resource]
-script = ExtResource("1_mqki5")
+script = ExtResource("1_tosdv")
 id = 393
 name = "flare-blitz"
 power = 120

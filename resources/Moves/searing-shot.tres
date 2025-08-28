@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bf8fn5ipown5m"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://boob4lf231iq3"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_mihl8"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_kcqs4"]
 
 [resource]
-script = ExtResource("1_mihl8")
+script = ExtResource("1_kcqs4")
 id = 544
 name = "searing-shot"
 power = 100

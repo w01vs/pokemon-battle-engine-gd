@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://q7iiq1j4a683"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://djgbhkmwa6p2i"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_234k4"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_cbaai"]
 
 [resource]
-script = ExtResource("1_234k4")
+script = ExtResource("1_cbaai")
 id = 278
 name = "revenge"
 power = 60

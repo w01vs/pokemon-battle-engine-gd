@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://d24kh7nm0tqv3"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://d73cw2rkgsd1"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_e3h34"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_o50yr"]
 
 [resource]
-script = ExtResource("1_e3h34")
+script = ExtResource("1_o50yr")
 id = 681
 name = "burn-up"
 power = 130

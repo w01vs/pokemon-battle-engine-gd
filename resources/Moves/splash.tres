@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cp7ths8qpuruj"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://7ccg27hx6pr4"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_6u0bg"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_yni83"]
 
 [resource]
-script = ExtResource("1_6u0bg")
+script = ExtResource("1_yni83")
 id = 149
 name = "splash"
 power = -1

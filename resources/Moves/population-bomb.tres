@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dw50ugtuxopuy"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b6qpsfyk5142g"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_7rbwd"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_7oyk5"]
 
 [resource]
-script = ExtResource("1_7rbwd")
+script = ExtResource("1_7oyk5")
 id = 859
 name = "population-bomb"
 power = 20
@@ -12,7 +12,10 @@ priority = 0
 pp = 10
 type = 12
 target = 3
-ailment = {}
+ailment = {
+"ailment": 0.0,
+"ailment_chance": 0.0
+}
 damage_type = 1
 crit_rate = 0
 drain = 0

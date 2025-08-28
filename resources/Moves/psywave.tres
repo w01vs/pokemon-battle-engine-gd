@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dvwouy7j82mi2"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bt0h6tgptjnw1"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ekpu6"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_icxw5"]
 
 [resource]
-script = ExtResource("1_ekpu6")
+script = ExtResource("1_icxw5")
 id = 148
 name = "psywave"
 power = -1

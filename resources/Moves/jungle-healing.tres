@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bni32j1nf7k1"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bamffbtigglu7"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_dnb0r"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_vlbxn"]
 
 [resource]
-script = ExtResource("1_dnb0r")
+script = ExtResource("1_vlbxn")
 id = 815
 name = "jungle-healing"
 power = -1

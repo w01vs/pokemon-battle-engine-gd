@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://x8334osximes"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://p67hwgbfhini"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_8muv3"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_j24v0"]
 
 [resource]
-script = ExtResource("1_8muv3")
+script = ExtResource("1_j24v0")
 id = 411
 name = "energy-ball"
 power = 90

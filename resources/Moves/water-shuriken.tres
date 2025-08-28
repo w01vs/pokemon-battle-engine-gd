@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://lnemu5cetnbq"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dc8hsk31m2rr3"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_qertp"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ejjpr"]
 
 [resource]
-script = ExtResource("1_qertp")
+script = ExtResource("1_ejjpr")
 id = 593
 name = "water-shuriken"
 power = 15

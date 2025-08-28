@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cu6iaps2ed1is"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b5bf3owjbadeu"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_0fe36"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_huwao"]
 
 [resource]
-script = ExtResource("1_0fe36")
+script = ExtResource("1_huwao")
 id = 604
 name = "dazzling-gleam"
 power = 80

@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dprj0pvgrqw8x"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://burli7twqmxby"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_0xbm6"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ha3jx"]
 
 [resource]
-script = ExtResource("1_0xbm6")
+script = ExtResource("1_ha3jx")
 id = 183
 name = "scary-face"
 power = -1

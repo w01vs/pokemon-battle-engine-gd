@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dq0tdlo7bcx3"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bq2tavwpvn1mi"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_h0gwg"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_q773w"]
 
 [resource]
-script = ExtResource("1_h0gwg")
+script = ExtResource("1_q773w")
 id = 745
 name = "jaw-lock"
 power = 80

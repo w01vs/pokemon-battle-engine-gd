@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dagptobic5uva"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dv60qhi68n2hv"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_to6yg"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ukrdl"]
 
 [resource]
-script = ExtResource("1_to6yg")
+script = ExtResource("1_ukrdl")
 id = 322
 name = "water-spout"
 power = 150

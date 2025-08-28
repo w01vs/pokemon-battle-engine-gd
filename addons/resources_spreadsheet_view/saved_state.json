@@ -5,16 +5,16 @@
         "visibility": 0.0
       },
       "ailment": {
-        "visibility": 0.0
+        "visibility": 1.0
       },
       "completed": {
-        "visibility": 1.0
+        "visibility": 0.0
       },
       "crit_rate": {
         "visibility": 0.0
       },
       "damage_type": {
-        "visibility": 1.0
+        "visibility": 0.0
       },
       "drain": {
         "visibility": 0.0
@@ -41,6 +41,9 @@
         "visibility": 0.0
       },
       "min_turns": {
+        "visibility": 0.0
+      },
+      "move_type": {
         "visibility": 0.0
       },
       "name": {
@@ -74,12 +77,27 @@
         "visibility": 0.0
       },
       "type": {
-        "visibility": 1.0
+        "visibility": 0.0
+      },
+      "unique_effect": {
+        "visibility": 0.0
+      }
+    },
+    "res://resources/Pokemon/": {
+      "metadata/_custom_type_script": {
+        "visibility": 0.0
+      },
+      "resource_local_to_scene": {
+        "visibility": 0.0
+      },
+      "resource_name": {
+        "visibility": 0.0
       }
     }
   },
   "recent_paths": [
-    "res://resources/Moves/"
+    "res://resources/Moves/",
+    "res://resources/Pokemon/"
   ],
   "table_functions": {
     "filter": [

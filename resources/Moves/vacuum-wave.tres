@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://wsxi50tuwqv3"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://66ggi2700v64"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_xuno7"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_re8gq"]
 
 [resource]
-script = ExtResource("1_xuno7")
+script = ExtResource("1_re8gq")
 id = 409
 name = "vacuum-wave"
 power = 40

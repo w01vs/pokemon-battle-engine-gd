@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bjtl0f5tt2n18"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://kh54o83ige2c"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_755hg"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_o7hjw"]
 
 [resource]
-script = ExtResource("1_755hg")
+script = ExtResource("1_o7hjw")
 id = 181
 name = "protect"
 power = -1

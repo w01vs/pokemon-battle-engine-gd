@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c6ww1l2katun2"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://6ype3714l7dv"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_lnsj8"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_bw36f"]
 
 [resource]
-script = ExtResource("1_lnsj8")
+script = ExtResource("1_bw36f")
 id = 775
 name = "body-press"
 power = 80

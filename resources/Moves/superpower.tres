@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dpachb7f1fkvb"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bi7307ucwldpq"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_g2q1t"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_2iphq"]
 
 [resource]
-script = ExtResource("1_g2q1t")
+script = ExtResource("1_2iphq")
 id = 275
 name = "superpower"
 power = 120

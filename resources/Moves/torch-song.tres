@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://be5icngxmxt4x"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://oucw3m1k4c1j"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_e5wbj"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_jbpo0"]
 
 [resource]
-script = ExtResource("1_e5wbj")
+script = ExtResource("1_jbpo0")
 id = 870
 name = "torch-song"
 power = 80
@@ -12,18 +12,24 @@ priority = 0
 pp = 10
 type = 6
 target = 3
-ailment = {}
+ailment = {
+"ailment": 0.0,
+"ailment_chance": 0.0
+}
 damage_type = 0
 crit_rate = 0
 drain = 0
 flinch_chance = 0
 healing = 0
-max_hits = 0
-max_turns = 0
-min_hits = 0
-min_turns = 0
-stat_chance = 0
-stat_changes = []
+max_hits = -1
+max_turns = -1
+min_hits = -1
+min_turns = -1
+stat_chance = 100
+stat_changes = [{
+"change": 1.0,
+"stat": 5.0
+}]
 completed = false
 unique_effect = false
 move_type = 0

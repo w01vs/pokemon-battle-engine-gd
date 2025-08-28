@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cq28tresa0qch"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dca1yod80o02a"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_kqycs"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_cul38"]
 
 [resource]
-script = ExtResource("1_kqycs")
+script = ExtResource("1_cul38")
 id = 373
 name = "fling"
 power = -1

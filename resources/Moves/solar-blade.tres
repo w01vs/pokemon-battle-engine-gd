@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c421bfwwe1yq5"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cguy0r7h8nv04"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_8putx"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_6mn5k"]
 
 [resource]
-script = ExtResource("1_8putx")
+script = ExtResource("1_6mn5k")
 id = 668
 name = "solar-blade"
 power = 125

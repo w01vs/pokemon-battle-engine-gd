@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dfth8wu2w5ith"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dwtoalhefxj0v"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_mk44a"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_looc8"]
 
 [resource]
-script = ExtResource("1_mk44a")
+script = ExtResource("1_looc8")
 id = 317
 name = "silver-wind"
 power = 60

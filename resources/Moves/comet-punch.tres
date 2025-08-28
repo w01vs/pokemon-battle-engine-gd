@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://5go3ghmqersj"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c17lw1c3kve53"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_b7bof"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_reyw3"]
 
 [resource]
-script = ExtResource("1_b7bof")
+script = ExtResource("1_reyw3")
 id = 3
 name = "comet-punch"
 power = 18

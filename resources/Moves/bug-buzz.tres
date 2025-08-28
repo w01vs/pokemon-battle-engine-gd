@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bowub6a0v7xml"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dvidffb4ips7y"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_e888a"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_2yfm4"]
 
 [resource]
-script = ExtResource("1_e888a")
+script = ExtResource("1_2yfm4")
 id = 404
 name = "bug-buzz"
 power = 90

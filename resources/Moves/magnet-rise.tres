@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c78d8hr278mn6"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://r0e450by3f1g"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_0bru6"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_hc7se"]
 
 [resource]
-script = ExtResource("1_0bru6")
+script = ExtResource("1_hc7se")
 id = 392
 name = "magnet-rise"
 power = -1

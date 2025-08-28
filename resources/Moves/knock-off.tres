@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cq1nupu8ls85k"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bfexmqmaphlcf"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_hqjwo"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_n1yf5"]
 
 [resource]
-script = ExtResource("1_hqjwo")
+script = ExtResource("1_n1yf5")
 id = 281
 name = "knock-off"
 power = 65

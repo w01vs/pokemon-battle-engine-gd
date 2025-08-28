@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://clkm3n03ic2fk"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c263quygeqdsj"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_l6u2c"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_w1a31"]
 
 [resource]
-script = ExtResource("1_l6u2c")
+script = ExtResource("1_w1a31")
 id = 233
 name = "morning-sun"
 power = -1

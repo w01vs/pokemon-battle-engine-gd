@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://38q3fc0kov30"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cqck0fkd8i2x4"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_6qbht"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_wglj3"]
 
 [resource]
-script = ExtResource("1_6qbht")
+script = ExtResource("1_wglj3")
 id = 205
 name = "false-swipe"
 power = 40

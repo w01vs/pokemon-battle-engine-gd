@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://d1i8aefo6hah"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dau1gkema68dk"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_3h0px"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_22e4l"]
 
 [resource]
-script = ExtResource("1_3h0px")
+script = ExtResource("1_22e4l")
 id = 135
 name = "high-jump-kick"
 power = 130

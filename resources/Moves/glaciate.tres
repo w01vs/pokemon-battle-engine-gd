@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://uymffs6y1c2d"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://fdk71l3hkp16"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_nigi7"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_4pl1j"]
 
 [resource]
-script = ExtResource("1_nigi7")
+script = ExtResource("1_4pl1j")
 id = 548
 name = "glaciate"
 power = 65

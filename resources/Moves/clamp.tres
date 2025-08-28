@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dch6na1wbmlsd"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cdu6wuht25a75"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_8v4dj"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_7ak51"]
 
 [resource]
-script = ExtResource("1_8v4dj")
+script = ExtResource("1_7ak51")
 id = 127
 name = "clamp"
 power = 35

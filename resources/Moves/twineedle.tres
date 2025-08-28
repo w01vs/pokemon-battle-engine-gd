@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bfmcf1c5kcx35"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dev5tvfk8j5fk"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_0knuu"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_yecox"]
 
 [resource]
-script = ExtResource("1_0knuu")
+script = ExtResource("1_yecox")
 id = 40
 name = "twineedle"
 power = 25

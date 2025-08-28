@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b2vdob1jn6v3"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cua2x35bx55hu"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_o5mj8"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_5xjsj"]
 
 [resource]
-script = ExtResource("1_o5mj8")
+script = ExtResource("1_5xjsj")
 id = 458
 name = "roar-of-time"
 power = 150

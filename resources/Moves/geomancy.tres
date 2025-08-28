@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://ciimtvthe7vpj"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://ds8c0ykels404"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_nwmwd"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_qgnxd"]
 
 [resource]
-script = ExtResource("1_nwmwd")
+script = ExtResource("1_qgnxd")
 id = 600
 name = "geomancy"
 power = -1

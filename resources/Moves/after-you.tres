@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://vu3rse6e0qxy"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://chwxxovefnnd8"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_c6fc6"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ua36x"]
 
 [resource]
-script = ExtResource("1_c6fc6")
+script = ExtResource("1_ua36x")
 id = 494
 name = "after-you"
 power = -1

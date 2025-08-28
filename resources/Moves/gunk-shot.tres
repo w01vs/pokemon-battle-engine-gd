@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dw28k617m4s6q"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bt6awuuj3k3qb"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_pipd7"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_d4frs"]
 
 [resource]
-script = ExtResource("1_pipd7")
+script = ExtResource("1_d4frs")
 id = 440
 name = "gunk-shot"
 power = 120

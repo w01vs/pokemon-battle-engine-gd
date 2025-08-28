@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dmr3yeti8bk8m"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c3gikia7xgl0"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_pojer"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_r7ttf"]
 
 [resource]
-script = ExtResource("1_pojer")
+script = ExtResource("1_r7ttf")
 id = 169
 name = "mind-reader"
 power = -1

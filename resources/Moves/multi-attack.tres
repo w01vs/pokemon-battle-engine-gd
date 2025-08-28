@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cct5v8fupjgxf"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://d354guej1a3vg"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_1q5v5"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_nvowd"]
 
 [resource]
-script = ExtResource("1_1q5v5")
+script = ExtResource("1_nvowd")
 id = 717
 name = "multi-attack"
 power = 120

@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://kv2f64k7us4b"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://v8qdjbwdxbuc"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_jyb1j"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_hseyo"]
 
 [resource]
-script = ExtResource("1_jyb1j")
+script = ExtResource("1_hseyo")
 id = 615
 name = "lands-wrath"
 power = 90

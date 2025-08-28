@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://coa8u2umu0p0s"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dp62a7rk8bdxf"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_8sbrw"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_kdmoj"]
 
 [resource]
-script = ExtResource("1_8sbrw")
+script = ExtResource("1_kdmoj")
 id = 187
 name = "sludge-bomb"
 power = 90

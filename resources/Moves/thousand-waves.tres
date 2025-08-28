@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://n73yyrogntu2"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://blvmqhqmypagd"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_u1ahm"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_u4eby"]
 
 [resource]
-script = ExtResource("1_u1ahm")
+script = ExtResource("1_u4eby")
 id = 614
 name = "thousand-waves"
 power = 90

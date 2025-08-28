@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dkm3wk5f2hb18"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cs3daecmnsnyn"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_qrfsn"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_exckj"]
 
 [resource]
-script = ExtResource("1_qrfsn")
+script = ExtResource("1_exckj")
 id = 5
 name = "pay-day"
 power = 40

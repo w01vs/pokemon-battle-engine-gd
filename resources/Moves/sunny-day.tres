@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://qjyin8fogs1y"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cfqbbylyi6vb1"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_byxqw"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_vvj82"]
 
 [resource]
-script = ExtResource("1_byxqw")
+script = ExtResource("1_vvj82")
 id = 240
 name = "sunny-day"
 power = -1

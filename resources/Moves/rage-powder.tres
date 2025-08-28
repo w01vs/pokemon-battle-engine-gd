@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://0qyggw1hl2f1"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bo08q60ash30"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_j0geh"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_esrtt"]
 
 [resource]
-script = ExtResource("1_j0geh")
+script = ExtResource("1_esrtt")
 id = 475
 name = "rage-powder"
 power = -1

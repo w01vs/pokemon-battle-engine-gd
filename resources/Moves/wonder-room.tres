@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://drb0y0ytfmsrm"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dewj7khjo1d1p"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ptlqs"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_pw5md"]
 
 [resource]
-script = ExtResource("1_ptlqs")
+script = ExtResource("1_pw5md")
 id = 471
 name = "wonder-room"
 power = -1

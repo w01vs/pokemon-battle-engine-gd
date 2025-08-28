@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://pyfmre7sfvwu"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://47ph3t4ishvp"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_o0ady"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_umb0u"]
 
 [resource]
-script = ExtResource("1_o0ady")
+script = ExtResource("1_umb0u")
 id = 662
 name = "darkest-lariat"
 power = 85

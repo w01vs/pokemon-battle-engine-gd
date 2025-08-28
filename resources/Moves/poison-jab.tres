@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cxw0jhgxev8wm"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://ddwrj84kncx7b"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_enw3e"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_llka0"]
 
 [resource]
-script = ExtResource("1_enw3e")
+script = ExtResource("1_llka0")
 id = 397
 name = "poison-jab"
 power = 80

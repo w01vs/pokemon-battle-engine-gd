@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://db1eiyqv7l8fu"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://xdq48a5mfc57"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_r0kpv"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_nk5c7"]
 
 [resource]
-script = ExtResource("1_r0kpv")
+script = ExtResource("1_nk5c7")
 id = 496
 name = "echoed-voice"
 power = 40

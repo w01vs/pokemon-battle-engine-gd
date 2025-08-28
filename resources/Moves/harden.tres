@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dfvd1n04wxpp4"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://d1ss5ypye6gvs"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_jm76c"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_bca2x"]
 
 [resource]
-script = ExtResource("1_jm76c")
+script = ExtResource("1_bca2x")
 id = 105
 name = "harden"
 power = -1

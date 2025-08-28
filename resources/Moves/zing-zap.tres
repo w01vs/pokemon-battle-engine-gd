@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bgn0r5iatbupt"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://ddldg7y6vnj7c"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_tyhd4"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_p1c2v"]
 
 [resource]
-script = ExtResource("1_tyhd4")
+script = ExtResource("1_p1c2v")
 id = 715
 name = "zing-zap"
 power = 80

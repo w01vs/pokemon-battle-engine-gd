@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://600mh4edso7r"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://x7j6327qprw7"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_lhd24"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_mgor3"]
 
 [resource]
-script = ExtResource("1_lhd24")
+script = ExtResource("1_mgor3")
 id = 450
 name = "charge-beam"
 power = 50

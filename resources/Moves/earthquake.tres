@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://ctkvpjaixg436"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dpl02pyl68ksm"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_sbm8e"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_34qe0"]
 
 [resource]
-script = ExtResource("1_sbm8e")
+script = ExtResource("1_34qe0")
 id = 88
 name = "earthquake"
 power = 100

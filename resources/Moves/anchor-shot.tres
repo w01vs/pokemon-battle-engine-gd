@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://badeideo4pcaf"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://v0v8p400kyqi"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_6nfu1"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_sf1je"]
 
 [resource]
-script = ExtResource("1_6nfu1")
+script = ExtResource("1_sf1je")
 id = 676
 name = "anchor-shot"
 power = 80

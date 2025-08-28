@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dlv24jxxxikt6"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://ddxp5r0vwvr6w"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_fljmq"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_d5dmk"]
 
 [resource]
-script = ExtResource("1_fljmq")
+script = ExtResource("1_d5dmk")
 id = 460
 name = "lunar-dance"
 power = -1

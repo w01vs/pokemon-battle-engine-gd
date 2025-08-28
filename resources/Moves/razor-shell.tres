@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cbpok52svqlmw"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cqbvt2ths212j"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_cbxh0"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_hk612"]
 
 [resource]
-script = ExtResource("1_cbxh0")
+script = ExtResource("1_hk612")
 id = 533
 name = "razor-shell"
 power = 75

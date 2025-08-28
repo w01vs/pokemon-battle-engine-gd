@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cm5tkr6fo41h1"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://kn6tpwuik5r5"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_xeapg"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ngvcu"]
 
 [resource]
-script = ExtResource("1_xeapg")
+script = ExtResource("1_ngvcu")
 id = 754
 name = "fishious-rend"
 power = 85

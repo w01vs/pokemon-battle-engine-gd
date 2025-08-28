@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://6l8l2x2gfbe8"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cqi0kxh6nen85"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_c10bd"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_cdq0b"]
 
 [resource]
-script = ExtResource("1_c10bd")
+script = ExtResource("1_cdq0b")
 id = 253
 name = "stockpile"
 power = -1

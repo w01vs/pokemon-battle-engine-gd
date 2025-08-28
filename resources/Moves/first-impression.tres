@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://criksdu8us45x"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://d1nn7h3wx4oyr"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_rjb5l"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_lkrrv"]
 
 [resource]
-script = ExtResource("1_rjb5l")
+script = ExtResource("1_lkrrv")
 id = 659
 name = "first-impression"
 power = 90

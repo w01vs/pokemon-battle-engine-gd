@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b6ebdw7ge4dhe"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cpm37518i02f7"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_5rro2"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_lyyh4"]
 
 [resource]
-script = ExtResource("1_5rro2")
+script = ExtResource("1_lyyh4")
 id = 247
 name = "future-sight"
 power = 120

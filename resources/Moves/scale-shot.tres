@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dyn5cehb4s5yu"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://5xjunn5d8hl6"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_br001"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ms7f3"]
 
 [resource]
-script = ExtResource("1_br001")
+script = ExtResource("1_ms7f3")
 id = 798
 name = "scale-shot"
 power = 25

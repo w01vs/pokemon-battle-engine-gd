@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dqeiqbcry427d"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b10804lhhgfip"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_xl2jf"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_noy2x"]
 
 [resource]
-script = ExtResource("1_xl2jf")
+script = ExtResource("1_noy2x")
 id = 782
 name = "aura-wheel"
 power = 110

@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b4eqsks7hcc33"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://gvapkvtdggdu"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_v6aui"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_pme5h"]
 
 [resource]
-script = ExtResource("1_v6aui")
+script = ExtResource("1_pme5h")
 id = 147
 name = "flash"
 power = -1

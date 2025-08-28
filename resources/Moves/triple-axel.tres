@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cfjuru1wkb6qi"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://d4nmtwcdwjo"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_wv4po"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_cvn05"]
 
 [resource]
-script = ExtResource("1_wv4po")
+script = ExtResource("1_cvn05")
 id = 812
 name = "triple-axel"
 power = 20

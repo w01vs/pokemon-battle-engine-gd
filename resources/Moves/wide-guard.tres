@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cfd4kuxa0a4v1"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://xyijmjy76aww"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ylxw2"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_w8hgy"]
 
 [resource]
-script = ExtResource("1_ylxw2")
+script = ExtResource("1_w8hgy")
 id = 468
 name = "wide-guard"
 power = -1

@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://6sk43df8705l"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b45w1wy7sq37e"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_xfk44"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_yaq7n"]
 
 [resource]
-script = ExtResource("1_xfk44")
+script = ExtResource("1_yaq7n")
 id = 446
 name = "grass-knot"
 power = -1

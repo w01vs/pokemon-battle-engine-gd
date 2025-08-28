@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dv4qej8ivym81"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://boe57lke0h15a"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_m6mnj"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_skdxk"]
 
 [resource]
-script = ExtResource("1_m6mnj")
+script = ExtResource("1_skdxk")
 id = 189
 name = "octazooka"
 power = 65

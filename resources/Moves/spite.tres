@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bfat2irvdp5d7"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cj8y8xx5ivis6"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_61ga4"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_gjh50"]
 
 [resource]
-script = ExtResource("1_61ga4")
+script = ExtResource("1_gjh50")
 id = 179
 name = "spite"
 power = -1

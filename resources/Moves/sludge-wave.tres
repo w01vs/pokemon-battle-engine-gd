@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://d3g0px4uesywb"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c200oe4yg1me7"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_nyla5"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_w6ajr"]
 
 [resource]
-script = ExtResource("1_nyla5")
+script = ExtResource("1_w6ajr")
 id = 481
 name = "sludge-wave"
 power = 95

@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://10nnowfbm5q3"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bkwvaf4o4af2q"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_qscug"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_vfg38"]
 
 [resource]
-script = ExtResource("1_qscug")
+script = ExtResource("1_vfg38")
 id = 572
 name = "freeze-dry"
 power = 70

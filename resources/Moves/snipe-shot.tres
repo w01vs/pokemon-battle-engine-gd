@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cxho2443m021l"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://gqefxqlgb6t3"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ligsh"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_p04j1"]
 
 [resource]
-script = ExtResource("1_ligsh")
+script = ExtResource("1_p04j1")
 id = 744
 name = "snipe-shot"
 power = 80

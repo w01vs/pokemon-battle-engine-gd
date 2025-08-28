@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://8qlcybpfs4al"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cxnej5r7f2h5c"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_v3t8w"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_xwwp1"]
 
 [resource]
-script = ExtResource("1_v3t8w")
+script = ExtResource("1_xwwp1")
 id = 563
 name = "sticky-web"
 power = -1

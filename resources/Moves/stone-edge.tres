@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://wh1yii7ldj13"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c50yogw48gl2e"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_7af46"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_fimx8"]
 
 [resource]
-script = ExtResource("1_7af46")
+script = ExtResource("1_fimx8")
 id = 443
 name = "stone-edge"
 power = 100

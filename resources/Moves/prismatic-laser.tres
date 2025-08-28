@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cvt6jpbxo0lk5"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dk1wiujsne82u"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_mxphh"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_a5qvy"]
 
 [resource]
-script = ExtResource("1_mxphh")
+script = ExtResource("1_a5qvy")
 id = 710
 name = "prismatic-laser"
 power = 160

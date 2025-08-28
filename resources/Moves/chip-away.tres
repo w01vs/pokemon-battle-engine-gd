@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://djkrbuvm6562q"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://vysxdte2q1k4"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_wqmbj"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_y7fro"]
 
 [resource]
-script = ExtResource("1_wqmbj")
+script = ExtResource("1_y7fro")
 id = 497
 name = "chip-away"
 power = 70

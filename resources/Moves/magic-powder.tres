@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://pycol0c3iv3v"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bkrqj5dlhfigg"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_wc5f8"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_hntxf"]
 
 [resource]
-script = ExtResource("1_wc5f8")
+script = ExtResource("1_hntxf")
 id = 749
 name = "magic-powder"
 power = -1

@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://4oyckrxehpxt"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://p413p3hmmgtf"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_r7i1a"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_vwa4u"]
 
 [resource]
-script = ExtResource("1_r7i1a")
+script = ExtResource("1_vwa4u")
 id = 473
 name = "venoshock"
 power = 65

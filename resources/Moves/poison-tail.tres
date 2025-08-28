@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dfsvj6fwshy77"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://di7raxrpr6nbg"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_pmo8r"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_m0gw2"]
 
 [resource]
-script = ExtResource("1_pmo8r")
+script = ExtResource("1_m0gw2")
 id = 341
 name = "poison-tail"
 power = 50

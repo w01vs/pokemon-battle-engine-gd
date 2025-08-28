@@ -4,15 +4,15 @@
 
 [resource]
 script = ExtResource("1_kpkmb")
-id = 0
-name = ""
+id = null
+name = null
 power = 5
 accuracy = 100
 priority = 2
-pp = 0
+pp = null
 type = 12
 target = 1
-ailment = {}
+ailment = null
 damage_type = 1
 crit_rate = 3
 drain = 4
@@ -21,10 +21,10 @@ healing = 5
 max_hits = -1
 max_turns = 5
 min_hits = 5
-min_turns = 0
+min_turns = null
 stat_chance = 4
 stat_changes = [{}]
-completed = false
-unique_effect = false
-move_type = 0
+completed = null
+unique_effect = null
+move_type = null
 metadata/_custom_type_script = "uid://b8k4xlbvnaucc"

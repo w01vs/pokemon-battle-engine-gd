@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dpuinu048h8et"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cowhqo1tnuwkg"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_d8t27"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_bds77"]
 
 [resource]
-script = ExtResource("1_d8t27")
+script = ExtResource("1_bds77")
 id = 206
 name = "swagger"
 power = -1

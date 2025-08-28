@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://47msp3q1fdai"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://eo12vj5xp0b0"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ykja1"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_rfd2a"]
 
 [resource]
-script = ExtResource("1_ykja1")
+script = ExtResource("1_rfd2a")
 id = 576
 name = "draining-kiss"
 power = 50

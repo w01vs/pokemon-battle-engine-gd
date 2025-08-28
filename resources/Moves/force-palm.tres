@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bvr4dqsclpq7n"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bxnj54ux886fw"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_mm3he"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_rh57m"]
 
 [resource]
-script = ExtResource("1_mm3he")
+script = ExtResource("1_rh57m")
 id = 394
 name = "force-palm"
 power = 60

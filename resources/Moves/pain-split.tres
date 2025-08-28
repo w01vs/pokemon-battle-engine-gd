@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://qxoo5ghjdf7p"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://elquaobk55hf"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_yu2gk"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_jr3y8"]
 
 [resource]
-script = ExtResource("1_yu2gk")
+script = ExtResource("1_jr3y8")
 id = 219
 name = "pain-split"
 power = -1

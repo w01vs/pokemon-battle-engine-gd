@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://ld1pi2mvbj4j"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b7gejhwshawb7"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_85lih"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_h3nxi"]
 
 [resource]
-script = ExtResource("1_85lih")
+script = ExtResource("1_h3nxi")
 id = 78
 name = "sleep-powder"
 power = -1

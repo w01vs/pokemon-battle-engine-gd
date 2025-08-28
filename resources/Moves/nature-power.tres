@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b4eobc0ef2qln"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://codskyl4p7c2y"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_m5gwt"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_j00lg"]
 
 [resource]
-script = ExtResource("1_m5gwt")
+script = ExtResource("1_j00lg")
 id = 266
 name = "nature-power"
 power = -1

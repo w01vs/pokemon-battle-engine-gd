@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b384fjbkq82h3"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://nerwfqp3gebr"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_qioch"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_aj8q2"]
 
 [resource]
-script = ExtResource("1_qioch")
+script = ExtResource("1_aj8q2")
 id = 435
 name = "lava-plume"
 power = 80

@@ -1,24 +1,24 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://fwqepj5hkjy7"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bedm4m31uaqxe"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ms800"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_noigl"]
 
 [resource]
-script = ExtResource("1_ms800")
-id = 116
+script = ExtResource("1_noigl")
+id = 37
 name = "bide"
 power = -1
-accuracy = -1
+accuracy = 100
 priority = 1
 pp = 10
 type = 12
-target = 7
+target = 8
 ailment = {
 "ailment": 0.0,
 "ailment_chance": 0.0
 }
 damage_type = 1
 crit_rate = 0
-drain = 0
+drain = -33
 flinch_chance = 0
 healing = 0
 max_hits = -1
@@ -28,5 +28,5 @@ min_turns = -1
 stat_chance = 0
 stat_changes = []
 completed = false
-unique_effect = false
+unique_effect = true
 move_type = 0

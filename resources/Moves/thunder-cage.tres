@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://ftkue557du5q"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bv5elppyykh27"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_eqqd4"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_bv25t"]
 
 [resource]
-script = ExtResource("1_eqqd4")
+script = ExtResource("1_bv25t")
 id = 818
 name = "thunder-cage"
 power = 80

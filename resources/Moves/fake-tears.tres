@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bo373hsqejgt1"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c56io0kevbroo"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_dytsy"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_kxnlf"]
 
 [resource]
-script = ExtResource("1_dytsy")
+script = ExtResource("1_kxnlf")
 id = 312
 name = "fake-tears"
 power = -1

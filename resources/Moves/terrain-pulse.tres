@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dlkf3eyp1ulb4"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://3phy17p870r0"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_hnbe5"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_2tpi0"]
 
 [resource]
-script = ExtResource("1_hnbe5")
+script = ExtResource("1_2tpi0")
 id = 804
 name = "terrain-pulse"
 power = 50

@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bimleahrvuir8"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://i04eawb8mvyr"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_k4hqp"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_rmjfy"]
 
 [resource]
-script = ExtResource("1_k4hqp")
+script = ExtResource("1_rmjfy")
 id = 532
 name = "sacred-sword"
 power = 90

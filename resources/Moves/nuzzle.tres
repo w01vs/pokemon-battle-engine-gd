@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dr7qnlnoq4c56"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://tvm5ilmn0gty"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_2g63k"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_80nf7"]
 
 [resource]
-script = ExtResource("1_2g63k")
+script = ExtResource("1_80nf7")
 id = 608
 name = "nuzzle"
 power = 20

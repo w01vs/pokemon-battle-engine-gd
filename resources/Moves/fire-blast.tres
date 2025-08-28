@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://q68vhfsmr14g"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://chgrfhl1vybcs"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_kplnh"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_f61b1"]
 
 [resource]
-script = ExtResource("1_kplnh")
+script = ExtResource("1_f61b1")
 id = 125
 name = "fire-blast"
 power = 110

@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://fx41h4w0on2x"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://df8lge50qienm"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_04ijh"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_o55mx"]
 
 [resource]
-script = ExtResource("1_04ijh")
+script = ExtResource("1_o55mx")
 id = 508
 name = "circle-throw"
 power = 60

@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://ccjurmjb6ar5b"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://btglji2o5cn3m"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_qkddw"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_54ht8"]
 
 [resource]
-script = ExtResource("1_qkddw")
+script = ExtResource("1_54ht8")
 id = 465
 name = "ominous-wind"
 power = 60

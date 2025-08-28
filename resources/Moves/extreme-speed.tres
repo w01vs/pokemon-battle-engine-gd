@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cylvcc76dsn2v"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b2v6jr1vtfb12"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_j6e4s"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_yfx5v"]
 
 [resource]
-script = ExtResource("1_j6e4s")
+script = ExtResource("1_yfx5v")
 id = 244
 name = "extreme-speed"
 power = 80

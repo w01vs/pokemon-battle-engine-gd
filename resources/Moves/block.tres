@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cu7gk6k27b6o"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://du63aa26gx7ci"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_vdtsu"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_wdyj8"]
 
 [resource]
-script = ExtResource("1_vdtsu")
+script = ExtResource("1_wdyj8")
 id = 334
 name = "block"
 power = -1

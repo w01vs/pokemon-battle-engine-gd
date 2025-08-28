@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c0fh7p0v5s28w"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://06xc7y4qp2oy"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_qoh6l"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_a4dd0"]
 
 [resource]
-script = ExtResource("1_qoh6l")
+script = ExtResource("1_a4dd0")
 id = 712
 name = "sunsteel-strike"
 power = 100

@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://5scnvoy1aled"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bkpkx4sp43ruo"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_yfy2n"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_3khxe"]
 
 [resource]
-script = ExtResource("1_yfy2n")
+script = ExtResource("1_3khxe")
 id = 200
 name = "sandstorm"
 power = -1

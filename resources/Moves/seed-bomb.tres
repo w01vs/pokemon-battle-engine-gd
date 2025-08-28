@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b6ggp1bm8pib5"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b0tpjk0ner6we"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_q0xod"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_3adxy"]
 
 [resource]
-script = ExtResource("1_q0xod")
+script = ExtResource("1_3adxy")
 id = 401
 name = "seed-bomb"
 power = 80

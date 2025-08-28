@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://0xeshdcyqx4u"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cry4h0edmoq2n"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_7f21r"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_500rp"]
 
 [resource]
-script = ExtResource("1_7f21r")
+script = ExtResource("1_500rp")
 id = 796
 name = "expanding-force"
 power = 80

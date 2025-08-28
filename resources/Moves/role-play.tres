@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://hanrccr86ksf"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cebb7l2ckexb4"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_3773o"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_vcp7p"]
 
 [resource]
-script = ExtResource("1_3773o")
+script = ExtResource("1_vcp7p")
 id = 271
 name = "role-play"
 power = -1

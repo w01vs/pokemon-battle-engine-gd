@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://blvjeo0ayd168"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://qgo0nr84lasa"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_h6svc"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_mrmmg"]
 
 [resource]
-script = ExtResource("1_h6svc")
+script = ExtResource("1_mrmmg")
 id = 806
 name = "burning-jealousy"
 power = 70

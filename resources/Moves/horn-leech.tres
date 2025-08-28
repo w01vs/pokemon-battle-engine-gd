@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://crwe7vw0p75pk"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://wse68ib6o2jt"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_pfkuv"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_m3rxm"]
 
 [resource]
-script = ExtResource("1_pfkuv")
+script = ExtResource("1_m3rxm")
 id = 531
 name = "horn-leech"
 power = 75

@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://csiqc2wb7klh7"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cae0323c832lm"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_s4r23"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_5s8y0"]
 
 [resource]
-script = ExtResource("1_s4r23")
+script = ExtResource("1_5s8y0")
 id = 680
 name = "power-trip"
 power = 20

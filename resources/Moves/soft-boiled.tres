@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://d04uka6n5gdqc"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://jomwemv40rr5"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_mq6s1"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_hkl37"]
 
 [resource]
-script = ExtResource("1_mq6s1")
+script = ExtResource("1_hkl37")
 id = 134
 name = "soft-boiled"
 power = -1

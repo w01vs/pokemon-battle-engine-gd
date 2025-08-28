@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://ifdcaremu2qt"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://ffdvt4lbgn3k"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_842ti"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_k6cu4"]
 
 [resource]
-script = ExtResource("1_842ti")
+script = ExtResource("1_k6cu4")
 id = 225
 name = "baton-pass"
 power = -1

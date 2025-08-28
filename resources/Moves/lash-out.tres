@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://denagp8iwu32i"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dnxslqm1xbwya"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_pxa8i"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_07x37"]
 
 [resource]
-script = ExtResource("1_pxa8i")
+script = ExtResource("1_07x37")
 id = 807
 name = "lash-out"
 power = 75

@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://fqvrwevhhoxb"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cc6cwogk7cq6"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_7ccb4"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ea534"]
 
 [resource]
-script = ExtResource("1_7ccb4")
+script = ExtResource("1_ea534")
 id = 790
 name = "life-dew"
 power = -1

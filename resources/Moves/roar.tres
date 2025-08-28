@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dl0mdis2ki3i5"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cewhf6w7wj6yw"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_8qfsr"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_isnmc"]
 
 [resource]
-script = ExtResource("1_8qfsr")
+script = ExtResource("1_isnmc")
 id = 45
 name = "roar"
 power = -1

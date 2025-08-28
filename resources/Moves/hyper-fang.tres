@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://fr34ha7mjlyr"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cphfpo76b0qt8"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_fqkmx"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_h3ub5"]
 
 [resource]
-script = ExtResource("1_fqkmx")
+script = ExtResource("1_h3ub5")
 id = 157
 name = "hyper-fang"
 power = 80

@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cu7tvewvsuoip"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dfawthmk474bf"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_aokov"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_u246a"]
 
 [resource]
-script = ExtResource("1_aokov")
+script = ExtResource("1_u246a")
 id = 287
 name = "grudge"
 power = -1

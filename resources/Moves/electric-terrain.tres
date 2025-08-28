@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c6fn705n270no"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://clngagghjd1cj"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_u5vjp"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_pjykp"]
 
 [resource]
-script = ExtResource("1_u5vjp")
+script = ExtResource("1_pjykp")
 id = 603
 name = "electric-terrain"
 power = -1

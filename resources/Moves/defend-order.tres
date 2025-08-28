@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://01ru6v5vug2c"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dgu0emhdgwvq8"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ax4u4"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_thvol"]
 
 [resource]
-script = ExtResource("1_ax4u4")
+script = ExtResource("1_thvol")
 id = 454
 name = "defend-order"
 power = -1

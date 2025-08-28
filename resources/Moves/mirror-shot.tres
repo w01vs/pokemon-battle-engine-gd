@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://7umlm1j5c13k"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://kawkvt8io3id"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_vrpu1"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_x208b"]
 
 [resource]
-script = ExtResource("1_vrpu1")
+script = ExtResource("1_x208b")
 id = 428
 name = "mirror-shot"
 power = 65

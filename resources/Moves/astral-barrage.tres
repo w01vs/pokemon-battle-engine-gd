@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://k048dv3x48te"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://duesa75l0s36e"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_wy5wm"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_wt0wb"]
 
 [resource]
-script = ExtResource("1_wy5wm")
+script = ExtResource("1_wt0wb")
 id = 824
 name = "astral-barrage"
 power = 120

@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bvd86c002wl07"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dwi2r1m2ul1co"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_q1ge5"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_74pus"]
 
 [resource]
-script = ExtResource("1_q1ge5")
+script = ExtResource("1_74pus")
 id = 488
 name = "coil"
 power = -1

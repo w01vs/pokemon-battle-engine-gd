@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://1dhr3gv8x23t"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c0s0y15h0fukn"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_00wqg"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_m0jw4"]
 
 [resource]
-script = ExtResource("1_00wqg")
+script = ExtResource("1_m0jw4")
 id = 288
 name = "snatch"
 power = -1

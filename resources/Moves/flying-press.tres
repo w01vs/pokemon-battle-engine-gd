@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cmq7u1gbcuww"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://d0kpbuovbbayh"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ipnlw"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_0huxe"]
 
 [resource]
-script = ExtResource("1_ipnlw")
+script = ExtResource("1_0huxe")
 id = 559
 name = "flying-press"
 power = 100

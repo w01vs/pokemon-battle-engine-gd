@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cyn5x881lc7mj"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bqv50yh4lywwi"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_hdfn3"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_dmbwt"]
 
 [resource]
-script = ExtResource("1_hdfn3")
+script = ExtResource("1_dmbwt")
 id = 326
 name = "sky-uppercut"
 power = 85

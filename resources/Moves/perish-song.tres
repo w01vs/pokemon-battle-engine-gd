@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://jt2odqyrkknl"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c6ko1ng2xcbv5"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_xtgnn"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_jyqix"]
 
 [resource]
-script = ExtResource("1_xtgnn")
+script = ExtResource("1_jyqix")
 id = 194
 name = "perish-song"
 power = -1

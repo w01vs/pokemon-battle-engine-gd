@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://mg3upwr3r1uf"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bpbrf214toa7r"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_h6s81"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_yhs26"]
 
 [resource]
-script = ExtResource("1_h6s81")
+script = ExtResource("1_yhs26")
 id = 684
 name = "purify"
 power = -1

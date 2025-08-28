@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://byy5r3i8t1g77"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dlcjlflq0u7rw"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_lupox"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_q62v6"]
 
 [resource]
-script = ExtResource("1_lupox")
+script = ExtResource("1_q62v6")
 id = 834
 name = "chloroblast"
 power = 150
@@ -12,7 +12,10 @@ priority = 0
 pp = 5
 type = 9
 target = 3
-ailment = {}
+ailment = {
+"ailment": 0.0,
+"ailment_chance": 0.0
+}
 damage_type = 0
 crit_rate = 0
 drain = 0

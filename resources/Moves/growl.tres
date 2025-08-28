@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://ywvuni0nc3ah"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c7ljy14yhblb3"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_btbx2"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_w72ds"]
 
 [resource]
-script = ExtResource("1_btbx2")
+script = ExtResource("1_w72ds")
 id = 44
 name = "growl"
 power = -1

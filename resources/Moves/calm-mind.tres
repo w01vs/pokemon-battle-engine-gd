@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cjrvl4hwgweeu"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://libbcygfagkt"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_hrtwt"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_wmkj8"]
 
 [resource]
-script = ExtResource("1_hrtwt")
+script = ExtResource("1_wmkj8")
 id = 346
 name = "calm-mind"
 power = -1

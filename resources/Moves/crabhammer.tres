@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://0ch2rsqwrtlj"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c5opdbtn43ce2"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_cxlsw"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_v4fb0"]
 
 [resource]
-script = ExtResource("1_cxlsw")
+script = ExtResource("1_v4fb0")
 id = 151
 name = "crabhammer"
 power = 100

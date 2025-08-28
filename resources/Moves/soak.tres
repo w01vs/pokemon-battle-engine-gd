@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://3bfv8jigugd0"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://etl6ceo6q2e7"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_5etpw"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_vveak"]
 
 [resource]
-script = ExtResource("1_5etpw")
+script = ExtResource("1_vveak")
 id = 486
 name = "soak"
 power = -1

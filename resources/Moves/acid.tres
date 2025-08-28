@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://d0tp5rkt3n3ef"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://7ks3u46c1faw"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_1mllk"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_tanvf"]
 
 [resource]
-script = ExtResource("1_1mllk")
+script = ExtResource("1_tanvf")
 id = 50
 name = "acid"
 power = 40

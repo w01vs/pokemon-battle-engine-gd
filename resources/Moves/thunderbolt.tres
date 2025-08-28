@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cgogas3gq3hrg"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cqee2ejhfo1ah"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_uff0u"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_uvcb5"]
 
 [resource]
-script = ExtResource("1_uff0u")
+script = ExtResource("1_uvcb5")
 id = 84
 name = "thunderbolt"
 power = 90

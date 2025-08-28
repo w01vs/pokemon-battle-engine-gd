@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dkj7e4dwbhjqu"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://baj102ufvencr"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_oxney"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_h0raa"]
 
 [resource]
-script = ExtResource("1_oxney")
+script = ExtResource("1_h0raa")
 id = 178
 name = "reversal"
 power = -1

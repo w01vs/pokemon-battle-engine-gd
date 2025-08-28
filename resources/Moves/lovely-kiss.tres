@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c8hffw7ednyem"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dxut8lomscymh"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ydwou"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_glq6q"]
 
 [resource]
-script = ExtResource("1_ydwou")
+script = ExtResource("1_glq6q")
 id = 141
 name = "lovely-kiss"
 power = -1

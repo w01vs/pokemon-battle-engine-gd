@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://ck8jtm41ny6bi"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://d2pw05r7fbhhe"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_pm5b3"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_n2st6"]
 
 [resource]
-script = ExtResource("1_pm5b3")
+script = ExtResource("1_n2st6")
 id = 550
 name = "blue-flare"
 power = 130

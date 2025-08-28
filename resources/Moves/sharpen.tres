@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bd84l2f3ebuxi"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bcdcdm404ybyh"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_h48gv"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_wqywx"]
 
 [resource]
-script = ExtResource("1_h48gv")
+script = ExtResource("1_wqywx")
 id = 158
 name = "sharpen"
 power = -1

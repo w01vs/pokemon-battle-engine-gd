@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bbrk6ammgn4xa"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cp4t62crtesit"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_tp826"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_aogec"]
 
 [resource]
-script = ExtResource("1_tp826")
+script = ExtResource("1_aogec")
 id = 343
 name = "volt-tackle"
 power = 120

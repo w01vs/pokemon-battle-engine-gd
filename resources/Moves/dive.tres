@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bxpj78j7mrgox"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dlfg3ye3nevcm"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_bard2"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_utl2h"]
 
 [resource]
-script = ExtResource("1_bard2")
+script = ExtResource("1_utl2h")
 id = 290
 name = "dive"
 power = 80

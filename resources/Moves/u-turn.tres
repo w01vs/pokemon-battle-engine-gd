@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://t6yb1p4vj2qv"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cln4qu02cwjnh"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_rg2v4"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_rlmai"]
 
 [resource]
-script = ExtResource("1_rg2v4")
+script = ExtResource("1_rlmai")
 id = 368
 name = "u-turn"
 power = 70

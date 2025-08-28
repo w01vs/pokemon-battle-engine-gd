@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dmfqc1wkfcxdp"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://8oyprdcdr6fe"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_mtu75"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_d1g2b"]
 
 [resource]
-script = ExtResource("1_mtu75")
+script = ExtResource("1_d1g2b")
 id = 799
 name = "meteor-beam"
 power = 120

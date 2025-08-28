@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dyrf2dhjp2c1s"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bb46nnjm263tq"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_tbftt"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_w4kfn"]
 
 [resource]
-script = ExtResource("1_tbftt")
+script = ExtResource("1_w4kfn")
 id = 250
 name = "beat-up"
 power = -1

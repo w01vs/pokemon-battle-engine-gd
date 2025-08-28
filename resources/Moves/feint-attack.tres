@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dxmirie62akox"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b2rqp1e45a6hl"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_qkp4j"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_f4c0u"]
 
 [resource]
-script = ExtResource("1_qkp4j")
+script = ExtResource("1_f4c0u")
 id = 184
 name = "feint-attack"
 power = 60

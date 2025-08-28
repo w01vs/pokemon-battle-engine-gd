@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://yx1e8m4sidll"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cycaomi2bxjha"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_0alcw"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_bkr05"]
 
 [resource]
-script = ExtResource("1_0alcw")
+script = ExtResource("1_bkr05")
 id = 746
 name = "stuff-cheeks"
 power = -1

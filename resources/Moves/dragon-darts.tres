@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dfq3vp4jjh036"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c3xlvpai82x47"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_e4liq"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_7kx27"]
 
 [resource]
-script = ExtResource("1_e4liq")
+script = ExtResource("1_7kx27")
 id = 750
 name = "dragon-darts"
 power = 50

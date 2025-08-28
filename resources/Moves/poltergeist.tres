@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://1gloakcefrhh"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cpu2epg2ul36g"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_vtf2m"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_7g8s5"]
 
 [resource]
-script = ExtResource("1_vtf2m")
+script = ExtResource("1_7g8s5")
 id = 808
 name = "poltergeist"
 power = 110

@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://ble60im2i2npd"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://d0l5jinsxpm3o"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_36gfn"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_cw74s"]
 
 [resource]
-script = ExtResource("1_36gfn")
+script = ExtResource("1_cw74s")
 id = 476
 name = "telekinesis"
 power = -1

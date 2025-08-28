@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://w5ndkrjppri4"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bv0l3adfkk0v5"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_wlvu6"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_qjwsp"]
 
 [resource]
-script = ExtResource("1_wlvu6")
+script = ExtResource("1_qjwsp")
 id = 315
 name = "odor-sleuth"
 power = -1

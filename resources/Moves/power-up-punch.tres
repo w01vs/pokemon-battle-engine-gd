@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://ci01tihuvk8el"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dkfw3txopj82g"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_cxutc"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_xncex"]
 
 [resource]
-script = ExtResource("1_cxutc")
+script = ExtResource("1_xncex")
 id = 611
 name = "power-up-punch"
 power = 40

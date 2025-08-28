@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://duhukl77pxdh8"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://csbqfndo3a4ue"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_w3qk1"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_mt5ca"]
 
 [resource]
-script = ExtResource("1_w3qk1")
+script = ExtResource("1_mt5ca")
 id = 692
 name = "brutal-swing"
 power = 60

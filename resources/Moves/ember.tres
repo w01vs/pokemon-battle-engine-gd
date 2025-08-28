@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dadgwaejl4rit"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bjq3mcl04brl1"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_42umf"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_k6ldg"]
 
 [resource]
-script = ExtResource("1_42umf")
+script = ExtResource("1_k6ldg")
 id = 51
 name = "ember"
 power = 40

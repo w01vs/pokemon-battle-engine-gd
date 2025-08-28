@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b174e8p568w4a"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://2s0qtj5o2f2k"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_cavqk"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_s5yhs"]
 
 [resource]
-script = ExtResource("1_cavqk")
+script = ExtResource("1_s5yhs")
 id = 246
 name = "shadow-ball"
 power = 80

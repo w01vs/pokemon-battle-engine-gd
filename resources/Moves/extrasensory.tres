@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://s0nn7d53oqks"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://blxher42b5gf3"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_7rwac"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_0ogjf"]
 
 [resource]
-script = ExtResource("1_7rwac")
+script = ExtResource("1_0ogjf")
 id = 325
 name = "extrasensory"
 power = 80

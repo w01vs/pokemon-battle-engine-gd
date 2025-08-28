@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dghqg8gwek4fm"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dhydb6t8765ku"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_82i6f"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_p1rxt"]
 
 [resource]
-script = ExtResource("1_82i6f")
+script = ExtResource("1_p1rxt")
 id = 383
 name = "power-swap"
 power = -1

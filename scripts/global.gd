@@ -33,15 +33,15 @@ enum Target {
 }
 
 enum Stat { 
-	HEALTH,
-	DEFENSE,
-	SPECIAL_DEFENSE,
-	SPEED,
-	ATTACK,
-	SPECIAL_ATTACK,
-	EVASIVENESS,
-	ACCURACY,
-	CRIT_RATE
+	HEALTH,				#0
+	DEFENSE,			#1
+	SPECIAL_DEFENSE,	#2
+	SPEED,				#3
+	ATTACK,				#4
+	SPECIAL_ATTACK,		#5
+	EVASIVENESS,		#6
+	ACCURACY,			#7
+	CRIT_RATE			#8
 }
 
 enum DamageType { 
@@ -51,28 +51,28 @@ enum DamageType {
 }
 
 enum Ailment { 
-	NONE, 
-	PARALYSIS, 
-	SLEEP, 
-	FREEZE, 
-	BURN, 
-	POISON, 
-	CONFUSION, 
-	INFATUATION, 
-	TRAP, 
-	NIGHTMARE, 
-	TORMENT, 
-	DISABLE, 
-	YAWN, 
-	HEAL_BLOCK, 
-	NO_TYPE_IMMUNITY,
-	LEECH_SEED,
-	EMBARGO,
-	PERISH_SONG,
-	INGRAIN,
-	SILENCE,
-	TAR_SHOT,
-	RANDOM
+	NONE, 				#0
+	PARALYSIS, 			#1
+	SLEEP, 				#2
+	FREEZE, 			#3
+	BURN, 				#4
+	POISON, 			#5
+	CONFUSION, 			#6
+	INFATUATION, 		#7
+	TRAP, 				#8
+	NIGHTMARE, 			#9
+	TORMENT, 			#10
+	DISABLE, 			#11
+	YAWN, 				#12
+	HEAL_BLOCK, 		#13
+	NO_TYPE_IMMUNITY,	#14
+	LEECH_SEED,			#15
+	EMBARGO,			#16
+	PERISH_SONG,		#17
+	INGRAIN,			#18
+	SILENCE,			#19
+	TAR_SHOT,			#20
+	RANDOM				#21
 }
 
 enum Type { 

@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dqt6hjwto02cs"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dhlqhvaqyxau8"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_1cvax"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_33l8e"]
 
 [resource]
-script = ExtResource("1_1cvax")
+script = ExtResource("1_33l8e")
 id = 142
 name = "sky-attack"
 power = 140

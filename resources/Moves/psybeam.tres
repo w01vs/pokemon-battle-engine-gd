@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://eelabo0lymbe"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cx8kayp2cr02j"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_18s3y"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_whwih"]
 
 [resource]
-script = ExtResource("1_18s3y")
+script = ExtResource("1_whwih")
 id = 59
 name = "psybeam"
 power = 65

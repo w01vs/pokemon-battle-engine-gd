@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://fdr62nihvaim"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://druhfipccqqtn"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_uiftu"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_d3n5o"]
 
 [resource]
-script = ExtResource("1_uiftu")
+script = ExtResource("1_d3n5o")
 id = 132
 name = "amnesia"
 power = -1

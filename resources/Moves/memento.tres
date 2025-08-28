@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cmadaljjqlad5"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cgot6d76ces8k"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_32urr"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_rmds5"]
 
 [resource]
-script = ExtResource("1_32urr")
+script = ExtResource("1_rmds5")
 id = 261
 name = "memento"
 power = -1

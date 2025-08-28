@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dcup2cl5cdmbg"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://d5itsdoxyoi8"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_d0yw6"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_13rhv"]
 
 [resource]
-script = ExtResource("1_d0yw6")
+script = ExtResource("1_13rhv")
 id = 144
 name = "bubble"
 power = 40

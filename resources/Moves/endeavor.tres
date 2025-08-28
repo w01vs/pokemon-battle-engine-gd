@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dk0wknwmndxnk"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cxyx1onbyvod5"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_t2enf"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_xjq2d"]
 
 [resource]
-script = ExtResource("1_t2enf")
+script = ExtResource("1_xjq2d")
 id = 282
 name = "endeavor"
 power = -1

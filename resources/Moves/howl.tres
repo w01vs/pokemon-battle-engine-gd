@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bgwvw265jhngi"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://d1e5f7ykla1kn"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_jueob"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ch3ro"]
 
 [resource]
-script = ExtResource("1_jueob")
+script = ExtResource("1_ch3ro")
 id = 335
 name = "howl"
 power = -1

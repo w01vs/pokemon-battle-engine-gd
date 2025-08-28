@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://w171nypg1rxn"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://chq5bemh44fbv"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_c055h"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_6imxj"]
 
 [resource]
-script = ExtResource("1_c055h")
+script = ExtResource("1_6imxj")
 id = 665
 name = "floral-healing"
 power = -1

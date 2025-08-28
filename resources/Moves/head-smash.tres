@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b82uo8irhrfjy"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dsv6jlkc7fr07"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_kmace"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_y1lyy"]
 
 [resource]
-script = ExtResource("1_kmace")
+script = ExtResource("1_y1lyy")
 id = 456
 name = "head-smash"
 power = 150

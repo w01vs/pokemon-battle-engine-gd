@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dmk2rl417phxk"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://072dw8juwv7v"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_4du17"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_7rva1"]
 
 [resource]
-script = ExtResource("1_4du17")
+script = ExtResource("1_7rva1")
 id = 321
 name = "cosmic-power"
 power = -1

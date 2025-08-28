@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://e3nfcmfyhvk3"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dkm6mhukabifc"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_oqstx"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_d0d7j"]
 
 [resource]
-script = ExtResource("1_oqstx")
+script = ExtResource("1_d0d7j")
 id = 320
 name = "tickle"
 power = -1

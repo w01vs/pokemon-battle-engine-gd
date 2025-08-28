@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://brsa8qmk0bt8b"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cvrvmxg12cx6r"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_cyrix"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_2r0sw"]
 
 [resource]
-script = ExtResource("1_cyrix")
+script = ExtResource("1_2r0sw")
 id = 426
 name = "psycho-cut"
 power = 70

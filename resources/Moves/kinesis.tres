@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bm527jxjohfan"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bqmyxgf106anf"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_e22u1"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_08pgr"]
 
 [resource]
-script = ExtResource("1_e22u1")
+script = ExtResource("1_08pgr")
 id = 133
 name = "kinesis"
 power = -1

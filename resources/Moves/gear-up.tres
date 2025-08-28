@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://d2h5lnwk47n86"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://4syaqc0pg1qm"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_x40xg"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_dpls5"]
 
 [resource]
-script = ExtResource("1_x40xg")
+script = ExtResource("1_dpls5")
 id = 673
 name = "gear-up"
 power = -1

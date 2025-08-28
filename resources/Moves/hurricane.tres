@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dx84clbgv4xqy"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://daxgcuo0866ow"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_uw0ve"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_2f6n0"]
 
 [resource]
-script = ExtResource("1_uw0ve")
+script = ExtResource("1_2f6n0")
 id = 541
 name = "hurricane"
 power = 110

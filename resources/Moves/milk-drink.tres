@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://ui1tbp5g2vn5"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cr3odtckir0t5"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_kn7ek"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_rukvk"]
 
 [resource]
-script = ExtResource("1_kn7ek")
+script = ExtResource("1_rukvk")
 id = 207
 name = "milk-drink"
 power = -1

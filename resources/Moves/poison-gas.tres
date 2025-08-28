@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://xu10mhwky6b7"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://068iou5ncx4h"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_1cbjc"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_2nddr"]
 
 [resource]
-script = ExtResource("1_1cbjc")
+script = ExtResource("1_2nddr")
 id = 138
 name = "poison-gas"
 power = -1

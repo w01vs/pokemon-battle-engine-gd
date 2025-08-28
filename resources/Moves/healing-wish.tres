@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://wi5woiktedwo"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c43m8ugx77ud3"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_il0nh"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_i6gwi"]
 
 [resource]
-script = ExtResource("1_il0nh")
+script = ExtResource("1_i6gwi")
 id = 360
 name = "healing-wish"
 power = -1

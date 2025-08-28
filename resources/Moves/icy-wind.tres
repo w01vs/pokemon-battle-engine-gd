@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b3opy264x1xfk"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://x0gf65tws8gt"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_8bd7p"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_coojp"]
 
 [resource]
-script = ExtResource("1_8bd7p")
+script = ExtResource("1_coojp")
 id = 195
 name = "icy-wind"
 power = 55

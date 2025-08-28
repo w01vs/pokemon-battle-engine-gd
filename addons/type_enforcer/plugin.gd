@@ -24,7 +24,7 @@ func _exit_tree() -> void:
 
 
 func _on_resource_saved(res: Resource) -> void:
-	if res is GDScript and not res.resource_path.begins_with("res://addons"):
+	if res is GDScript and not res.resource_path.begins_with("res://addons") and not res.resource_path.begins_with("res://example"):
 		_check_script(res)
 
 
@@ -54,7 +54,7 @@ func _get_all_gd_scripts(folder: String) -> Array:
 	while file != "":
 		var full_path: String = folder.path_join(file)
 		if dir.current_is_dir():
-			if full_path.begins_with("res://addons"):  # Skip addon directories
+			if full_path.begins_with("res://addons") or full_path.begins_with("res://example"):  # Skip addon/example directories
 				file = dir.get_next()
 				continue
 			# Recursively process subdirectories

@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cdf3h2qnypyki"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://g0b1srt826mf"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_02f0a"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_4uoev"]
 
 [resource]
-script = ExtResource("1_02f0a")
+script = ExtResource("1_4uoev")
 id = 268
 name = "taunt"
 power = -1

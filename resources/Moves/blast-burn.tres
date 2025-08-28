@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dghghce4hvle2"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b877j1jg1o16l"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_7v2is"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_0ud1c"]
 
 [resource]
-script = ExtResource("1_7v2is")
+script = ExtResource("1_0ud1c")
 id = 306
 name = "blast-burn"
 power = 150

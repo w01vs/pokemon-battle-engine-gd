@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dbijcp75tessu"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bkb0ejxlak6xo"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_xy33u"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_rxsa7"]
 
 [resource]
-script = ExtResource("1_xy33u")
+script = ExtResource("1_rxsa7")
 id = 365
 name = "tailwind"
 power = -1

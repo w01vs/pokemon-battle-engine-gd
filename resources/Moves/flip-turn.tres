@@ -1,16 +1,16 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://ci6ohqst7kpwa"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dajsjwk5qt62f"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_b1ocx"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_rx071"]
 
 [resource]
-script = ExtResource("1_b1ocx")
+script = ExtResource("1_rx071")
 id = 811
 name = "flip-turn"
 power = 60
 accuracy = 100
 priority = 0
 pp = 20
-type = 17
+type = 19
 target = 3
 ailment = {
 "ailment": 0.0,

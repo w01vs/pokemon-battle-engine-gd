@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://52ak1bplgtyq"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c27jckkrpq4gr"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_wmtpd"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ye5p6"]
 
 [resource]
-script = ExtResource("1_wmtpd")
+script = ExtResource("1_ye5p6")
 id = 606
 name = "hold-hands"
 power = -1

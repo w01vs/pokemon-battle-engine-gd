@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://sh11ljtvx71j"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://imh1xq4qlhln"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_q117v"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ybge5"]
 
 [resource]
-script = ExtResource("1_q117v")
+script = ExtResource("1_ybge5")
 id = 441
 name = "iron-head"
 power = 80

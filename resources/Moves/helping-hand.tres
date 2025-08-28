@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dl6p6tawl2gra"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b1jsyf5mbgshj"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_r74qg"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_gsnm7"]
 
 [resource]
-script = ExtResource("1_r74qg")
+script = ExtResource("1_gsnm7")
 id = 269
 name = "helping-hand"
 power = -1

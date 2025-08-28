@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://mdg76j8m6qo3"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b6dl6l3fs1ekc"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_y4e5k"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_pnu7p"]
 
 [resource]
-script = ExtResource("1_y4e5k")
+script = ExtResource("1_pnu7p")
 id = 420
 name = "shadow-claw"
 power = 70

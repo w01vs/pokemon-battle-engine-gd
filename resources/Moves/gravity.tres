@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://j8xhqbkyo7ak"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dp7shau2ckird"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_8i21m"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_6xdpa"]
 
 [resource]
-script = ExtResource("1_8i21m")
+script = ExtResource("1_6xdpa")
 id = 355
 name = "gravity"
 power = -1

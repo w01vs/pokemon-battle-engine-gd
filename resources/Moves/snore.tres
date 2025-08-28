@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c3cw0oes0yjdl"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cklvhn6fqea5"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_7whus"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_pyvyr"]
 
 [resource]
-script = ExtResource("1_7whus")
+script = ExtResource("1_pyvyr")
 id = 172
 name = "snore"
 power = 50

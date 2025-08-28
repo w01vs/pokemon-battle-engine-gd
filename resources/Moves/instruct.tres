@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://3s7m017isf2f"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://drvqkg7j7m5hs"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_k2pus"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_v2j83"]
 
 [resource]
-script = ExtResource("1_k2pus")
+script = ExtResource("1_v2j83")
 id = 688
 name = "instruct"
 power = -1

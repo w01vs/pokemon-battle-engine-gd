@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b20tkctkhu86o"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://exm5fx8j22me"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_2kfhl"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_5la5b"]
 
 [resource]
-script = ExtResource("1_2kfhl")
+script = ExtResource("1_5la5b")
 id = 658
 name = "shore-up"
 power = -1

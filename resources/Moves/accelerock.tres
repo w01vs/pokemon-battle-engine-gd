@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c33d8yfml7yq7"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://d1jkjsgowpy8o"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_0sy8m"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_xrcri"]
 
 [resource]
-script = ExtResource("1_0sy8m")
+script = ExtResource("1_xrcri")
 id = 708
 name = "accelerock"
 power = 40

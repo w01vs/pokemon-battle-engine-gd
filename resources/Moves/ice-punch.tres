@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cm28xrnx7hym5"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://wan4m8qyhker"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_2hw52"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_506ch"]
 
 [resource]
-script = ExtResource("1_2hw52")
+script = ExtResource("1_506ch")
 id = 7
 name = "ice-punch"
 power = 75

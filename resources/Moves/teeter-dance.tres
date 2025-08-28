@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://lwa0y0k3si65"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c141vchcl0nl8"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_l7f32"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_un03m"]
 
 [resource]
-script = ExtResource("1_l7f32")
+script = ExtResource("1_un03m")
 id = 297
 name = "teeter-dance"
 power = -1

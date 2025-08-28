@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bb5n7a3g6qa5u"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://duu88mglqlvf0"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_0cv17"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_tqpew"]
 
 [resource]
-script = ExtResource("1_0cv17")
+script = ExtResource("1_tqpew")
 id = 564
 name = "fell-stinger"
 power = 50

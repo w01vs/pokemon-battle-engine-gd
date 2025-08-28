@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://ugq6aphp65cu"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dcx4uvwxschhu"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_pugl7"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_x5m33"]
 
 [resource]
-script = ExtResource("1_pugl7")
+script = ExtResource("1_x5m33")
 id = 427
 name = "zen-headbutt"
 power = 80

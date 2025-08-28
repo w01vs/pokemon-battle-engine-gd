@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c7f05yl4jmq84"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b4swldij8kp2s"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_n4gbl"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_20mrw"]
 
 [resource]
-script = ExtResource("1_n4gbl")
+script = ExtResource("1_20mrw")
 id = 413
 name = "earth-power"
 power = 90

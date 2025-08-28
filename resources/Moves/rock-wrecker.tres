@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://jcgkveril50h"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bbtgnwbyknno7"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_jiua6"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ekw8d"]
 
 [resource]
-script = ExtResource("1_jiua6")
+script = ExtResource("1_ekw8d")
 id = 438
 name = "rock-wrecker"
 power = 150

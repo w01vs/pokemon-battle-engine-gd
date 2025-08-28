@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://boinnah18tles"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://vxhjtxu3ttdb"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_bfb0e"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_tlff6"]
 
 [resource]
-script = ExtResource("1_bfb0e")
+script = ExtResource("1_tlff6")
 id = 299
 name = "mud-sport"
 power = -1

@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bft0716mlq7m4"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://88f4m6hsf75b"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_l8mx4"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_sbr4l"]
 
 [resource]
-script = ExtResource("1_l8mx4")
+script = ExtResource("1_sbr4l")
 id = 607
 name = "baby-doll-eyes"
 power = -1

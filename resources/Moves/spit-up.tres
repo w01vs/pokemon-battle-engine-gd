@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bea3oqume1kmh"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c37pl43i0ibba"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_a0cni"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_7x86f"]
 
 [resource]
-script = ExtResource("1_a0cni")
+script = ExtResource("1_7x86f")
 id = 254
 name = "spit-up"
 power = -1

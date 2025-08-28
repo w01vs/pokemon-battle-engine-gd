@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cp312jo8uvhwx"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cs2gbh8svaxla"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_g6h2t"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_od1se"]
 
 [resource]
-script = ExtResource("1_g6h2t")
+script = ExtResource("1_od1se")
 id = 594
 name = "mystical-fire"
 power = 75

@@ -1,4 +1,4 @@
-[gd_scene load_steps=2 format=3 uid="uid://bwfijbcdbnmf5"]
+[gd_scene load_steps=2 format=3 uid="uid://be6fkocydvmi6"]
 
 [ext_resource type="Script" uid="uid://c7p8mn4x76haa" path="res://scripts/move_choose.gd" id="1_u00c7"]
 

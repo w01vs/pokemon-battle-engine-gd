@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bkn8icjemojd3"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dwds7qw0cc5oe"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_4i665"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_hqxnb"]
 
 [resource]
-script = ExtResource("1_4i665")
+script = ExtResource("1_hqxnb")
 id = 221
 name = "magnitude"
 power = -1

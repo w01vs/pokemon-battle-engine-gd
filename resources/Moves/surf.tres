@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b1bc6pnd6c0s5"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://mh2e1nb3rfyn"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_tf7kf"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_tafac"]
 
 [resource]
-script = ExtResource("1_tf7kf")
+script = ExtResource("1_tafac")
 id = 56
 name = "surf"
 power = 90

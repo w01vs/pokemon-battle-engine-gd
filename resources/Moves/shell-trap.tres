@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b633hokohp02s"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://engycfopiplb"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_jd8f3"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_u2gxh"]
 
 [resource]
-script = ExtResource("1_jd8f3")
+script = ExtResource("1_u2gxh")
 id = 703
 name = "shell-trap"
 power = 150

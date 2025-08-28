@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://d0d4c67muqsoy"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://fxmvr2i5g2qw"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_3vj73"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_53y5r"]
 
 [resource]
-script = ExtResource("1_3vj73")
+script = ExtResource("1_53y5r")
 id = 327
 name = "sand-tomb"
 power = 35

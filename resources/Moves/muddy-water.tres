@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bff4jyfnonb5e"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://d84bfvc0id8t"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_rtbf4"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_8cfe8"]
 
 [resource]
-script = ExtResource("1_rtbf4")
+script = ExtResource("1_8cfe8")
 id = 329
 name = "muddy-water"
 power = 90

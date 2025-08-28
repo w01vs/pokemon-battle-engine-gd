@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cy3cjt6updwln"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cqtfbq8o13vjn"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_xxhkd"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_dgn1t"]
 
 [resource]
-script = ExtResource("1_xxhkd")
+script = ExtResource("1_dgn1t")
 id = 586
 name = "fairy-lock"
 power = -1

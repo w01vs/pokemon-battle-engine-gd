@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b3klvtlwota35"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dixfhxsrjgp1r"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_27yov"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_7ts5g"]
 
 [resource]
-script = ExtResource("1_27yov")
+script = ExtResource("1_7ts5g")
 id = 337
 name = "frenzy-plant"
 power = 150

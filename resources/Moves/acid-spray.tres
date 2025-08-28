@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dnwk00kxm0iar"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bkww82fnnofgx"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_o3bnq"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_adqxu"]
 
 [resource]
-script = ExtResource("1_o3bnq")
+script = ExtResource("1_adqxu")
 id = 490
 name = "acid-spray"
 power = 40

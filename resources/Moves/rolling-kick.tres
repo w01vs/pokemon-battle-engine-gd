@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://1bh3c6e8h6r1"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://5ags1yg8dmom"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_10l6g"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_fiv5r"]
 
 [resource]
-script = ExtResource("1_10l6g")
+script = ExtResource("1_fiv5r")
 id = 26
 name = "rolling-kick"
 power = 60

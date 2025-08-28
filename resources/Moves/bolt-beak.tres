@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://d1u0tbrpcf3nb"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://d2lbu3wva020r"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ab3su"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_5un1s"]
 
 [resource]
-script = ExtResource("1_ab3su")
+script = ExtResource("1_5un1s")
 id = 753
 name = "bolt-beak"
 power = 85

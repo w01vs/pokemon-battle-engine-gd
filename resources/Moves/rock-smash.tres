@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://2tcs2sgobt4w"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bwe5mgdxgf0wi"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_qpwrc"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_46acv"]
 
 [resource]
-script = ExtResource("1_qpwrc")
+script = ExtResource("1_46acv")
 id = 248
 name = "rock-smash"
 power = 40

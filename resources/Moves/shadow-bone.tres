@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dalrcr801b6s0"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://iaamw7hc0drh"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_hebnf"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_31r8w"]
 
 [resource]
-script = ExtResource("1_hebnf")
+script = ExtResource("1_31r8w")
 id = 707
 name = "shadow-bone"
 power = 85

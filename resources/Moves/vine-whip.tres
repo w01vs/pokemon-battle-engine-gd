@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dt843ip8ytr08"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://sy1c6rxdfusl"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_6ni3f"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_3qh4u"]
 
 [resource]
-script = ExtResource("1_6ni3f")
+script = ExtResource("1_3qh4u")
 id = 21
 name = "vine-whip"
 power = 45

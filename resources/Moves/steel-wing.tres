@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://c1co1f2rxieux"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dr7m654whcd1f"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_syvup"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_dcqvv"]
 
 [resource]
-script = ExtResource("1_syvup")
+script = ExtResource("1_dcqvv")
 id = 210
 name = "steel-wing"
 power = 70

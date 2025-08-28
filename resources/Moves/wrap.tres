@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cl57nb6kmwali"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dfb3r1y4siv4j"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_21ogt"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_p2vjl"]
 
 [resource]
-script = ExtResource("1_21ogt")
+script = ExtResource("1_p2vjl")
 id = 34
 name = "wrap"
 power = 15

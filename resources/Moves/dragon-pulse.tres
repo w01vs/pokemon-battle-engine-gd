@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cre5e6h3xbuq1"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cvs6hukhd8v2y"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_5awug"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_wf3ib"]
 
 [resource]
-script = ExtResource("1_5awug")
+script = ExtResource("1_wf3ib")
 id = 405
 name = "dragon-pulse"
 power = 85

@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://qgkd7f8asmrm"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://up8yrxhg1qja"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_1y4ml"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_qxhnn"]
 
 [resource]
-script = ExtResource("1_1y4ml")
+script = ExtResource("1_qxhnn")
 id = 779
 name = "pyro-ball"
 power = 120

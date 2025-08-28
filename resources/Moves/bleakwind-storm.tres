@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dnio5ernjwhus"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bx68hgk3tqowe"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_6f55l"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_x7u8h"]
 
 [resource]
-script = ExtResource("1_6f55l")
+script = ExtResource("1_x7u8h")
 id = 845
 name = "bleakwind-storm"
 power = 100
@@ -12,18 +12,24 @@ priority = 0
 pp = 10
 type = 7
 target = 1
-ailment = {}
+ailment = {
+"ailment": 0.0,
+"ailment_chance": 0.0
+}
 damage_type = 0
 crit_rate = 0
 drain = 0
 flinch_chance = 0
 healing = 0
-max_hits = 0
-max_turns = 0
-min_hits = 0
-min_turns = 0
-stat_chance = 0
-stat_changes = []
+max_hits = -1
+max_turns = -1
+min_hits = -1
+min_turns = -1
+stat_chance = 30
+stat_changes = [{
+"change": -1.0,
+"stat": 3.0
+}]
 completed = false
 unique_effect = false
 move_type = 0

@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://ds5n8w4foq6j2"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bjsxa8rx54b4j"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_7u5ke"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_6ylpy"]
 
 [resource]
-script = ExtResource("1_7u5ke")
+script = ExtResource("1_6ylpy")
 id = 122
 name = "smog"
 power = 30

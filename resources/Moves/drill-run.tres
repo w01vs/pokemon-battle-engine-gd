@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://lt8dk7xdktin"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://pyrubltxuh2c"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_kefva"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_xf4se"]
 
 [resource]
-script = ExtResource("1_kefva")
+script = ExtResource("1_xf4se")
 id = 528
 name = "drill-run"
 power = 80

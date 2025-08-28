@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://kventn7j5l57"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cod17gbwbvglk"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ssb1u"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_2u5v0"]
 
 [resource]
-script = ExtResource("1_ssb1u")
+script = ExtResource("1_2u5v0")
 id = 580
 name = "misty-terrain"
 power = -1

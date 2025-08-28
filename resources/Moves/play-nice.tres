@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://mfyy16vymwch"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://csftrwqnhxhky"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_sehom"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_02j25"]
 
 [resource]
-script = ExtResource("1_sehom")
+script = ExtResource("1_02j25")
 id = 588
 name = "play-nice"
 power = -1

@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bm1vok67ecbf"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://d4cv8wovndlrc"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_g1rdu"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_wrvvl"]
 
 [resource]
-script = ExtResource("1_g1rdu")
+script = ExtResource("1_wrvvl")
 id = 814
 name = "scorching-sands"
 power = 70

@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cx70u3p4hv4ul"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://i4g6n1g1ebrd"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_f83k5"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_dn4ha"]
 
 [resource]
-script = ExtResource("1_f83k5")
+script = ExtResource("1_dn4ha")
 id = 18
 name = "fly"
 power = 90

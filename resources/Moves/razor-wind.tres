@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://d1412xh4l77gm"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cqadgeon2q2hh"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_fyw86"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_b6wlf"]
 
 [resource]
-script = ExtResource("1_fyw86")
+script = ExtResource("1_b6wlf")
 id = 12
 name = "razor-wind"
 power = 80

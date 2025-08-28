@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://t254ljnv3wsf"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bpk35kyo5wuk1"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_lsduh"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_30wdw"]
 
 [resource]
-script = ExtResource("1_lsduh")
+script = ExtResource("1_30wdw")
 id = 83
 name = "thunder-shock"
 power = 40

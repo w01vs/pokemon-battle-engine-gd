@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b6rq55fag744m"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://skavgnra2hv5"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ohm0y"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_803tc"]
 
 [resource]
-script = ExtResource("1_ohm0y")
+script = ExtResource("1_803tc")
 id = 444
 name = "captivate"
 power = -1

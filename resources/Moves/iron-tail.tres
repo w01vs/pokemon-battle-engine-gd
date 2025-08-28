@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dy2tvo1uqcpwe"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://drcddk16xm000"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_5dv75"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_vjlve"]
 
 [resource]
-script = ExtResource("1_5dv75")
+script = ExtResource("1_vjlve")
 id = 230
 name = "iron-tail"
 power = 100

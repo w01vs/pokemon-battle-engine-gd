@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bfwrbxgusmadd"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://xqlvd2inqnfp"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ouba0"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_84tdw"]
 
 [resource]
-script = ExtResource("1_ouba0")
+script = ExtResource("1_84tdw")
 id = 182
 name = "mach-punch"
 power = 40

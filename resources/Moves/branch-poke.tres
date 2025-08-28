@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://kwcjhnb5dtm5"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://ccils2a0plst8"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ucvtg"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_x565m"]
 
 [resource]
-script = ExtResource("1_ucvtg")
+script = ExtResource("1_x565m")
 id = 784
 name = "branch-poke"
 power = 40

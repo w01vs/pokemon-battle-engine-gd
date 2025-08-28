@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://h3alukonnthd"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://26qisbd8ggaf"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_t08hj"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_612cj"]
 
 [resource]
-script = ExtResource("1_t08hj")
+script = ExtResource("1_612cj")
 id = 461
 name = "crush-grip"
 power = -1

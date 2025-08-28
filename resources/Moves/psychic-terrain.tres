@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b6elg2cr7hosm"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cde5q2jsxw5j7"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_quehc"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_io3k4"]
 
 [resource]
-script = ExtResource("1_quehc")
+script = ExtResource("1_io3k4")
 id = 677
 name = "psychic-terrain"
 power = -1

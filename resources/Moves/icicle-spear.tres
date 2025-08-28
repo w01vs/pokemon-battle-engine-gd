@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://cy88mlrxojb6p"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://ceut847foshv3"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_5kxas"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_o7lib"]
 
 [resource]
-script = ExtResource("1_5kxas")
+script = ExtResource("1_o7lib")
 id = 332
 name = "icicle-spear"
 power = 25

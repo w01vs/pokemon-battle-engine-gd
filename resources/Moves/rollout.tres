@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://b02niiikvawn1"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://rmrvv0t0bm63"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_x01uc"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_3h05a"]
 
 [resource]
-script = ExtResource("1_x01uc")
+script = ExtResource("1_3h05a")
 id = 204
 name = "rollout"
 power = 30

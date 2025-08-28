@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://drjoabs7budgt"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://bxoblges832fs"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_kd7ju"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_ngof1"]
 
 [resource]
-script = ExtResource("1_kd7ju")
+script = ExtResource("1_ngof1")
 id = 367
 name = "metal-burst"
 power = -1

@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://da01lxq2tny1k"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://coukpepmcyce2"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_fsujy"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_dhdev"]
 
 [resource]
-script = ExtResource("1_fsujy")
+script = ExtResource("1_dhdev")
 id = 371
 name = "assurance"
 power = 60

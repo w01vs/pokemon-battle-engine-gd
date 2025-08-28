@@ -1,9 +1,9 @@
-[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://dlyp5megfwsc3"]
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://hg0oioppcepy"]
 
-[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_00fly"]
+[ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_r1dtk"]
 
 [resource]
-script = ExtResource("1_00fly")
+script = ExtResource("1_r1dtk")
 id = 523
 name = "frost-breath"
 power = 60
