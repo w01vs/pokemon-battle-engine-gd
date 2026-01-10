@@ -1,18 +1,28 @@
-extends Node2D
+extends Node
 
-@onready var display: RichTextLabel = $"UI/display"
+@onready var display: RichTextLabel = $"../display"
 
-var trainer = preload("res://resources/test_trainer.tres")
-var player = preload("res://resources/player.tres")
-@onready var battle_controller: BattleController = $"BattleController"
+var _trainer = preload("res://resources/test_trainer.tres").duplicate_deep(Resource.DEEP_DUPLICATE_ALL)
+var _player = preload("res://resources/player.tres").duplicate_deep(Resource.DEEP_DUPLICATE_ALL)
+@onready var battle_controller: BattleController = $BattleController
 
 func _ready() -> void:
-	for team in [trainer, player]:
-		for pokemon in team.team:
+	for trainer in [_trainer, _player]:
+		for pokemon in trainer.team:
 			pokemon.hp = pokemon._hp_stat
-	ResourceGenerator.update_moves_jsontoresource()
+			pokemon.max_hp = pokemon.hp
+			pokemon.speed = pokemon._speed_stat
+	#ResourceGenerator.update_moves_jsontoresource()
+	battle_controller.initialise(_player, _trainer)
+	battle_controller.update_text.connect(_update_display)
+	
 
+@warning_ignore("unused_parameter")
 func _physics_process(delta: float) -> void:
 	if Input.is_action_just_pressed("start") and battle_controller._state == BattleController.BattleState.BATTLE_START:
-		battle_controller.start(player, trainer)
+		battle_controller.start(_player, _trainer)
 		display.text = "battling...."
+
+
+func _update_display(text: String) -> void:
+	display.text = text

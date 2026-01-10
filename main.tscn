@@ -3,31 +3,26 @@
 [ext_resource type="Script" uid="uid://xiwr58tv21s8" path="res://scripts/main.gd" id="1_ig7tw"]
 [ext_resource type="Script" uid="uid://b87krkq20jnbw" path="res://scripts/battle_controller.gd" id="2_lquwl"]
 [ext_resource type="PackedScene" uid="uid://c2jqx7jg7k8g1" path="res://slot.tscn" id="6_7mycd"]
-[ext_resource type="PackedScene" uid="uid://bwfijbcdbnmf5" path="res://move_choose.tscn" id="7_272bh"]
+[ext_resource type="PackedScene" uid="uid://be6fkocydvmi6" path="res://move_choose.tscn" id="7_272bh"]
 
-[node name="BattleScene" type="Node2D"]
-script = ExtResource("1_ig7tw")
+[node name="UI" type="CanvasLayer"]
 
-[node name="BattleController" type="Node" parent="."]
-script = ExtResource("2_lquwl")
-
-[node name="UI" type="CanvasLayer" parent="."]
-
-[node name="PlayerSlot" parent="UI" node_paths=PackedStringArray("controller") instance=ExtResource("6_7mycd")]
+[node name="PlayerSlot" parent="." node_paths=PackedStringArray("_controller") instance=ExtResource("6_7mycd")]
 anchor_left = 0.233507
 anchor_top = 0.489198
 anchor_right = 0.442708
 anchor_bottom = 0.891975
-controller = NodePath("../../BattleController")
+_controller = NodePath("../Node/BattleController")
+_slot = 1
 
-[node name="TrainerSlot" parent="UI" node_paths=PackedStringArray("controller") instance=ExtResource("6_7mycd")]
+[node name="TrainerSlot" parent="." node_paths=PackedStringArray("_controller") instance=ExtResource("6_7mycd")]
 anchor_left = 0.510417
 anchor_top = 0.111111
 anchor_right = 0.721354
 anchor_bottom = 0.513889
-controller = NodePath("../../BattleController")
+_controller = NodePath("../Node/BattleController")
 
-[node name="MoveChoose" parent="UI" instance=ExtResource("7_272bh")]
+[node name="MoveChoose" parent="." node_paths=PackedStringArray("_controller") instance=ExtResource("7_272bh")]
 anchors_preset = -1
 anchor_left = 0.654514
 anchor_top = 0.725309
@@ -35,9 +30,11 @@ anchor_right = 0.99132
 anchor_bottom = 0.987654
 grow_horizontal = 1
 grow_vertical = 1
+side = 1
+_controller = NodePath("../Node/BattleController")
 metadata/_edit_use_anchors_ = true
 
-[node name="display" type="RichTextLabel" parent="UI"]
+[node name="display" type="RichTextLabel" parent="."]
 anchors_preset = -1
 anchor_left = 0.293403
 anchor_top = 0.0416667
@@ -46,4 +43,10 @@ anchor_bottom = 0.103395
 text = "click q to start battle"
 metadata/_edit_use_anchors_ = true
 
-[connection signal="pokemon_swap" from="BattleController" to="UI/MoveChoose" method="_on_battle_controller_pokemon_swap"]
+[node name="Node" type="Node" parent="."]
+script = ExtResource("1_ig7tw")
+
+[node name="BattleController" type="Node" parent="Node"]
+script = ExtResource("2_lquwl")
+
+[connection signal="pokemon_swap" from="Node/BattleController" to="MoveChoose" method="_on_battle_controller_pokemon_swap"]

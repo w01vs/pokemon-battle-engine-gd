@@ -6,6 +6,7 @@
 
 [resource]
 script = ExtResource("1_slv00")
+npc = true
 name = "trainer"
 team = Array[ExtResource("2_mxr7j")]([ExtResource("3_mxr7j")])
 metadata/_custom_type_script = "uid://cb54lrvhldq1n"

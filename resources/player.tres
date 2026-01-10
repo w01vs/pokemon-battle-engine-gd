@@ -1,10 +1,11 @@
-[gd_resource type="Resource" script_class="Trainer" load_steps=3 format=3 uid="uid://cfrj16huwatdc"]
+[gd_resource type="Resource" script_class="Trainer" load_steps=4 format=3 uid="uid://cfrj16huwatdc"]
 
 [ext_resource type="Script" uid="uid://cb54lrvhldq1n" path="res://scripts/trainer.gd" id="1_dk6ju"]
 [ext_resource type="Script" uid="uid://uyn1i3ws3tdd" path="res://scripts/pokemon.gd" id="2_yl67e"]
+[ext_resource type="Resource" uid="uid://drws0pynre3dw" path="res://resources/pikachu.tres" id="3_yl67e"]
 
 [resource]
 script = ExtResource("1_dk6ju")
 name = "Player"
-team = Array[ExtResource("2_yl67e")]([])
+team = Array[ExtResource("2_yl67e")]([ExtResource("3_yl67e")])
 metadata/_custom_type_script = "uid://cb54lrvhldq1n"

@@ -1,18 +1,24 @@
 extends Control
 
-@onready var label: RichTextLabel = $"RichTextLabel"
-@onready var hp_display: RichTextLabel = $"hp"
+@onready var _label: RichTextLabel = $"RichTextLabel"
+@onready var _hp_display: RichTextLabel = $"hp"
 
-@export var controller: BattleController
-@export var _slot: BattleController.UI
+@export var _controller: BattleController
+@export var _slot: BattleController.Side
 
 var _max_hp: int = 0
 var _hp: int = 0
 
 func _ready() -> void:
-	controller.pokemon_hp_changed.connect(_update_hp)
+	_controller.pokemon_hp_changed.connect(_update_hp)
+	_controller.pokemon_swap.connect(_swap_pokemon)
 
-func _update_hp(hp: int, slot: BattleController.UI) -> void:
+func _swap_pokemon(pokemon: Pokemon, slot: BattleController.Side) -> void:
+	if slot == _slot:
+		_label.text = pokemon.name
+		_hp_display.text = str(pokemon.hp)
+
+func _update_hp(hp: int, slot: BattleController.Side) -> void:
 	if slot == _slot:
 		_hp = hp
-		hp_display.text = "%d / %d" % [_hp, _max_hp]
+		_hp_display.text = "%d / %d" % [_hp, _max_hp]
