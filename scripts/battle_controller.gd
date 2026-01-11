@@ -3,10 +3,7 @@ class_name BattleController extends Node
 var _player_bottom: Trainer
 var _player_top: Trainer
 
-var _active_pokemon_bottom: Pokemon
-var _active_pokemon_top: Pokemon
-
-var _on_field: Array[Pokemon] = [_active_pokemon_bottom, _active_pokemon_top]
+var combatants: Dictionary[int, Combatant]
 
 enum WEATHER { RAIN, SNOW, SUN, SAND, NONE }
 
@@ -19,9 +16,6 @@ var _terrain: TERRAIN = TERRAIN.NONE
 @warning_ignore("unused_private_class_variable")
 var _weather: WEATHER = WEATHER.NONE
 
-var _bottom_move: Move
-var _top_move: Move
-
 enum Side { TOP, BOTTOM }
 # SLOT1 = PLAYER
 # SLOT2 = OPPONENT
@@ -29,8 +23,10 @@ enum Side { TOP, BOTTOM }
 var _state: BattleState = BattleState.BATTLE_START
 
 @warning_ignore("unused_signal")
-signal pokemon_hp_changed(hp: int, slot: Side)
-signal pokemon_swap(pokemon: Pokemon, slot: Side)
+signal pokemon_hp_changed(id: int, hp: int)
+@warning_ignore("unused_signal")
+signal pokemon_swap(id: int, pokemon: Pokemon)
+signal pokemon_start(id: int, pokemon: Pokemon, side: Side)
 signal update_text(text: String)
 
 func initialise(player_bottom: Trainer, player_top: Trainer) -> void:
@@ -40,19 +36,17 @@ func initialise(player_bottom: Trainer, player_top: Trainer) -> void:
 @warning_ignore("unused_parameter")
 func start(player: Trainer, opponent: Trainer) -> void:
 	# throw out pokemon
-	set_active_pokemon(Side.BOTTOM, _player_bottom.get_active_pokemon())
-	set_active_pokemon(Side.TOP, _player_top.get_active_pokemon())
-	pokemon_swap.emit(_active_pokemon_top, Side.TOP)
-	pokemon_swap.emit(_active_pokemon_bottom, Side.BOTTOM)
+	var p1: Combatant = set_active_pokemon(_player_bottom.get_active_pokemon(), Side.BOTTOM, false)
+	var p2: Combatant = set_active_pokemon(_player_top.get_active_pokemon(), Side.TOP, true)
+	pokemon_start.emit(p1.id, p1.resource, Side.BOTTOM)
+	pokemon_start.emit(p1.id, p2.resource, Side.TOP)
 	# move to turnstart
 	_state = BattleState.TURN_START
 
-func set_active_pokemon(slot: BattleController.Side, pokemon: Pokemon) -> void:
-	match slot:
-		Side.BOTTOM:
-			_active_pokemon_bottom = pokemon
-		Side.TOP:
-			_active_pokemon_top = pokemon
+func set_active_pokemon(pokemon: Pokemon, side: BattleController.Side, ai: bool) -> Combatant:
+	var combatant: Combatant = Combatant.new(pokemon, side, 0, ai)
+	combatants[combatant.id] = combatant
+	return combatant
 
 
 @warning_ignore("unused_parameter")
@@ -61,49 +55,70 @@ func _process(delta: float) -> void:
 		BattleState.BATTLE_START:
 			pass
 		BattleState.TURN_START:
-			for pokemon in _on_field:
+			for pokemon in combatants.values():
 				#pokemon.ability.on_turn_start()
 				pass
 			_state = BattleState.PLAYER_CHOICE
 		BattleState.PLAYER_CHOICE:
-			if _player_bottom.npc and not _bottom_move:
-				_bottom_move = _pick_move(BattleController.Side.BOTTOM)
-			if _player_top.npc and not _top_move:
-				_top_move = _pick_move(BattleController.Side.TOP)
-			
-			if _top_move and _bottom_move:
+			var move_ready: bool = true
+			for comb in combatants.values():
+				if comb._ai:
+					_pick_move(comb.id)
+				move_ready = comb.ready && move_ready
+			if move_ready:
 				_state = BattleState.MOVE_EXEC
 		BattleState.MOVE_EXEC:
 			# move order
-			var order: Array = []
-			if _active_pokemon_bottom.speed == _active_pokemon_top.speed:
-				if randf() > 0.5:
-					order.append(BattleController.Side.TOP)
-					order.append(BattleController.Side.BOTTOM)
-				else:
-					order.append(BattleController.Side.BOTTOM)
-					order.append(BattleController.Side.TOP)
-			elif _active_pokemon_bottom.speed > _active_pokemon_top.speed:
-				order.append(BattleController.Side.BOTTOM)
-				order.append(BattleController.Side.TOP)
-			else:
-				order.append(BattleController.Side.TOP)
-				order.append(BattleController.Side.BOTTOM)
-			
-			update_text.emit("order: " + BattleController.Side.keys()[order[0]] + " -> " + BattleController.Side.keys()[order[1]])
+			var order: Array[Combatant] = combatants.values()
+			#weather?
+			#terrain?
+			order.sort_custom(speed_sort)
+			#ailments?
+			#trickroom etc?
+			update_text.emit("order: " + order[0].resource.name + " -> " + order[1].resource.name)
+			# do the actual moves.
 			
 
-func _pick_move(side: BattleController.Side) -> Move:
-	match side:
-		Side.BOTTOM:
-			return _active_pokemon_bottom.move1
-		Side.TOP:
-			return _active_pokemon_top.move1
-	return null
+func speed_sort(a: Combatant, b: Combatant) -> bool:
+	if a.resource.speed == b.resource.speed:
+		if randf() > 0.5:
+			return true
+		else:
+			return false
+	if a.resource.speed > b.resource.speed:
+		return true
+	else:
+		return false
 
-func _receive_move(move: Move, side: BattleController.Side) -> void:
-	match side:
-		Side.BOTTOM:
-			_bottom_move = move
-		Side.TOP:
-			_top_move = move
+func _pick_move(id: int) -> void:
+	combatants[id].selected_move_idx = 1
+	combatants[id].selected_targets = get_opposing_pokemon(id)
+	combatants[id].ready = true
+
+
+func _receive_move(moveidx: int, id: int, targets: Array[Combatant]) -> void:
+	if combatants.has(id):
+		combatants[id].selected_move_idx = moveidx
+		combatants[id].selected_targets = targets
+		combatants[id].ready = true
+
+func get_pokemon_id(side: BattleController.Side, slot: int) -> int:
+	return combatants.values()[combatants.values().find_custom(func(comb): return comb.side == side && comb.slot == slot)].id
+
+func get_pokemon(side: BattleController.Side, slot: int) -> Combatant:
+	return combatants.values()[combatants.values().find_custom(func(comb): return comb.side == side && comb._slot == slot)]
+
+func get_pokemon_by_id(id: int) -> Combatant:
+	return combatants[id]
+
+func get_opposing_pokemon(id: int) -> Array[Combatant]:
+	var res: Array[Combatant]
+	for c in combatants.values():
+		if c.side != combatants[id].side:
+			res.append(c)
+	return res
+
+func apply_move(userid: int, targets: Array[Combatant]) -> void:
+	var user: Combatant = combatants[userid]
+	
+	

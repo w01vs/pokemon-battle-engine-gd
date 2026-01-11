@@ -31,7 +31,7 @@ anchor_bottom = 0.419753
 text = "MoveName"
 metadata/_edit_use_anchors_ = true
 
-[node name="Button3" type="Button" parent="."]
+[node name="Button4" type="Button" parent="."]
 layout_mode = 1
 anchors_preset = -1
 anchor_left = 0.481771
@@ -41,7 +41,7 @@ anchor_bottom = 0.949074
 text = "MoveName"
 metadata/_edit_use_anchors_ = true
 
-[node name="Button4" type="Button" parent="."]
+[node name="Button3" type="Button" parent="."]
 layout_mode = 1
 anchors_preset = -1
 anchor_left = 0.0164931
@@ -53,5 +53,5 @@ metadata/_edit_use_anchors_ = true
 
 [connection signal="pressed" from="Button" to="." method="_on_move1"]
 [connection signal="pressed" from="Button2" to="." method="_on_move2"]
-[connection signal="pressed" from="Button3" to="." method="_on_move4"]
-[connection signal="pressed" from="Button4" to="." method="_on_move3"]
+[connection signal="pressed" from="Button4" to="." method="_on_move4"]
+[connection signal="pressed" from="Button3" to="." method="_on_move3"]

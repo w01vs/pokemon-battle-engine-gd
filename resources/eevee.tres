@@ -1,9 +1,9 @@
 [gd_resource type="Resource" script_class="Pokemon" load_steps=6 format=3 uid="uid://ddba60tee8xo6"]
 
 [ext_resource type="Script" uid="uid://b8k4xlbvnaucc" path="res://scripts/move.gd" id="1_c2c7c"]
-[ext_resource type="Resource" uid="uid://htwegor8jeoc" path="res://resources/Moves/tackle.tres" id="1_qa8tj"]
+[ext_resource type="Resource" uid="uid://bbobtomujmcv8" path="res://resources/Moves/tackle.tres" id="1_qa8tj"]
 [ext_resource type="Script" uid="uid://uyn1i3ws3tdd" path="res://scripts/pokemon.gd" id="2_cv2iv"]
-[ext_resource type="Resource" uid="uid://du410wh7tsqd0" path="res://resources/Moves/bite.tres" id="2_qa8tj"]
+[ext_resource type="Resource" uid="uid://64gh4a517f8v" path="res://resources/Moves/bite.tres" id="2_qa8tj"]
 [ext_resource type="Texture2D" uid="uid://c6xhq714poma7" path="res://images/eevee.png" id="4_8dpgc"]
 
 [resource]
@@ -15,7 +15,6 @@ _def_stat = 20
 _speed_stat = 9
 _primary_type = 12
 _secondary_type = 18
-move1 = ExtResource("1_qa8tj")
-move2 = ExtResource("2_qa8tj")
+moves = Array[ExtResource("1_c2c7c")]([ExtResource("1_qa8tj"), ExtResource("2_qa8tj")])
 texture = ExtResource("4_8dpgc")
 metadata/_custom_type_script = "uid://uyn1i3ws3tdd"

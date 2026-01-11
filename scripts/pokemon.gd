@@ -21,8 +21,7 @@ var max_hp: int
 var speed: int
 
 @export var movepool: Array[Move]
-@export var move1: Move
-@export var move2: Move
+@export var moves: Array[Move]
 
 @export var texture: Texture2D
 

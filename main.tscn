@@ -13,7 +13,7 @@ anchor_top = 0.489198
 anchor_right = 0.442708
 anchor_bottom = 0.891975
 _controller = NodePath("../Node/BattleController")
-_slot = 1
+_side = 1
 
 [node name="TrainerSlot" parent="." node_paths=PackedStringArray("_controller") instance=ExtResource("6_7mycd")]
 anchor_left = 0.510417
@@ -30,7 +30,6 @@ anchor_right = 0.99132
 anchor_bottom = 0.987654
 grow_horizontal = 1
 grow_vertical = 1
-side = 1
 _controller = NodePath("../Node/BattleController")
 metadata/_edit_use_anchors_ = true
 
@@ -49,4 +48,4 @@ script = ExtResource("1_ig7tw")
 [node name="BattleController" type="Node" parent="Node"]
 script = ExtResource("2_lquwl")
 
-[connection signal="pokemon_swap" from="Node/BattleController" to="MoveChoose" method="_on_battle_controller_pokemon_swap"]
+[connection signal="pokemon_start" from="Node/BattleController" to="MoveChoose" method="_on_battle_controller_pokemon_swap"]
