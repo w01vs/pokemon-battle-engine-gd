@@ -8,7 +8,6 @@ id = 663
 name = "sparkling-aria"
 power = 90
 accuracy = 100
-priority = 0
 pp = 10
 type = 17
 target = 0
@@ -16,17 +15,4 @@ ailment = {
 "ailment": 0.0,
 "ailment_chance": 0.0
 }
-damage_type = 0
-crit_rate = 0
-drain = 0
-flinch_chance = 0
-healing = 0
-max_hits = -1
-max_turns = -1
-min_hits = -1
-min_turns = -1
-stat_chance = 0
-stat_changes = []
-completed = false
 unique_effect = true
-move_type = 0

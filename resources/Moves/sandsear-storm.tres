@@ -8,24 +8,9 @@ id = 847
 name = "sandsear-storm"
 power = 100
 accuracy = 80
-priority = 0
 pp = 10
 type = 10
 target = 1
 ailment = {
 "ailment": 4.0
 }
-damage_type = 0
-crit_rate = 0
-drain = 0
-flinch_chance = 0
-healing = 0
-max_hits = -1
-max_turns = -1
-min_hits = -1
-min_turns = -1
-stat_chance = 0
-stat_changes = []
-completed = false
-unique_effect = false
-move_type = 0

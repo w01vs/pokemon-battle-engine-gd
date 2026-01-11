@@ -6,7 +6,6 @@
 script = ExtResource("1_q7rb8")
 id = 851
 name = "silk-trap"
-power = 0
 accuracy = -1
 priority = 4
 pp = 10
@@ -17,16 +16,4 @@ ailment = {
 "ailment_chance": 0.0
 }
 damage_type = 2
-crit_rate = 0
-drain = 0
-flinch_chance = 0
-healing = 0
-max_hits = -1
-max_turns = -1
-min_hits = -1
-min_turns = -1
-stat_chance = 0
-stat_changes = []
-completed = false
 unique_effect = true
-move_type = 0

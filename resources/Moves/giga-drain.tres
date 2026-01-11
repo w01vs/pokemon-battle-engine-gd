@@ -8,25 +8,11 @@ id = 201
 name = "giga-drain"
 power = 75
 accuracy = 100
-priority = 0
 pp = 10
 type = 9
-target = 3
 ailment = {
 "ailment": 0.0,
 "ailment_chance": 0.0
 }
-damage_type = 0
-crit_rate = 0
 drain = 50
-flinch_chance = 0
-healing = 0
-max_hits = -1
-max_turns = -1
-min_hits = -1
-min_turns = -1
-stat_chance = 0
-stat_changes = []
-completed = false
-unique_effect = false
 move_type = 8

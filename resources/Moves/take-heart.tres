@@ -6,9 +6,7 @@
 script = ExtResource("1_jwxye")
 id = 849
 name = "take-heart"
-power = 0
 accuracy = -1
-priority = 0
 pp = 10
 type = 14
 target = 2
@@ -17,14 +15,6 @@ ailment = {
 "ailment_chance": 0.0
 }
 damage_type = 2
-crit_rate = 0
-drain = 0
-flinch_chance = 0
-healing = 0
-max_hits = -1
-max_turns = -1
-min_hits = -1
-min_turns = -1
 stat_chance = 100
 stat_changes = [{
 "change": 1.0,
@@ -33,6 +23,4 @@ stat_changes = [{
 "change": 1.0,
 "stat": 2.0
 }]
-completed = false
 unique_effect = true
-move_type = 0

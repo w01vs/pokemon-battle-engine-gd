@@ -6,9 +6,7 @@
 script = ExtResource("1_ib1fe")
 id = 867
 name = "fillet-away"
-power = 0
 accuracy = -1
-priority = 0
 pp = 10
 type = 12
 target = 7
@@ -17,14 +15,7 @@ ailment = {
 "ailment_chance": 0.0
 }
 damage_type = 2
-crit_rate = 0
-drain = 0
-flinch_chance = 0
 healing = -50
-max_hits = -1
-max_turns = -1
-min_hits = -1
-min_turns = -1
 stat_chance = 100
 stat_changes = [{
 "change": 2.0,
@@ -36,6 +27,3 @@ stat_changes = [{
 "change": 2.0,
 "stat": 5.0
 }]
-completed = false
-unique_effect = false
-move_type = 0

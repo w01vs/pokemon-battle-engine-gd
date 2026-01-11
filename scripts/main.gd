@@ -12,6 +12,7 @@ func _ready() -> void:
 			pokemon.hp = pokemon._hp_stat
 			pokemon.max_hp = pokemon.hp
 			pokemon.speed = pokemon._speed_stat
+			pokemon.moves[0].damage_type = Global.DamageType.SPECIAL
 	#ResourceGenerator.update_moves_jsontoresource()
 	battle_controller.initialise(_player, _trainer)
 	battle_controller.update_text.connect(_update_display)
