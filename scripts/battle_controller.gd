@@ -3,6 +3,9 @@ class_name BattleController extends Node
 var _player_bottom: Trainer
 var _player_top: Trainer
 
+var LEVEL: int = 1
+
+
 var combatants: Dictionary[int, Combatant]
 
 enum WEATHER { RAIN, SNOW, SUN, SAND, NONE }
@@ -120,5 +123,24 @@ func get_opposing_pokemon(id: int) -> Array[Combatant]:
 
 func apply_move(userid: int, targets: Array[Combatant]) -> void:
 	var user: Combatant = combatants[userid]
-	
-	
+	var target: Combatant = targets[0]
+	var move: Move = user.resource.moves[user.selected_move_idx]
+	if move.damage_type != Global.DamageType.STATUS:
+		# roll crit chance here
+		var crit: float = 1.5
+		# check stab here
+		var stab: float = 1.5
+		var burn: float = 1
+		var type_effectiveness: float = 1
+		var damage: float = ((2*LEVEL) / 5 + 2) * move.power * user.resource.atk_stat / target.resource.def_stat / 50 + 2
+		var dmg_with_mul: float = damage \
+									* targets.size() \
+									#* parental bond stat \
+									#* weather \
+									#* glaiverush \
+									* crit \
+									* randf_range(0.85, 1.0) \
+									* stab \
+									* burn
+		target.resource.hp = roundf(dmg_with_mul)
+		

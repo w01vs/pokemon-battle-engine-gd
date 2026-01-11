@@ -32,18 +32,19 @@ func _on_battle_controller_pokemon_swap(id: int, pokemon: Pokemon, side: BattleC
 				movebuttons[idx].text = ""
 				movebuttons[idx].disabled = true
 
-func _on_move1() -> void:
+func send_move(idx: int) -> void:
+	#@need more target selection things
 	var target: Combatant = _controller.get_pokemon(_side, opposite())
-	_controller._receive_move(0, _id, [target])
+	_controller._receive_move(idx, _id, [target])
+
+func _on_move1() -> void:
+	send_move(0)
 
 func _on_move2() -> void:
-	var target: Combatant = _controller.get_pokemon(_side, opposite())
-	_controller._receive_move(1, _id, [target])
+	send_move(1)
 
 func _on_move3() -> void:
-	#_controller._receive_move(_move3, side)
-	pass
+	send_move(2)
 
 func _on_move4() -> void:
-	#_controller._receive_move(_move4, side)
-	pass
+	send_move(3)
