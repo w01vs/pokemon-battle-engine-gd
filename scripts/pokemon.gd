@@ -11,6 +11,10 @@ class_name Pokemon extends Resource
 @warning_ignore("unused_private_class_variable")
 @export var _speed_stat: int
 @warning_ignore("unused_private_class_variable")
+@export var _special_def_stat: int
+@warning_ignore("unused_private_class_variable")
+@export var _special_attack_stat: int
+@warning_ignore("unused_private_class_variable")
 @export var _primary_type: Global.Type
 @warning_ignore("unused_private_class_variable")
 @export var _secondary_type: Global.Type
@@ -22,7 +26,12 @@ var speed: int
 
 @export var movepool: Array[Move]
 @export var moves: Array[Move]
+var power_points: Array[int]
 
 @export var texture: Texture2D
 
 @export var ability: Ability
+
+func _init() -> void:
+	for i in range(0, moves.size()):
+		power_points[i] = moves[i].pp

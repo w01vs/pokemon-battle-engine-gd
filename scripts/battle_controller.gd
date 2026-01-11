@@ -127,11 +127,13 @@ func apply_move(userid: int, targets: Array[Combatant]) -> void:
 	var move: Move = user.resource.moves[user.selected_move_idx]
 	if move.damage_type != Global.DamageType.STATUS:
 		# roll crit chance here
-		var crit: float = 1.5
+		var crit: float = 1.5 if randf_range(0, 100) <= 6.25 else 1
 		# check stab here
-		var stab: float = 1.5
+		var stab: float = 1.5 if user.resource._primary_type == move.type or user.resource._secondary_type == move.type else 1
 		var burn: float = 1
-		var type_effectiveness: float = 1
+		var type_effectiveness: float = Global.type_chart[move.type][target.resource._primary_type]
+		if target.resource._secondary_type != Global.Type.NONE:
+			type_effectiveness *= Global.type_chart[move.type][target.resource._secondary_type]
 		var damage: float = ((2*LEVEL) / 5 + 2) * move.power * user.resource.atk_stat / target.resource.def_stat / 50 + 2
 		var dmg_with_mul: float = damage \
 									* targets.size() \
@@ -142,5 +144,5 @@ func apply_move(userid: int, targets: Array[Combatant]) -> void:
 									* randf_range(0.85, 1.0) \
 									* stab \
 									* burn
-		target.resource.hp = roundf(dmg_with_mul)
-		
+		target.resource.hp -= roundf(dmg_with_mul)
+		target.resource.hp = clamp(target.resource.hp, 0, target.resource.max_hp)

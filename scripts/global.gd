@@ -98,7 +98,7 @@ enum Type {
 }
 
 # type_chart[ATTACKING_TYPE][DEFENDING_TYPE]
-var type_chart: Dictionary = {
+static var type_chart: Dictionary = {
 	Type.BUG: {
 		Type.FIRE: 0.5,
 		Type.GRASS: 2,
